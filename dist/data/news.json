@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-10-17 12:11 UTC",
+    "updated_at": "2026-10-17 15:34 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "48bc7a7d81c9",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-17",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano: 42.6 million ADA left under the spending cap - CryptoTicker",
+      "title_zh": "Cardano: 42.6 million ADA left under the spending cap - CryptoTicker",
+      "summary_en": "Cardano: 42.6 million ADA left under the spending cap &nbsp;&nbsp; CryptoTicker",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hS0kyeU1kTjJBSkJPRFQ5NGJIckNWY04yRjk1WUpjR1Y5bVBUdktzMnRlNWNtbG5jWVI1STJ5cXNZc1dETm5GdXFOUEg1SEl3RWpCdmJzZVZ1U1VkazFtcmh3VUpPd203ZzAzX1k1clNNVVk?oc=5"
+    },
     {
       "id": "328e98aa4266",
       "topic": "cardano",
@@ -181,6 +193,18 @@
       "url": "https://danonight.com/news"
     },
     {
+      "id": "73f62958aaa9",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-12",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano (ADA) Network Marks Biggest Transaction Day Since 2021 - TradingView",
+      "title_zh": "Cardano (ADA) Network Marks Biggest Transaction Day Since 2021 - TradingView",
+      "summary_en": "Cardano (ADA) Network Marks Biggest Transaction Day Since 2021 &nbsp;&nbsp; TradingView",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVc5MzREbTByUXFwbTREdkV0QnJWdFh0NzljYU9Gd09NbUlpV01OTmdxMHk3YmFXb25aT1pySF93b2k4a1pQOHJXY0VGMS15OTdyYmZSMHc3NDhRb2NlQmM4cGVVUXI1VVJYYW9vSjF5d1FWVXd0Q1psQldOU3ZsS0tmeW1FUVZRVlBUcW5QazIwYmhnX2JPV1JpWkJjUlYwU0EyVnZlM3RWVkZXakp6MDNiYnFuVkFa?oc=5"
+    },
+    {
       "topic": "midnight",
       "type": "media",
       "date": "2026-10-10",
@@ -260,6 +284,18 @@
       "summary_zh": "开发者可直接向主网部署合约，不再必须先通过 Preprod 的安全审查。该变化仍需以官方公告与后续技术文档为准。",
       "summary_en": "Developers can deploy contracts directly to mainnet without a mandatory Preprod security review. Check the official announcement and technical docs for scope.",
       "url": "https://midnight.network/"
+    },
+    {
+      "id": "0dcc8cbfe75a",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-10-01",
+      "source": "Google News · Midnight",
+      "title_en": "Hoskinson Says Midnight Will Be Bigger Than Zcash. Cardano Is Still 92% Below Its High. Which Privacy Trade Wins? - AOL.com",
+      "title_zh": "Hoskinson Says Midnight Will Be Bigger Than Zcash. Cardano Is Still 92% Below Its High. Which Privacy Trade Wins? - AOL.com",
+      "summary_en": "Hoskinson Says Midnight Will Be Bigger Than Zcash. Cardano Is Still 92% Below Its High. Which Privacy Trade Wins? &nbsp;&nbsp; AOL.com",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0Q5NDRlaFFtUnBOSkEtSjlFYUZablpXbDUzcFJWNzI2emd4Y0UybTUxcjBXMjVndGNaYVM2U003cWlSeTlYQng0ZkhEbEJSd0lyOWstX2hCYXNSMURQZWpnWW5BcmNfWWcxeFJuSi1UNlFEN1BoblpSQ2Qtd3l6WWQwUlRhTzg?oc=5"
     },
     {
       "id": "98e22e6ecdae",

@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-10-17 22:18 UTC",
+    "updated_at": "2026-10-18 04:33 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "ff3ccb3adb63",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-18",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Prediction: $1 ADA or $1 AlphaPepe? The Same Target Could Produce Very Different Returns - TechBullion",
+      "title_zh": "Cardano Price Prediction: $1 ADA or $1 AlphaPepe? The Same Target Could Produce Very Different Returns - TechBullion",
+      "summary_en": "Cardano Price Prediction: $1 ADA or $1 AlphaPepe? The Same Target Could Produce Very Different Returns &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY0tVT0ZyemlfWjZ5eGlTMXBVMloyVXpIa3VZdXg4SV9YMVdaX0VSVkk5VTNGYmJNaVBrU09RSHd5bXpJU2ZWWkxMcjhGZE1KbWpmV2dsX0p2RC02eTRQMUFvNVJscWR3MW5NLVNLc2VQQUNUWHM4SlktYzVKZnpYd3J4bUwtaXQ3ZnoxeElRNWdpZklSTk5kSUtJVF9XM3JDS0NBdGk0OTVvU2dTczJoMzRZMl95eVRINjk5UVJFUHc?oc=5"
+    },
     {
       "id": "48bc7a7d81c9",
       "topic": "cardano",
@@ -309,6 +321,18 @@
       "summary_en": "Midnight price: NIGHT nearly doubles in a week as the v8 upgrade nears &nbsp;&nbsp; CryptoTicker",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2N3ZTT1RaZDRqa2RXMnlraU1yaVJZb3BSSldCajUzQ2NkMzNlVFVOSm0tNDBGXzhyOC02TUJRc1Q5RXZSNlEybVNfaWJpSnFSWjFwaWk4Q0xlVHZBVjloYV9Tb2tjbVI4TXZYOEt3UGFwOG56aEE?oc=5"
+    },
+    {
+      "id": "3d48a7f130e1",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-04",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Is Now Part of the AI Agent Economy. Does That Make ADA a Buy? - Yahoo Finance",
+      "title_zh": "Cardano Is Now Part of the AI Agent Economy. Does That Make ADA a Buy? - Yahoo Finance",
+      "summary_en": "Cardano Is Now Part of the AI Agent Economy. Does That Make ADA a Buy? &nbsp;&nbsp; Yahoo Finance",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0RJVnlvby0wR2JfQUdiaXYyS1A5eUY1bjAwZFNhY0RvVEhzZFBLajkwcXpBZVJVS183SmdROUZuS3ptX290Z1lXSG04RlNBUUg3S25ZZjRFNnZfZVJLd19Fd0ZGTmF6M0NsX1AwZ2hodTVtN2lJd0hwNnZxbHFiejZnUkJkWVpVOEZuMTdWZU1LX2ps?oc=5"
     },
     {
       "id": "d0c597f8c060",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-18 12:37 UTC",
+    "updated_at": "2026-10-18 18:38 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -40,6 +40,30 @@
       "summary_en": "Cardano Price Watch: ADA Trades Near $0.224 After a Busy Transaction Epoch as Remittix Tests Bank Payments &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM05jcUNiLXVZMHFqemFabHBjUlJDT3Z5bEtySGxSdnRPS0ZDLXV5ZFlSdEowQXpmMVEwOEZpc04xVkNzZVRKT1VoYlhhLWhxSmZJM3l2ZENNaDJuVUxBZzhUbVpvQzZZOGU5eXpyUVd3c2pXaHBTeVVHVXZyU3hsSlFacW9WV01jbVdsRVQtZzNjYTdzNnh3RVdWRTNJSFNQRUZKaEtYOVZFYm03b1ktNmR1WDFmMjlkbXA1R3VqWERYYU5SeDd4Xw?oc=5"
+    },
+    {
+      "id": "23c4fa63d779",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-18",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Fell 12.6% This Week, More Than 6 Times Bitcoin’s Drop. Can ADA Hold $0.20? - 24/7 Wall St.",
+      "title_zh": "Cardano Fell 12.6% This Week, More Than 6 Times Bitcoin’s Drop. Can ADA Hold $0.20? - 24/7 Wall St.",
+      "summary_en": "Cardano Fell 12.6% This Week, More Than 6 Times Bitcoin’s Drop. Can ADA Hold $0.20? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS1BZQkNxSnRpU2xkWWFVZ0Y1ZmtXMnRLcFZRY2NzYlBtTmt1RC12d29XdTlUM25TcmtEaFUyMHN6NEFhbHkweS0zWVBlNm5jeWhzMkEzSHFSVTJBUHlXV2ZYd0JrZUQxTUR2SWF6WFk1ckU3dDdPNkpyRjdiRWxkR1UydHlJV0J4T2pURTdBZjFRVV96RmwxbDZOd095M0VRdnBMVGNrLXlMcG9rdEpKVXZEampzaENGc0FQdjIyTmN3Mm50Uy1xWjAtTWtSdmJEdVE?oc=5"
+    },
+    {
+      "id": "03cf6343bdda",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-18",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Is One Upgrade Away From Being Fully Complete, Hoskinson Declares — Will It Be Enough To Ignite ADA’s Price? - CryptoRank",
+      "title_zh": "Cardano Is One Upgrade Away From Being Fully Complete, Hoskinson Declares — Will It Be Enough To Ignite ADA’s Price? - CryptoRank",
+      "summary_en": "Cardano Is One Upgrade Away From Being Fully Complete, Hoskinson Declares — Will It Be Enough To Ignite ADA’s Price? &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQY3h0bWlRRjVwSGVpemszUk02cGp4NHgwRGlMUktVeUJtVjlMNXFSSWdnb0RoTXBjMlJQWm5GTTV2dDRkeThBNmdzcTVONTZKc0Qtc2FDQmFTUk5DMjNsZ1dBeGtfdktTTVJhbHdIQU5lQlJOTnM3cU9UekdWRFJHQjRJSWlUREpwWHlzS3ZTUzdMbFkxYUw5bG0wNnh0MFc3Vkp3cjJtR2FhdHlIRmtYdHhKdW9Za0RRbnJLaWVmX215Mjhtd295UXZXd1RGM1VXcGc3WDNPeEVqRGdHMGRoNENmOA?oc=5"
     },
     {
       "id": "48bc7a7d81c9",

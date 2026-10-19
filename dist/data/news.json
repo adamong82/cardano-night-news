@@ -1,10 +1,34 @@
 {
   "meta": {
-    "updated_at": "2026-10-18 22:26 UTC",
+    "updated_at": "2026-10-19 04:40 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "03a9c785cb97",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-19",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano rebound hinges on $0.278 recovery, technical analysis shows 73.5 percent surge scenario - 디지털투데이",
+      "title_zh": "Cardano rebound hinges on $0.278 recovery, technical analysis shows 73.5 percent surge scenario - 디지털투데이",
+      "summary_en": "Cardano rebound hinges on $0.278 recovery, technical analysis shows 73.5 percent surge scenario &nbsp;&nbsp; 디지털투데이",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV3ltSkdBQmk2ZGlDRmlWZlhaalFLZ1VEbzdyMW9OaGdTN3VLRm1MdTdmSTJIQ2ZNRGdGblo5TEk0X2dqVnN0Q3Q0VGo3SGd3ak9Sbm1fc0cyNGVQdzdkeWwwQjhlOEIwa3NYVThjcTRkSmpWRWZBZ2tKYTZGYTFJN2NRczNWMmdTdENRZ01KaDVlTG5WZE45Y2tsTDlYNzJ2RFpmQzBMbWNuSnZ3MHJBZXFWTWRhSFJNWjVFQkM1MmxWTzRnUkRzeUc0Ym1HZDlDNkpidUFkWXk?oc=5"
+    },
+    {
+      "id": "e687a10bd41e",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-19",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano seeks turnaround by linking with Bitcoin to shed 'ghost chain' label - 디지털투데이",
+      "title_zh": "Cardano seeks turnaround by linking with Bitcoin to shed 'ghost chain' label - 디지털투데이",
+      "summary_en": "Cardano seeks turnaround by linking with Bitcoin to shed 'ghost chain' label &nbsp;&nbsp; 디지털투데이",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVlQzaFh4UVI5YnJpa3VzNjd6QUJWQXA1QVFwWXIydC1aMFlyTW9EUjFOT2xrY05SWV9XUm10cHBBSFZmcXJILUxQa1dTbWFlUVEtR3BES3BCRG9vdThOOENhV2JJMW9qZ3FSQmlTTDZNRnlYWDNYNXJ6TFRuZ3F0dDVQalNpeDlqMF9Hck16alV5bEJjM3ZoS0RiZEp4MlJQWXJCUnJVOTBpckxWYk5UelpzUndaNWl2TlRwbA?oc=5"
+    },
     {
       "id": "ff3ccb3adb63",
       "topic": "cardano",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-20 04:50 UTC",
+    "updated_at": "2026-10-20 13:33 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -28,6 +28,42 @@
       "summary_en": "Cardano long downtrend near end, analyst sees $3.25 in 2027 &nbsp;&nbsp; 디지털투데이",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTZBRHE1ODZKajIyNGZkczA2MWl3UV9idXA2WUlraFMzX3IzY3Y2UTNlOUxsdi14QWxJN3VpT2IwdnI3NVFwV1VWWHVYN3hUWEFiZWNIVDRPOTRWRkdXdGZCQ28zNElsNmZIQ1l4aFg5YksxX3dkUFBDU0NxNml2Y1hyOTkwV3JKcGk0WnJWMFJPUHhJOEtrTi1yY0EzeEtZTEx5ajV3?oc=5"
+    },
+    {
+      "id": "3a941897dfd2",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-20",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano: $62m in DeFi at an $8.15bn market value - CryptoTicker",
+      "title_zh": "Cardano: $62m in DeFi at an $8.15bn market value - CryptoTicker",
+      "summary_en": "Cardano: $62m in DeFi at an $8.15bn market value &nbsp;&nbsp; CryptoTicker",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01QTZaLUlZNHFwSEluWDJTZVEyNEhpdjhWM1hTNUxOSmNzYkI3WlNzUGhNeTU3VXFLSThJOFBqTEloQmhvZmNXTnlDMVVzdjFhdnZoWmdKMm92YjRwWXBUSUpzVXVFclNJ?oc=5"
+    },
+    {
+      "id": "9f22ed977b77",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-20",
+      "source": "Google News · Cardano",
+      "title_en": "ADA Price Prediction: Cardano Founder Teases New Upgrade as Price Struggles Near $0.22 - CoinCodex",
+      "title_zh": "ADA Price Prediction: Cardano Founder Teases New Upgrade as Price Struggles Near $0.22 - CoinCodex",
+      "summary_en": "ADA Price Prediction: Cardano Founder Teases New Upgrade as Price Struggles Near $0.22 &nbsp;&nbsp; CoinCodex",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGlwZjdzckZ3LTVKbjJyd2hpSjdqdGJ0NzY4TmRubDROeUdwdVFQaGJRdWUweGJtQUJJcDQ4ZHhwS3JFMjd0YjZBeXhsXzdJYUhGM2dVYlJzeVdNZVV1Rkk2amtlczZsaHJJSUtucGd1bXo4U2QtWEhVN1oxc0wweE1PRmJiZXE5eG5vZGY5TzVWTFROLWpHVE9YdkxTQy1hSmY1UHBfbEtfOGtzc0dYUjMwTGlpSnlQdmhIaA?oc=5"
+    },
+    {
+      "id": "c9ad7f61122c",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-20",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano's blockchain holds just 0.76% of its $8... - Pluang",
+      "title_zh": "Cardano's blockchain holds just 0.76% of its $8... - Pluang",
+      "summary_en": "Cardano's blockchain holds just 0.76% of its $8... &nbsp;&nbsp; Pluang",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemtwdl9Lb2gyMTI3NUFYSEZGZjl4Ym9Wb1ZiS21vYVNyQ2VfYUFkTFNFaENZRHNFYU9qYnpxLUtuQzVwNEs1UEFfU1RKZmV2N3doU0NaSmUzVXFWNVE5bi1YWXMtMk5JWXRHS0lCZEdOZE5tVnhOUEc2d296cV9IQ0l5MjFLeDF2UWNj?oc=5"
     },
     {
       "id": "03a9c785cb97",
@@ -680,42 +716,6 @@
       "summary_en": "What Is Midnight (NIGHT)? &nbsp;&nbsp; Binance",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkT1lBS0U2UVhMX1FfQ2Vlc1NscHFlMFdrZmxOby1ST2owQ1BWN2NkTXpPbndIN2RHb1VsR3NLSmhoYkdmX2xuWEZ2RHVmRlZwb095YTUtNV8zWmd2NHJKc01Zbks1MFFyZ2RwWk1XQUhKM0Y0?oc=5"
-    },
-    {
-      "id": "369641bc6ed0",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-07-22",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight (NIGHT) Price Prediction: Daily & Weekly 2026-2040 - CoinDCX",
-      "title_zh": "Midnight (NIGHT) Price Prediction: Daily & Weekly 2026-2040 - CoinDCX",
-      "summary_en": "Midnight (NIGHT) Price Prediction: Daily & Weekly 2026-2040 &nbsp;&nbsp; CoinDCX",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zaVlINjJKVEFVcmhQNWtrYndhd2V2RWhsMEVQRGxlcExWS3BhaVFCRUw0bzkwcERSUElOREZQYXhzOXBGU0hha1RjM3g5SzJhTHVleWlqcWp2TzZITnVBYjREVFEzWlM3RnZjM1dkTTJYVHhWYWFV?oc=5"
-    },
-    {
-      "id": "8a76712ae33b",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-07-22",
-      "source": "Google News · Midnight",
-      "title_en": "Price of Midnight (NIGHT) today in EUR – Quote and market trends - Bit2Me",
-      "title_zh": "Price of Midnight (NIGHT) today in EUR – Quote and market trends - Bit2Me",
-      "summary_en": "Price of Midnight (NIGHT) today in EUR – Quote and market trends &nbsp;&nbsp; Bit2Me",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGdGl6N2FMWEJHMVdrczlERVBXc1RWaUlldkRjYWQyOXZ5akR4WGZLd3ZLT2tYSFNmOTh1MWliWE9CMkdQQ1NkWW03WUc?oc=5"
-    },
-    {
-      "id": "a3de3dbada78",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-07-09",
-      "source": "Google News · Midnight",
-      "title_en": "NIGHT Price Stays Under Pressure Despite Midnight’s Token Terminal Partnership - CryptoRank",
-      "title_zh": "NIGHT Price Stays Under Pressure Despite Midnight’s Token Terminal Partnership - CryptoRank",
-      "summary_en": "NIGHT Price Stays Under Pressure Despite Midnight’s Token Terminal Partnership &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNekhzNGs1LVFFZmc2MEpBRjlVQ2dYNHBVUzlEeUVRdUZodFQ1SERyVEU0Sm1OSTlQZmtoNnlLTTVacnpkTVc4eXVRUnMyMjl6NnBEbzBKNXJVdWNuRHZwdXdQSVo2VHJLTFRXR0lKb0Ywb01rdlhfWHEyV3QtZzJhU0hkUUJoN0JpRkVBVXctaENBbHo4ejl0cE9MbXk1SkZpYXdoZFBDQV9aRXhZRUR2X3R4ekZmUQ?oc=5"
     }
   ]
 }

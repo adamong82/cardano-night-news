@@ -1,10 +1,34 @@
 {
   "meta": {
-    "updated_at": "2026-10-19 21:02 UTC",
+    "updated_at": "2026-10-20 04:50 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "2102bf3521ad",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-20",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano: Hoskinson reveals new programming language as ADA slips below $0.22 - AMBCrypto",
+      "title_zh": "Cardano: Hoskinson reveals new programming language as ADA slips below $0.22 - AMBCrypto",
+      "summary_en": "Cardano: Hoskinson reveals new programming language as ADA slips below $0.22 &nbsp;&nbsp; AMBCrypto",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVWxkLVhkTURBMlg2ZzBnMEpscW9UWlpNc3FZT0o0dXVfM0QzRXFRY1lsYXJFa19RMGcySXZiS2hBT0w1LW1jaHl2ZktmTFFiWXllRUIyR3YtdEttbjdUV1p3Yi1HTmtaNU1MOU9fVHltVC1VTTd4VlhPUFNCUzJoVUFGcFd5ODdJWjlvRkk1RVdfdm5hWHdsVzhwdzZ4Zw?oc=5"
+    },
+    {
+      "id": "66a6085efa99",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-20",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano long downtrend near end, analyst sees $3.25 in 2027 - 디지털투데이",
+      "title_zh": "Cardano long downtrend near end, analyst sees $3.25 in 2027 - 디지털투데이",
+      "summary_en": "Cardano long downtrend near end, analyst sees $3.25 in 2027 &nbsp;&nbsp; 디지털투데이",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTZBRHE1ODZKajIyNGZkczA2MWl3UV9idXA2WUlraFMzX3IzY3Y2UTNlOUxsdi14QWxJN3VpT2IwdnI3NVFwV1VWWHVYN3hUWEFiZWNIVDRPOTRWRkdXdGZCQ28zNElsNmZIQ1l4aFg5YksxX3dkUFBDU0NxNml2Y1hyOTkwV3JKcGk0WnJWMFJPUHhJOEtrTi1yY0EzeEtZTEx5ajV3?oc=5"
+    },
     {
       "id": "03a9c785cb97",
       "topic": "cardano",
@@ -124,6 +148,30 @@
       "summary_en": "Cardano blockchain helps 30+ Georgian wineries fight counterfeit wine with QR code verification. &nbsp;&nbsp; Pluang",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1dMLVJOcGR1MlljWTBZb3BfRmQ3ZFdQOVA1T2xiVmhzSGFIQThVMlZtQ3VFQU5GVnFvRVIxWmJLR2lfbS1hYzFhWEx1N0lkY1kwdzJiM2Y2T0k5bGxEem0tMzJYZl9ueEdERzNIY3FZVjZaVXJKX2hRc2g5Q3VOX2dlU3h4V2o2VUloY1pNaURGVHRVenBVNG9lOHB2WEtYMjU1NlZFaXE?oc=5"
+    },
+    {
+      "id": "b553c029338c",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-19",
+      "source": "Google News · Cardano",
+      "title_en": "Charles Hoskinson Is Personally Writing a New Coding Language for Cardano. Can It Revive ADA After a 13% Weekly Drop? - Yahoo Finance",
+      "title_zh": "Charles Hoskinson Is Personally Writing a New Coding Language for Cardano. Can It Revive ADA After a 13% Weekly Drop? - Yahoo Finance",
+      "summary_en": "Charles Hoskinson Is Personally Writing a New Coding Language for Cardano. Can It Revive ADA After a 13% Weekly Drop? &nbsp;&nbsp; Yahoo Finance",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0ZmazZSVVZKSC1YeDk4a3JSekRiWGljakIwb3NFNE1FZkNqMWdBaEIxekVrQk9HcEE3c2F2R1J1U2NlMnhfaW9Ebjl6OHdId2VlNFZsellXSjhubU8xY2lNMFhVNTlrNlh1S2hDc2pSRGNNN1JuUHpVaWZVdG81ZzJqUXVZc0E0empxOG14dGlGUjItNFhKQnI1STFXYTJSUGxJRmF4TV90VGZs?oc=5"
+    },
+    {
+      "id": "297fe68368f1",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-10-19",
+      "source": "Google News · Midnight",
+      "title_en": "Cardano’s Founder Launches New Privacy-focused Midnight Blockchain - Bitcoin Foundation",
+      "title_zh": "Cardano’s Founder Launches New Privacy-focused Midnight Blockchain - Bitcoin Foundation",
+      "summary_en": "Cardano’s Founder Launches New Privacy-focused Midnight Blockchain &nbsp;&nbsp; Bitcoin Foundation",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEswSkZ3SFVGcXQzWmYwZ1dDeEhNM1FVY0JCUHVmOFQ0OEJxNlV5eDZMSklDaDNWUFFIS0pJM1pKaEdJbjlSMHVlVzJweHRleHZhMG1zWjhKdXRVUzJkSElwaUtoQ2V3R3pHd2xJNUZhTndLMnl0YkFDUll5cUZZUHBCZjNRQQ?oc=5"
     },
     {
       "id": "ff3ccb3adb63",
@@ -527,6 +575,18 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU0RJVnlvby0wR2JfQUdiaXYyS1A5eUY1bjAwZFNhY0RvVEhzZFBLajkwcXpBZVJVS183SmdROUZuS3ptX290Z1lXSG04RlNBUUg3S25ZZjRFNnZfZVJLd19Fd0ZGTmF6M0NsX1AwZ2hodTVtN2lJd0hwNnZxbHFiejZnUkJkWVpVOEZuMTdWZU1LX2ps?oc=5"
     },
     {
+      "id": "430348f54ab9",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-10-04",
+      "source": "Google News · Midnight",
+      "title_en": "Charles Hoskinson’s Midnight Token Becomes Overbought Amid Ecosystem Challenges - Webull",
+      "title_zh": "Charles Hoskinson’s Midnight Token Becomes Overbought Amid Ecosystem Challenges - Webull",
+      "summary_en": "Charles Hoskinson’s Midnight Token Becomes Overbought Amid Ecosystem Challenges &nbsp;&nbsp; Webull",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qN19uV08wV0cyWl93ZTA2RkpoS3N2ejF6dDlyUnV5VHI4eVg1dHlpSXh0TVdDSUY5QjBfRTFtcjZqRUR2cUlRMllJd2JFWmJXNXQ2Z0ZrUnk?oc=5"
+    },
+    {
       "id": "d0c597f8c060",
       "topic": "midnight",
       "type": "media",
@@ -656,42 +716,6 @@
       "summary_en": "NIGHT Price Stays Under Pressure Despite Midnight’s Token Terminal Partnership &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNekhzNGs1LVFFZmc2MEpBRjlVQ2dYNHBVUzlEeUVRdUZodFQ1SERyVEU0Sm1OSTlQZmtoNnlLTTVacnpkTVc4eXVRUnMyMjl6NnBEbzBKNXJVdWNuRHZwdXdQSVo2VHJLTFRXR0lKb0Ywb01rdlhfWHEyV3QtZzJhU0hkUUJoN0JpRkVBVXctaENBbHo4ejl0cE9MbXk1SkZpYXdoZFBDQV9aRXhZRUR2X3R4ekZmUQ?oc=5"
-    },
-    {
-      "id": "a18dc4822b56",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-04-22",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight blog | An introduction to DUST on Midnight - Midnight Network",
-      "title_zh": "Midnight blog | An introduction to DUST on Midnight - Midnight Network",
-      "summary_en": "Midnight blog | An introduction to DUST on Midnight &nbsp;&nbsp; Midnight Network",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DdHhwd2s5UG5tR3FzTUlDMnVNYmtkVlRBdnlTWTh0aTIxMEhsaW1QNlFrbjBzN2Q1UmFtNVFGMFA1Q2h5X3hndHJOOEIxLTNoamxFU0hiQ2E5UXhxODltWFc4SjNYbFd0U3d2RXhWcVBPd0k?oc=5"
-    },
-    {
-      "id": "3f041b0004bd",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-03-30",
-      "source": "Google News · Midnight",
-      "title_en": "Google, Vodafone Among Validators As Midnight Blockchain Goes Live – NIGHT Token Plummets Amid Crypto Rally - Stocktwits",
-      "title_zh": "Google, Vodafone Among Validators As Midnight Blockchain Goes Live – NIGHT Token Plummets Amid Crypto Rally - Stocktwits",
-      "summary_en": "Google, Vodafone Among Validators As Midnight Blockchain Goes Live – NIGHT Token Plummets Amid Crypto Rally &nbsp;&nbsp; Stocktwits",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYzBrdzdDcXJLQ3RrTHQ5b0FtMUhSREFQeDVNTzlheDVtamNSRTNzendnVHhUb2YySEdRX3Y2LUVCYXhudThDdDZvd2NRVU04UjJIcGpCUXhNM0ZYN2J0eTM1VHdYNEdyZWN4bWJ3Z1dNbndRYlRIY0JFbS1KTkxDOUdOaV9EN0dJay0wNmliQU5lTnhzWGYya0RBUXVnWThqcXRjR0YxT3pwVkpOcHJ3YzM1NGFGajdMeDVZUHVnQmNwdTVLakYxYzhyaGM2M0gxNWtV?oc=5"
-    },
-    {
-      "id": "7abf4f7db6a3",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2025-12-23",
-      "source": "Google News · Midnight",
-      "title_en": "Latham Advises Midnight Foundation on NIGHT Token Distribution - Latham & Watkins LLP",
-      "title_zh": "Latham Advises Midnight Foundation on NIGHT Token Distribution - Latham & Watkins LLP",
-      "summary_en": "Latham Advises Midnight Foundation on NIGHT Token Distribution &nbsp;&nbsp; Latham & Watkins LLP",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXpkRmQyd2hnYTV1dTVBbEpIZjRnd08ybUFPQWptVVJMbHV4Wkk3Smh4SjZBNnRaU1V3ZWpLWmdJYlFqQUFtWDQ0UTBrekd6Mkk3WlRsenZUaEFzTmdnaFFkaVh2SGtXN0Z1bUNMNncyM0Q3YnJJUmNtU1k0amVOMnJSaThmajdkLXgwT1FCaE9NMXRDdTBteFd0X3JIUQ?oc=5"
     }
   ]
 }

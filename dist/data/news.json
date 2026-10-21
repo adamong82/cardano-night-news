@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-10-20 23:11 UTC",
+    "updated_at": "2026-10-21 04:46 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "276ae2221f53",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-21",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Prediction: Top Analyst Sees Sell Signal on ADA - CryptoRank",
+      "title_zh": "Cardano Price Prediction: Top Analyst Sees Sell Signal on ADA - CryptoRank",
+      "summary_en": "Cardano Price Prediction: Top Analyst Sees Sell Signal on ADA &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2l1cERfUEdsTnh2QWpXcVdyR3lNUUZjLVFfdEt3LUp3TERqc1lGZ1hTdzk5MUJZdk5Fb3Bwd0toZFlKc3VSb3hVRHc0ajdCNnJWRjlWLV9IaVZ6VWtxU1p4TlNHRUpDeFZDXzZDT09ud1NXZ0YyTm0tQTJXZ1cwMlR5U3g2V1lYbHFlQW11QkxrWHRhQ0t1N0ZzZk1uMVE?oc=5"
+    },
     {
       "id": "2102bf3521ad",
       "topic": "cardano",
@@ -316,6 +328,18 @@
       "summary_en": "Cardano Eyes Insanely Bullish Cup-And-Handle Breakout As Hoskinson Teases New Programming Language For ADA &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUk51a2ladUVkWVFfM1prSjE4QzQ1ZktNVmRSVm5XUldjWEROTHZmSzZOZTA5RGYzUGQtYS03TE4xTlBJejR0WjlRc2haU0pYTmRtc0daMG11dDFpMFVmazRKOXJjTW40ZlZYTmI3Ulh4VjNZY3lJM016R0Q1eFRTWlpBdzE1eEpEMFpxRzI2M0FaMDRHZFd5UVpIUDRIZnVXTThTUHRYLUlhbUFhVkdIdm5iZ1Vfbkxhbmk5SXhKVWdmRklGbGhjZUdVSFBzVEFMbFQ2RFlqZk5kdS1n?oc=5"
+    },
+    {
+      "id": "94d4ba87d5a0",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-18",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Fell 12.6% This Week, More Than 6 Times Bitcoin’s Drop. Can ADA Hold $0.20? - Yahoo Finance",
+      "title_zh": "Cardano Fell 12.6% This Week, More Than 6 Times Bitcoin’s Drop. Can ADA Hold $0.20? - Yahoo Finance",
+      "summary_en": "Cardano Fell 12.6% This Week, More Than 6 Times Bitcoin’s Drop. Can ADA Hold $0.20? &nbsp;&nbsp; Yahoo Finance",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMFdkVEd3ZXJsdmQ0S2FxMzRSRTFvdlMwTUo3TWNXaWg5ajhEVjU0TWhjVmprc2hqWnhiYVluZ0JZYW5rc2RZZ0JQNENJRnlhbE9WQ2t5SmtvY0hKTjJmLTVMb0wwdHdNX0I2XzUydG1Uck5Na0VpQmR5dnhtanF3LXlVcXkxdC1UOERYdHdsblc?oc=5"
     },
     {
       "id": "48bc7a7d81c9",
@@ -692,30 +716,6 @@
       "summary_en": "Hoskinson Says Midnight Will Be Bigger Than Zcash. Cardano Is Still 92% Below Its High. Which Privacy Trade Wins? &nbsp;&nbsp; AOL.com",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM0Q5NDRlaFFtUnBOSkEtSjlFYUZablpXbDUzcFJWNzI2emd4Y0UybTUxcjBXMjVndGNaYVM2U003cWlSeTlYQng0ZkhEbEJSd0lyOWstX2hCYXNSMURQZWpnWW5BcmNfWWcxeFJuSi1UNlFEN1BoblpSQ2Qtd3l6WWQwUlRhTzg?oc=5"
-    },
-    {
-      "id": "99fa829268cb",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-01",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight NIGHT Token Poised for Potential Surge in Privacy Cryptocurrency Sphere - OneSafe",
-      "title_zh": "Midnight NIGHT Token Poised for Potential Surge in Privacy Cryptocurrency Sphere - OneSafe",
-      "summary_en": "Midnight NIGHT Token Poised for Potential Surge in Privacy Cryptocurrency Sphere &nbsp;&nbsp; OneSafe",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbTRmeDVMUTM1bmpmMWNkUlk2djNhVkhFNlZVUnVPZjVkMzhUelhpSEZCQXhuVEV4MWRhX1hOMHF5T1BHMUtGNGZ3UXhzNU5lSUhzU3h5Z2wyQl82bzVwUlo5TjRiUnBOYkplYml1OE5wVDktMWhYb3c1dldKNXQ1YzFHdVpBZw?oc=5"
-    },
-    {
-      "id": "98e22e6ecdae",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-09-30",
-      "source": "Google News · Midnight",
-      "title_en": "Hoskinson Says Midnight Will Be Bigger Than Zcash. Cardano Is Still 92% Below Its High. Which Privacy Trade Wins? - Yahoo Finance",
-      "title_zh": "Hoskinson Says Midnight Will Be Bigger Than Zcash. Cardano Is Still 92% Below Its High. Which Privacy Trade Wins? - Yahoo Finance",
-      "summary_en": "Hoskinson Says Midnight Will Be Bigger Than Zcash. Cardano Is Still 92% Below Its High. Which Privacy Trade Wins? &nbsp;&nbsp; Yahoo Finance",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS1ZkQnFLWGVhT01TeE5GdkN6aWpOOHNSalBUcDQtX09OQjFqYjZ2VGdUNFJHMGltcFVxQnFvVk5UQWYyNDYtV2VMcEQ1azdqb0gydkFYUlM1anRWWDNjWGxwVzZVY1NmaEc2amluNUNITGdUel9XZTVLT21xeGdQQkM0b2VuT3l6cXB4eGNmWGx2S2NYd09YWkZ3VE9ISXdQRnk4?oc=5"
     }
   ]
 }

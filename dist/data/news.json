@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-22 13:48 UTC",
+    "updated_at": "2026-10-22 20:06 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -28,6 +28,66 @@
       "summary_en": "Cardano Price Today: ADA Near $0.225 as Hoskinson Develops a New Coding Language and Remittix Hits $33M &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakFxOTNwNFo3MGxRZFdGb2QyYldQRDNsd2NScFZuNDIxeEU3QnQ4aEtzdTZNaDZzdjA0X08xeUlpWXFFMGhJVGM1QkdyUWo1ZDR0enZqOFZ6SXNjM2taNzZ5UmlzX3p5OXA1M05YbVJTNU12RnBnUDh0eThwWE9HYlpuZTZRODBEbzRJUFhZdmN2VXpSbG1TSzBqQy1PNFpaRFNzbnVzTHRoWTdBYlJ0YVVKSmZ6Vmc2elhDT0ZndU9ycUk?oc=5"
+    },
+    {
+      "id": "70b548e4425f",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-22",
+      "source": "Google News · Cardano",
+      "title_en": "Paying in ADA: Cardano’s vision for the future of payroll - Hackread",
+      "title_zh": "Paying in ADA: Cardano’s vision for the future of payroll - Hackread",
+      "summary_en": "Paying in ADA: Cardano’s vision for the future of payroll &nbsp;&nbsp; Hackread",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ySS02RERnd0tSRjJDMG1KLVgzSE40clZybW90MXdSNVpqZFlYaVNQNldtdFRuOERJbWxsLUtZdXhib0piaTNxOGduaER3aE1LUVRON3JpU2dGMFh1b0RPRjVoWUlpY09oak80Zm84dw?oc=5"
+    },
+    {
+      "id": "04d038295d38",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-22",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano (ADA) Founder Charles Hoskinson Announces Personal Work on a New Programming Language - Crowdfund Insider",
+      "title_zh": "Cardano (ADA) Founder Charles Hoskinson Announces Personal Work on a New Programming Language - Crowdfund Insider",
+      "summary_en": "Cardano (ADA) Founder Charles Hoskinson Announces Personal Work on a New Programming Language &nbsp;&nbsp; Crowdfund Insider",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNkk3TDNQSVNsbnhmTGNIalRKMWsyVnh1STFqaFNOOUhMTTdPUG1seTQ0ejdWdU5oeFREY2FYdDdwdEU3RFBQS3drZi13clRZTVNMNThTUE11bGk1XzJfY2ppOUJZai14YVhNQUJ6Z2hULTMyOElnSWRzaHhuRlg3RURVU09sXzZiQmVKUjdTdzRFOWM1UjdwSVJXcDhIZDhvM2ZVckRFaDQ5TjRRQlhIVmRwZGp1bzV0cV9aNWtvLU1xc1JsY3M1UW94a0RrX1JGaTUyRE1UYw?oc=5"
+    },
+    {
+      "id": "55f47736182b",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-22",
+      "source": "Google News · Cardano",
+      "title_en": "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens - TradingView",
+      "title_zh": "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens - TradingView",
+      "summary_en": "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens &nbsp;&nbsp; TradingView",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFJPcDBVSGtVaGpURHJVM3RYcnRBbHZqUWltZFVOa0lJTmhvY2lkcjVnUk56bzM1Wjc5QVNJQnpQRXZPRVZkTm84Zjl0YW04TmdGTjJmLTctUFRZWWJqeFlpa0pnUVp5a1dRTEdfaHlLUkNadTdQODAtYWNQMjBwbUVWS084eVIzMXhhQnNNLVlwTjZqUGJFRnhDdUJTcmU0SGl1NVFNYmRUUTNkeDV1aXlHODM0NXVoTWJqaTZReHd6Zw?oc=5"
+    },
+    {
+      "id": "d51117a5a1dd",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-22",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Gains 1.7M New Traders Thanks to Pump.fun Integration Amid Midnight’s 2027 Block Production Shift - CryptoRank",
+      "title_zh": "Cardano Gains 1.7M New Traders Thanks to Pump.fun Integration Amid Midnight’s 2027 Block Production Shift - CryptoRank",
+      "summary_en": "Cardano Gains 1.7M New Traders Thanks to Pump.fun Integration Amid Midnight’s 2027 Block Production Shift &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVVQ2azJDVjRuV0Nsak12ZlpMZUU2cG9yX0dQbzdSS0phY1BIVWpqWW44RVZnS3JpMDVlcjY3QzFaNms3S1Y3Rmw3dS1ENXBlRUl5UHF2N2x2UXpLN0pNZzY2bGREdHJDYjZLSXFlYU5hWGRLOElKRG4tS1JfejNrTHJYNmh2WTlzN0ZvV0REMjdzRzlJMk5kM2hSTGh0QU5XZDJMbG02dk1OX1NEb2ZKTFlub3QyNFhyTHVNX0x6bnVWSURNYWpzVjJRM2NUMEUzSkl1RkU1UVI5Zw?oc=5"
+    },
+    {
+      "id": "a0429476f3df",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-22",
+      "source": "Google News · Cardano",
+      "title_en": "LINK, ADA, AVAX & More Unite Against the SEC: Is a Massive Crypto Shift Coming? - CCN.com",
+      "title_zh": "LINK, ADA, AVAX & More Unite Against the SEC: Is a Massive Crypto Shift Coming? - CCN.com",
+      "summary_en": "LINK, ADA, AVAX & More Unite Against the SEC: Is a Massive Crypto Shift Coming? &nbsp;&nbsp; CCN.com",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHpRLWFSMkN0SmJUYmk5R2stT2M2MkpmdC1NUDBYX1cwbTJvM2RWUzBaRmM4MTVvTG0yb1dyZXdobDJpZmdrdHlFUXZkVDZuOERVOWY4cWZ6WFY4TjViNGwtM3JTV2RKX09mR3lwT3dKQkk5VzBNRW5OTDhuZmZ2Yl9KaFZJTk42S0pObjhBTU1wUQ?oc=5"
     },
     {
       "id": "276ae2221f53",
@@ -660,64 +720,6 @@
       "summary_en": "Crypto Cardano ADA/USD Chart 2 hour &nbsp;&nbsp; Finviz",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yMUhiMktxTnE5MmJ0LVFEdnNEYnNBV3NoNlZtUVBjQ015cDJZN0ZaMkVxT1pRb3d4TzJLUUFwMWZUQlhYS01nbUJmMzA4ejRkVmh6TDRfY200QQ?oc=5"
-    },
-    {
-      "id": "0ecd4fbd7929",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-13",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Sets New Record With 1.78 Million Transactions in a Single Epoch - CryptoRank",
-      "title_zh": "Cardano Sets New Record With 1.78 Million Transactions in a Single Epoch - CryptoRank",
-      "summary_en": "Cardano Sets New Record With 1.78 Million Transactions in a Single Epoch &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTWxBcDdNajJUTjhZZnBBb0psdExneW93SEcyRjVJN3BRdEU0TElLb2F6Zm9hTWlFM0hrN3U5eEc4VG84U0lCMElIaDdtZlVlcjBKMVFLSHJLeGVrdEdPdHR3VjhHZFh4aDZpVzFiODI5SFBTdUx4SENOSll6c2VQZ0t5Y0Vpc0gyMVM0ZVZPc0lRM0V4U2tURkFfczI1S1VfWkI5djBlTU94cE5JZWlR?oc=5"
-    },
-    {
-      "id": "007a8b76309e",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-13",
-      "source": "Google News · Cardano",
-      "title_en": "110,000,000 ADA sold by Cardano whales: Is a bigger drop coming? - Crypto News",
-      "title_zh": "110,000,000 ADA sold by Cardano whales: Is a bigger drop coming? - Crypto News",
-      "summary_en": "110,000,000 ADA sold by Cardano whales: Is a bigger drop coming? &nbsp;&nbsp; Crypto News",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yUlhhMlFkQnRSNHdnS3N3dUdPWU9ZajZMcU9nWlFMb3VqcWFjMXpIbHhES00zZjF6N2ZlMUh4OXhWTjdqN1RVdHZLWGVUOFllbDdrdUgtOU9hQktFYjFIQ2plTG9ma2Z5?oc=5"
-    },
-    {
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-12",
-      "source": "DanoNight",
-      "title_zh": "Cardano 周报聚焦大额 ADA 转账与生态活动",
-      "title_en": "Cardano weekly digest focuses on large ADA transfers and ecosystem activity",
-      "summary_zh": "周报汇总链上大额转账与生态动态；链上活动本身不等于价格方向或投资结论。",
-      "summary_en": "The digest summarizes large on-chain transfers and ecosystem activity; activity alone is not a price signal or investment conclusion.",
-      "url": "https://danonight.com/news"
-    },
-    {
-      "id": "73f62958aaa9",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-12",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano (ADA) Network Marks Biggest Transaction Day Since 2021 - TradingView",
-      "title_zh": "Cardano (ADA) Network Marks Biggest Transaction Day Since 2021 - TradingView",
-      "summary_en": "Cardano (ADA) Network Marks Biggest Transaction Day Since 2021 &nbsp;&nbsp; TradingView",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUVc5MzREbTByUXFwbTREdkV0QnJWdFh0NzljYU9Gd09NbUlpV01OTmdxMHk3YmFXb25aT1pySF93b2k4a1pQOHJXY0VGMS15OTdyYmZSMHc3NDhRb2NlQmM4cGVVUXI1VVJYYW9vSjF5d1FWVXd0Q1psQldOU3ZsS0tmeW1FUVZRVlBUcW5QazIwYmhnX2JPV1JpWkJjUlYwU0EyVnZlM3RWVkZXakp6MDNiYnFuVkFa?oc=5"
-    },
-    {
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-10",
-      "source": "CoinMarketCap",
-      "title_zh": "NIGHT 价格波动被报道为主网权限变化后的延续反应",
-      "title_en": "NIGHT move reported as follow-through after mainnet permission change",
-      "summary_zh": "CoinMarketCap 的 AI 文章将价格波动与主网开放部署联系起来；这是二次分析，读者应回看原始公告。",
-      "summary_en": "A CoinMarketCap AI article connects the move to mainnet deployment changes; it is secondary analysis, so readers should check the primary announcement.",
-      "url": "https://coinmarketcap.com/top-stories/6ac9ab80dd67e817b911ae80/"
     }
   ]
 }

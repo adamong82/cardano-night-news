@@ -1,10 +1,34 @@
 {
   "meta": {
-    "updated_at": "2026-10-22 04:44 UTC",
+    "updated_at": "2026-10-22 13:48 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "52b67699553f",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-22",
+      "source": "Google News · Cardano",
+      "title_en": "MiCA: Cardano Foundation Opposes DeFi and Crypto Staking Rules - Cointribune",
+      "title_zh": "MiCA: Cardano Foundation Opposes DeFi and Crypto Staking Rules - Cointribune",
+      "summary_en": "MiCA: Cardano Foundation Opposes DeFi and Crypto Staking Rules &nbsp;&nbsp; Cointribune",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVNoVlpINl96XzlYb1BweGJKU1BvOFpBSGlWajdOcVBLVTRZb29aZUEzZ1BQekJ5SGVLVHFpZzJzaTQ1UXpveGpMSURVOThwdV84T0ZQYUM4M20zSmktbzVBM2NObHJhWFdjeG9LSHVnQ20tdDhoNVVySXh1eEZ2TGFuclNsOENfUjc0Ym5UNngwdi1FNWdvaQ?oc=5"
+    },
+    {
+      "id": "a8332153852d",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-22",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Today: ADA Near $0.225 as Hoskinson Develops a New Coding Language and Remittix Hits $33M - TechBullion",
+      "title_zh": "Cardano Price Today: ADA Near $0.225 as Hoskinson Develops a New Coding Language and Remittix Hits $33M - TechBullion",
+      "summary_en": "Cardano Price Today: ADA Near $0.225 as Hoskinson Develops a New Coding Language and Remittix Hits $33M &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakFxOTNwNFo3MGxRZFdGb2QyYldQRDNsd2NScFZuNDIxeEU3QnQ4aEtzdTZNaDZzdjA0X08xeUlpWXFFMGhJVGM1QkdyUWo1ZDR0enZqOFZ6SXNjM2taNzZ5UmlzX3p5OXA1M05YbVJTNU12RnBnUDh0eThwWE9HYlpuZTZRODBEbzRJUFhZdmN2VXpSbG1TSzBqQy1PNFpaRFNzbnVzTHRoWTdBYlJ0YVVKSmZ6Vmc2elhDT0ZndU9ycUk?oc=5"
+    },
     {
       "id": "276ae2221f53",
       "topic": "cardano",
@@ -100,6 +124,18 @@
       "summary_en": "Cardano Price Prediction: Bullish Textbook Setup Hints at a 122% Rally for ADA &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc2o4RmxiRDJkMGw3NWstZlk1aFJjRXRGUkh1VnZOTHBfeV82RFV3cDQ4YlZiSEFhcVp4TTVLMGlPT1lINUVWWE1XSXE4X3dCemc3SWFmRDhBNnEtSzZNMWJDU3U2WmNFYlI4RFE1YXFWTTBoRGtkQmlwbHlMUEdRanVkdFVvbVE2MWNlQTc4SW9KY3ZiamxWeXpaeXlnbER4WmhTZXh4WmtBM3d2SG5zalVIZGM?oc=5"
+    },
+    {
+      "id": "ffa2ba87f6cc",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-21",
+      "source": "Google News · Cardano",
+      "title_en": "Important Cardano News and ADA Price Update: October 21 - CryptoRank",
+      "title_zh": "Important Cardano News and ADA Price Update: October 21 - CryptoRank",
+      "summary_en": "Important Cardano News and ADA Price Update: October 21 &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1N4Q3VwZUVLdHd1cGEySmhGYVNibGhWck9vM2hwNEFLV19KRHo5VVhaVDdiekQxVGtSMDA0enZoNWl0Rk9xZmx5R2RZc3pZWnlXM3M0c2VjUEtVak9aV0VSaVlwWDJYVENrVGk5ekhQWFo5WTNKS1BuVTBtZy1Da25kVnZmTzVBVXhZb2hiUHJzSWxBTVlr?oc=5"
     },
     {
       "id": "2102bf3521ad",
@@ -682,42 +718,6 @@
       "summary_zh": "CoinMarketCap 的 AI 文章将价格波动与主网开放部署联系起来；这是二次分析，读者应回看原始公告。",
       "summary_en": "A CoinMarketCap AI article connects the move to mainnet deployment changes; it is secondary analysis, so readers should check the primary announcement.",
       "url": "https://coinmarketcap.com/top-stories/6ac9ab80dd67e817b911ae80/"
-    },
-    {
-      "id": "00bfde746483",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-07",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Built Something Genuinely Useful. Naturally, the Price Went Down. - Yahoo Finance",
-      "title_zh": "Cardano Built Something Genuinely Useful. Naturally, the Price Went Down. - Yahoo Finance",
-      "summary_en": "Cardano Built Something Genuinely Useful. Naturally, the Price Went Down. &nbsp;&nbsp; Yahoo Finance",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ0szdUpocXRxWGVJRDd3UHNoMWRFbWVNUU04T01ZMG5SaTk1OW9VSnVhd2dqalBSbXZ2ajNVZVQ3Ukc0Yk5oQnpvc283YTFlS0Z6YjV2WmlGOW43WVdHT1VRYVg5RW5CR0RoenBQUWszNmxHY25meG4ycmJwVFpnSmZhZTJjX0FGU2dEZ3BDeFlRbGJkRl96OEhIZ1pYU0hSV2JmZ2JBYnI?oc=5"
-    },
-    {
-      "id": "e44cbf494d3b",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-07",
-      "source": "Google News · Cardano",
-      "title_en": "ADA news: Cardano gives token issuers power to freeze, seize and restrict assets - CoinDesk",
-      "title_zh": "ADA news: Cardano gives token issuers power to freeze, seize and restrict assets - CoinDesk",
-      "summary_en": "ADA news: Cardano gives token issuers power to freeze, seize and restrict assets &nbsp;&nbsp; CoinDesk",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMkRJRTdiUzQ5S0lUUkU4Sk5rVHN5MjRpZ1JtWUlneXgwYUpwRnBlODBxM2tTOTMtNVd5aURvOGFJQVkwRHk2a2FaZGd6eVpEaFBvREFkbHN3Y3JLcDVfcUVpOWVqZTBldTBLaEp4TmJKcXNiTmFjdGdhLWx0X0gzUXFRMWYzVFFzemRxUUpnck50TFI4NWNqNTQtUmpQa3dKdVE5VFBFeUxpSHdUNVcw?oc=5"
-    },
-    {
-      "id": "8e6698d7da90",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-05",
-      "source": "Google News · Midnight",
-      "title_en": "What Is Midnight Crypto? Why the NIGHT Token Is Gaining Attention - Bitcoin Foundation",
-      "title_zh": "What Is Midnight Crypto? Why the NIGHT Token Is Gaining Attention - Bitcoin Foundation",
-      "summary_en": "What Is Midnight Crypto? Why the NIGHT Token Is Gaining Attention &nbsp;&nbsp; Bitcoin Foundation",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWDBJQkR2OGJKZnhIaVdNcVpkbEd4QTZ0dUhmVFBvUXBEQXZMVXZ0TzE3a1NpWGJnY3FvNzMxSW14aVBGMVFEMldWZEliUUtDdlN5TmVHX2Q2eUFtcEgtTWNxNmY0Y29FU2pQbjI4Rks0Zlp2dDJIQjVmdVFxcFFjR2FoTlZEWVVva29ZTlJ2LXJTSmlXa3JkZFZfbk9qRmJSQWlpR19YMmFsMll6b3c?oc=5"
     }
   ]
 }

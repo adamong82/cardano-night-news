@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-23 19:57 UTC",
+    "updated_at": "2026-10-23 23:08 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -40,6 +40,42 @@
       "summary_en": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027. &nbsp;&nbsp; The Motley Fool",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPei1jcHJQVGVid29ZNFlWelF1eTdnU050dTNzUVhLS3kxY21pOFg3TnNiMGJJYjhuVjVsRG9yZURZNW1mOVZhalhiY2x6MkY3MVdQQ210Yk1oYnFWbGNscThWdUxjOXBiWVZmMDQzenE3WHJ4eThfejcxVVVqRUlSdmFrcDFybTBzcm5DYVFqTm9QZl9XcXhqVw?oc=5"
+    },
+    {
+      "id": "a1eb42a9299a",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-23",
+      "source": "Google News · Cardano",
+      "title_en": "XRP vs Cardano: Which Has the Better Path to Recovery in 2026? - 24/7 Wall St.",
+      "title_zh": "XRP vs Cardano: Which Has the Better Path to Recovery in 2026? - 24/7 Wall St.",
+      "summary_en": "XRP vs Cardano: Which Has the Better Path to Recovery in 2026? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTI5ZHdMbElZeFpUWGVIOXNoYlR0U1EweG5iZ2lPdEJSUVV5WXE3WkNwWGg0YW1oLVl3V1B3cWVpVC1EVTJzUkg0azhyVXpfem81QUxVSkpka0REYkJONzFTWjhvbUg5ZlVwWmhkdVZIWU1VaUI4NUJjZFBFNmxRUzdMSHdhaXJWUXl3Qkp6QW9OU2twdlJQNGdSRTVldXB3NkEyUUpLb2pYN1lyTHZXdzN4Y0pYNU1tVmNV?oc=5"
+    },
+    {
+      "id": "89ffe980bade",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-23",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Prediction: ADA Foundation and 5 Groups Push SEC as Analysts Eye Pepeto's 100x - TechBullion",
+      "title_zh": "Cardano Price Prediction: ADA Foundation and 5 Groups Push SEC as Analysts Eye Pepeto's 100x - TechBullion",
+      "summary_en": "Cardano Price Prediction: ADA Foundation and 5 Groups Push SEC as Analysts Eye Pepeto's 100x &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHJIcGZVOXlfWUJxQnR2Z2JseGFfR1RMUENKc2tTWTA0OGhmSGNheHhnb3J6ZTFnbVMwQ1lpbGNQbzBQNjFINjl1NGhRWjhxZzJmMi1EWUltQWlyR0tERkVBUVF0Ry16bjE1WTdCYzd1WHZ1V2huQ1hBeW83UEVELVBLMWRnQ29wYkxTWnNiYklULWJUYlBPb25zVXRINzRxSVJ5U2RmUTU1NVNqVjFXcW5zckpKdw?oc=5"
+    },
+    {
+      "id": "2a7a9e9d7a68",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-10-23",
+      "source": "Google News · Midnight",
+      "title_en": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? - AMBCrypto",
+      "title_zh": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? - AMBCrypto",
+      "summary_en": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? &nbsp;&nbsp; AMBCrypto",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFdybU8yQU5iQnBLU1lyUDBNUldHNVoxZlhIaWZMdER5TTZZc003ajJiWm5Pek9KaTR5LXV2SGttNkhjQU9iUDVxNnlxRF9oNF9ZMERoTEllOUp1V1ZZdW43RkxxMmZZMnlsNUpKb0dTRXBaNHM1dDhqSmFMM29HU0dzbk9Yam5JY205dV9KbFdYZw?oc=5"
     },
     {
       "id": "52b67699553f",
@@ -686,42 +722,6 @@
       "summary_zh": "这是一篇社区/媒体解读，引用 Midnight 路线图讨论 NIGHT 质押与 Cardano SPO 参与；“计划”不代表已上线。",
       "summary_en": "A community analysis interprets the Midnight roadmap around NIGHT staking and Cardano SPO participation; a plan is not a launch.",
       "url": "https://note.com/muen_project/n/n35e4e5d46a2d?hl=en"
-    },
-    {
-      "id": "ad49b777234b",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-15",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano to Host Community Call on October 19th - TradingView",
-      "title_zh": "Cardano to Host Community Call on October 19th - TradingView",
-      "summary_en": "Cardano to Host Community Call on October 19th &nbsp;&nbsp; TradingView",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYll4am9xUzY5Skt0WDZkRjNMQXMxcEQyQUNTUVc1RlZUWUZaSnhZN2ZzUlRsU044TE8wY0hOU21oaEk0MlU5MldXQ01KRFZObC1KWmRTUnA4cDA5dnJUTERMa0hmX0FMUWRhcHlrMDZNM1pnVkM3Y0lyRnVwbkx1RzJlamNZZTFvRnk2Z19qSnF3eFpnck16MkRWeVAtYVlxWF9taXE1Yw?oc=5"
-    },
-    {
-      "id": "c4c222247c97",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-15",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano price falls harder than Bitcoin - CryptoTicker",
-      "title_zh": "Cardano price falls harder than Bitcoin - CryptoTicker",
-      "summary_en": "Cardano price falls harder than Bitcoin &nbsp;&nbsp; CryptoTicker",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NYXQxMTJoUEo0WGpyQUN4eXJzdFVleUo0M1NpN2gzLVpCLU1CMm1WS19iNUNRcDBuZy1fOWJRZUhWQUVJYXlkaEM3dVgxb3NKVnl0ZDhyX3c3VlVycDBmNU83T2F4b3RmLUI1d3lZaGVvclBKTXc?oc=5"
-    },
-    {
-      "id": "0c68d31a98ca",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-15",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight (NIGHT) Drops 3.59% Amid Broad Crypto Selloff - CoinMarketCap",
-      "title_zh": "Midnight (NIGHT) Drops 3.59% Amid Broad Crypto Selloff - CoinMarketCap",
-      "summary_en": "Midnight (NIGHT) Drops 3.59% Amid Broad Crypto Selloff &nbsp;&nbsp; CoinMarketCap",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4RjZkTzd4S01DUmFkRm9NNFJaZ1B1S3praE1naU9QTlZVV2xRenZ5T0tVVGxEOW5oNndTWWNTT1dnbHhkT2lCandVeWVydkJBaE9reHVjMnhuYlFXOHp2ZG5nRmNJSEh5ajZSdnhkenI?oc=5"
     }
   ]
 }

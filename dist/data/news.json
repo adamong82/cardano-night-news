@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-10-22 23:22 UTC",
+    "updated_at": "2026-10-23 04:48 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "99d629654004",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-23",
+      "source": "Google News · Cardano",
+      "title_en": "ADA news: Cardano holders are being asked to bet $5 million on copper hitting a new record - CoinDesk",
+      "title_zh": "ADA news: Cardano holders are being asked to bet $5 million on copper hitting a new record - CoinDesk",
+      "summary_en": "ADA news: Cardano holders are being asked to bet $5 million on copper hitting a new record &nbsp;&nbsp; CoinDesk",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU1lrZGhkZWpEUFFlcjVVZ2NuaTdQNzlqUldnNDBLd3NjNUtMQ0VmTVlwckJZUDVidmNfQXBSQTlqc0hUX3VzaGp6T2c0SFQ3UXpRN3BZODk0bWlSMDNlODNMemtzZHNhZk54Yzg4WnlpVFViMzNYTUFrOU9wdjZLclZqMzM5TERZZE9td1FiX2VHMmdRMTUyWXVTM2lLQlA2cV8zTEdDVzFrQmQ3Q1IzbWtYRTR1Vm9QUVc0R1podFZ3dzZy?oc=5"
+    },
     {
       "id": "52b67699553f",
       "topic": "cardano",
@@ -88,6 +100,18 @@
       "summary_en": "LINK, ADA, AVAX & More Unite Against the SEC: Is a Massive Crypto Shift Coming? &nbsp;&nbsp; CCN.com",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHpRLWFSMkN0SmJUYmk5R2stT2M2MkpmdC1NUDBYX1cwbTJvM2RWUzBaRmM4MTVvTG0yb1dyZXdobDJpZmdrdHlFUXZkVDZuOERVOWY4cWZ6WFY4TjViNGwtM3JTV2RKX09mR3lwT3dKQkk5VzBNRW5OTDhuZmZ2Yl9KaFZJTk42S0pObjhBTU1wUQ?oc=5"
+    },
+    {
+      "id": "e48770efdd86",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-22",
+      "source": "Google News · Cardano",
+      "title_en": "New Crypto: Remittix Reaches $33 Million Raised as Cardano’s New Programming Language Revives a $2 ADA Price Prediction As BNB Bulls Target $1,500 - GlobeNewswire",
+      "title_zh": "New Crypto: Remittix Reaches $33 Million Raised as Cardano’s New Programming Language Revives a $2 ADA Price Prediction As BNB Bulls Target $1,500 - GlobeNewswire",
+      "summary_en": "New Crypto: Remittix Reaches $33 Million Raised as Cardano’s New Programming Language Revives a $2 ADA Price Prediction As BNB Bulls Target $1,500 &nbsp;&nbsp; GlobeNewswire",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNanBkMnFDZEh0RDhMZG9TUHhLZDcyMVZNbVZkUGFQejZRVVVVRl9JMFhHMFJOWnN4cWJHSjdLTm9wV2N3aGlUSFFKZ0R5bDkxVUI3ZUs3MFVEWUFSTnBualEzUHJHM0pzbTlRWVdjWGF2bnJEdmlfWEJfd2dhVmdaRUlfc2dWRmV2Mk1Fa2lQZ19IaXk3bzA1OThLRTB5LU1vUkJQMk9OVGxzb3lEcFRDd2NaTXh2ZFRIZl9tbEt1X3kyQVROUklMdzZEd2hjWFFSNEt2dlhqcVRSNjY2OUN1ZFlMTUwxX09EOTZmcnVxdWFWRjhIa0kwUllsSW9EZzRvTzJxbVd6UWtJSS04b2NYZzZ0RkE2NHBBWG9vVk9tYUkzVFg0RjhjS1Y3RXZoN0RRcmluNmZqVXdkZw?oc=5"
     },
     {
       "id": "276ae2221f53",
@@ -696,30 +720,6 @@
       "summary_zh": "交易所公告称将于 10 月 13 日开始提供 NIGHT 交易服务；上线范围、地区限制与风险说明应以交易所原公告为准。",
       "summary_en": "The exchange announcement says NIGHT trading will begin on October 13; availability, regional restrictions and risk disclosures are defined by the exchange.",
       "url": "https://prtimes.jp/main/html/rd/p/000000193.000054229.html"
-    },
-    {
-      "id": "1dbe77f4a7fb",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-13",
-      "source": "Google News · Cardano",
-      "title_en": "Is Cardano Worth Holding in 2026? Lark Davis Compares ADA With Bitcoin Stocks - Coinpedia",
-      "title_zh": "Is Cardano Worth Holding in 2026? Lark Davis Compares ADA With Bitcoin Stocks - Coinpedia",
-      "summary_en": "Is Cardano Worth Holding in 2026? Lark Davis Compares ADA With Bitcoin Stocks &nbsp;&nbsp; Coinpedia",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmV5UjBDV2RCNVRjekdNbmE4SzEwSDFHVHh0V2k1Q0tZR1R1VXo4QjZRbi1VNWlOTTJZTzlsaUJ2b0pzMVVxSnRkMVJJdVJHYjB1VGNoWUxQbVlSWkNGMUUxZDVweDB0cTZwMkYycEdJSTZlOG92V01NQ0NodlZkMHJiekJqdXV2SEhZeDlENEFiU2JtZVNUQzhST3QydUZkLUV4TWNjWdIB3gFBVV95cUxQSDJ1Wk9mUjBVem5rQ244NEhHOFJYTXNUcjZpcVFweHZTMUxVZWJrckZkbjU2QnpqVEUzbk51V1ExcGRPbVNOdlM3Q1VUTVJTNEFLS2xZODlvdkJSTUdDUmpSczlSb2lYRkVDYkFEYmd6UzhxVXN4QVBYU1ZyajV5NHY5dG1Zd0Y3SkpURmFmQk5PNUpTdTVpM3NZTVVEWFNRMkNObXFRbTBTMFRQcVJWMlRsVjBEWFFRNXV3SXZuNWNjSU5UMGsxY0dwTlBWQ2lhUWpBZmNmSG9RTkQxU2c?oc=5"
-    },
-    {
-      "id": "2bb7a1f34801",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-13",
-      "source": "Google News · Cardano",
-      "title_en": "Crypto Cardano ADA/USD Chart 2 hour - Finviz",
-      "title_zh": "Crypto Cardano ADA/USD Chart 2 hour - Finviz",
-      "summary_en": "Crypto Cardano ADA/USD Chart 2 hour &nbsp;&nbsp; Finviz",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yMUhiMktxTnE5MmJ0LVFEdnNEYnNBV3NoNlZtUVBjQ015cDJZN0ZaMkVxT1pRb3d4TzJLUUFwMWZUQlhYS01nbUJmMzA4ejRkVmh6TDRfY200QQ?oc=5"
     }
   ]
 }

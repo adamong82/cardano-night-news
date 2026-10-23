@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-23 13:26 UTC",
+    "updated_at": "2026-10-23 19:57 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -244,6 +244,18 @@
       "summary_en": "Important Cardano News and ADA Price Update: October 21 &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc1N4Q3VwZUVLdHd1cGEySmhGYVNibGhWck9vM2hwNEFLV19KRHo5VVhaVDdiekQxVGtSMDA0enZoNWl0Rk9xZmx5R2RZc3pZWnlXM3M0c2VjUEtVak9aV0VSaVlwWDJYVENrVGk5ekhQWFo5WTNKS1BuVTBtZy1Da25kVnZmTzVBVXhZb2hiUHJzSWxBTVlr?oc=5"
+    },
+    {
+      "id": "28f470daa50c",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-10-21",
+      "source": "Google News · Midnight",
+      "title_en": "Midnight Price Today in India | NIGHT to INR Live Price & Chart - Binance",
+      "title_zh": "Midnight Price Today in India | NIGHT to INR Live Price & Chart - Binance",
+      "summary_en": "Midnight Price Today in India | NIGHT to INR Live Price & Chart &nbsp;&nbsp; Binance",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NZ0JPUnVhWW1pbm43M3dTcWRhWnR1MXEyQjZya0NnT2FYMnZpWTVtcnRoM1dvbUo2TmFJLXRWNUlPRVlFYThJWTZWbU1UNkFxZnZZcG1MejAwT0pfaktsRHdB?oc=5"
     },
     {
       "id": "2102bf3521ad",
@@ -710,18 +722,6 @@
       "summary_en": "Midnight (NIGHT) Drops 3.59% Amid Broad Crypto Selloff &nbsp;&nbsp; CoinMarketCap",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4RjZkTzd4S01DUmFkRm9NNFJaZ1B1S3praE1naU9QTlZVV2xRenZ5T0tVVGxEOW5oNndTWWNTT1dnbHhkT2lCandVeWVydkJBaE9reHVjMnhuYlFXOHp2ZG5nRmNJSEh5ajZSdnhkenI?oc=5"
-    },
-    {
-      "id": "e93833c2874a",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-14",
-      "source": "Google News · Cardano",
-      "title_en": "How High Can Cardano (ADA) Go if Bitcoin Hits $295,000? The Modern Investor Shares - Cryptonews.net",
-      "title_zh": "How High Can Cardano (ADA) Go if Bitcoin Hits $295,000? The Modern Investor Shares - Cryptonews.net",
-      "summary_en": "How High Can Cardano (ADA) Go if Bitcoin Hits $295,000? The Modern Investor Shares &nbsp;&nbsp; Cryptonews.net",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmR2Z3SlFEa014NDQtVHB1QXJlQkdxS18tOGEyNTMxTFZYS3QxOTJSMUU0azhHUDkxMVVjZmVkaXk3VUl2Zm5uMVV3YU5HcGlXeWZrc0I1V0g3S0U?oc=5"
     }
   ]
 }

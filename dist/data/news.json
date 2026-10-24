@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-24 12:40 UTC",
+    "updated_at": "2026-10-24 18:47 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -16,6 +16,18 @@
       "summary_en": "Cardano Price Today: ADA Falls 7% as 100K Farms Go On Chain, Pepeto Eyes a Pepe-Like 150x &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0JOc1NoaE1RRFN2OUozVzBweDFRdXNoTE1FamVKR2Y0SGN2VVFYU2RQbDFrQ29KMGpMeHU1R3dDMWUzMWFXZmhxZEZhalNkZm9PY1V0S01YdmxLbUhJekVZZjBEYVF1WW1iM0lPby1NTjU0Snlqd2k3X1ltNDdCa1FvN3d0UUVrTVRDX1dRWFdGYXoyNFltdEp1NFo3SnNqcTI4ZGtDbzkxRTRMa25QWA?oc=5"
+    },
+    {
+      "id": "b8c155398dc6",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-24",
+      "source": "Google News · Cardano",
+      "title_en": "Is There Cause for Alarm with Cardano (ADA)? Renowned Analyst Issues Major Warning - Cryptonews.net",
+      "title_zh": "Is There Cause for Alarm with Cardano (ADA)? Renowned Analyst Issues Major Warning - Cryptonews.net",
+      "summary_en": "Is There Cause for Alarm with Cardano (ADA)? Renowned Analyst Issues Major Warning &nbsp;&nbsp; Cryptonews.net",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMRngwcE1LSU5fXzlhRTFZTlgteUY3R1BnbWVhczF6U205WkR4TnM5aHgwTVp2dmpBTVdLTUM0UHVRX1BQRzNiQUk4ZTVfYUVIUGYxYzROdUVpUUE?oc=5"
     },
     {
       "id": "99d629654004",
@@ -712,18 +724,6 @@
       "summary_en": "Cardano: 91.5 percent of the spending cap is committed, 42.6 million ADA remain &nbsp;&nbsp; CryptoTicker",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5hS0kyeU1kTjJBSkJPRFQ5NGJIckNWY04yRjk1WUpjR1Y5bVBUdktzMnRlNWNtbG5jWVI1STJ5cXNZc1dETm5GdXFOUEg1SEl3RWpCdmJzZVZ1U1VkazFtcmh3VUpPd203ZzAzX1k1clNNVVk?oc=5"
-    },
-    {
-      "id": "328e98aa4266",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-16",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Is Up 16% This Month, Nearly Double Bitcoin’s Gain. Is ADA Finally Turning? - 24/7 Wall St.",
-      "title_zh": "Cardano Is Up 16% This Month, Nearly Double Bitcoin’s Gain. Is ADA Finally Turning? - 24/7 Wall St.",
-      "summary_en": "Cardano Is Up 16% This Month, Nearly Double Bitcoin’s Gain. Is ADA Finally Turning? &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZmNVYmM2LXc1ZHVIUkljQ1o2a2ZVaUNuLU1DSWUzcEN2WXhyM3R5d19XdGJYcFN5Uk5zdFVxYkhYWEZja1Q1UUlZYm84VXBqRV9rY25BLVBkYXM3aTRZYlJvQkRlSU96X3dJZ2JCT0NPeW9IUU94ak5DQWdMNTRBdmc3ZGhHSzRxODNPN0NmTm5wNWdWaUhySDczR05yUURfcVBfTmdIZ3dYX25aajJrbnJiY3FfaE1PNmRCb1ZxeWV6Z0tWTUFkeDEzeWptdl95VmxR?oc=5"
     }
   ]
 }

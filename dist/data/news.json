@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-23 23:08 UTC",
+    "updated_at": "2026-10-24 04:36 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -534,6 +534,18 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEswSkZ3SFVGcXQzWmYwZ1dDeEhNM1FVY0JCUHVmOFQ0OEJxNlV5eDZMSklDaDNWUFFIS0pJM1pKaEdJbjlSMHVlVzJweHRleHZhMG1zWjhKdXRVUzJkSElwaUtoQ2V3R3pHd2xJNUZhTndLMnl0YkFDUll5cUZZUHBCZjNRQQ?oc=5"
     },
     {
+      "id": "f21b6ed31dba",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-19",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano founder Charles Hoskinson is building a new programming language for the network - CoinDesk",
+      "title_zh": "Cardano founder Charles Hoskinson is building a new programming language for the network - CoinDesk",
+      "summary_en": "Cardano founder Charles Hoskinson is building a new programming language for the network &nbsp;&nbsp; CoinDesk",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSjdUclAwWmhDSnd1ZVZNbEh6Y0F2RlJOTUtJbk1ROFgtQm5HRnduUFhkQUI1YjVzWmFtaEw5NWpxa3JKQUhvZ2ZSd2M4c0F1dURpU2RKWWNVc215ZVNMcTE2eXRrZk5EVEgxZkcyX3JQaURValBSWVJESHZQMHRiLXFnYjlfOHdncjVNQmNNTmd6U1VhOXBuQnF5NTlvaC1aOElON0tIeG42aGZHU24zQ2gwMGU4MEpSVWhwLWZNaUhYWVRVbTFvQw?oc=5"
+    },
+    {
       "id": "ff3ccb3adb63",
       "topic": "cardano",
       "type": "media",
@@ -711,17 +723,6 @@
       "summary_zh": "媒体报道 ADA 与 NIGHT 在通胀数据公布后下跌，同时提到 Open Wallet Standard、Open Food Chain 与 Midnight 路线图。价格数据属于媒体报道，不是官方确认。",
       "summary_en": "The report links ADA and NIGHT weakness to inflation data while noting wallet, food-chain and Midnight roadmap developments. Price claims are reported, not official confirmation.",
       "url": "https://www.coingabbar.com/en/cardano-crypto-news-today-ada-night-price-crash-on-cpi-data"
-    },
-    {
-      "topic": "midnight",
-      "type": "commentary",
-      "date": "2026-10-15",
-      "source": "MUEN",
-      "title_zh": "分析：路线图把 NIGHT 质押放在 2027 年第一季度",
-      "title_en": "Analysis: roadmap places NIGHT staking in Q1 2027",
-      "summary_zh": "这是一篇社区/媒体解读，引用 Midnight 路线图讨论 NIGHT 质押与 Cardano SPO 参与；“计划”不代表已上线。",
-      "summary_en": "A community analysis interprets the Midnight roadmap around NIGHT staking and Cardano SPO participation; a plan is not a launch.",
-      "url": "https://note.com/muen_project/n/n35e4e5d46a2d?hl=en"
     }
   ]
 }

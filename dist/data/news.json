@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-25 19:03 UTC",
+    "updated_at": "2026-10-25 22:33 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -16,6 +16,30 @@
       "summary_en": "Cardano: 22m ADA for copper, vote to November 15 &nbsp;&nbsp; CryptoTicker",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9keVZuM0UzS1dpdkpfVTk5TUVGUExyVG1McmFZbC1ISk53T0ZWa2xHRU9qZE9INFVxdnFtWUxZbDhUUTUtVHF0dElnNW1KdGEteFBYdG5fcFFmeDJvUTkxSTNJWlM4WC15VllDa3ptdUtNUQ?oc=5"
+    },
+    {
+      "id": "4e13bfa4a217",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-25",
+      "source": "Google News · Cardano",
+      "title_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? - 24/7 Wall St.",
+      "title_zh": "Why Is Ethereum Worth About 38 Times More Than Cardano? - 24/7 Wall St.",
+      "summary_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzFrVjUwWWVHemVoV0tGRVptemo5c0h0ZDlRM0lxM0d0algtb3BpbzUzNHNKeHFIZ3QtTjV3b3Z1Y1ZQQ2RkdEd1TnNVSURSQXRzeDhZUUJfS1JyU014NGd6My1EUXZkNXRDTVRwQWRTaXpPQnNNd292MFJUV0tSMENSRHBiM1BnRWVqMmdPRnFBUURYMi1SQWtJNW9DOFU2RmFKWDgxaTVrckU1QnJpU0xRYw?oc=5"
+    },
+    {
+      "id": "625690655093",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-25",
+      "source": "Google News · Cardano",
+      "title_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? - AOL.com",
+      "title_zh": "Why Is Ethereum Worth About 38 Times More Than Cardano? - AOL.com",
+      "summary_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? &nbsp;&nbsp; AOL.com",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84bGk1TlpGbGNvWm5hb2JfODNXMkRhbVdhOEZhX3RuaEhzTm1VZnBQTC13VWV1ampqV0d6UDlYTzVjOXBfbDQyR2RReElTelJGOGhhRnBlWmFNU3plTFlQQXdsSnJ3dXR2ejNVSG1uVEc1ZmtXRmxESnJFTQ?oc=5"
     },
     {
       "id": "49b689788c95",
@@ -700,30 +724,6 @@
       "summary_en": "ADA Price Prediction: Cardano Hits 1.78M Transactions as Pepeto Eyes a Pepe-Style Rally &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjlCc01ncGdPbWhJdnIwelV6b3ZkOHQxUU4yN3V5Q0xOdklITm1wa2dPVXpqOENyXzFNTXBkTVNQemlTb2hLdmhrVDNyejdldDl3UHZ6R3Y4QzJSaThwQ21FdURVQjNzcGdVQmFydFBmQkdfLWxnLUFfeWx6cW9qMUdIbE1RTkVKNXdxVHJqWmphWjluOElRNF9icGZSQUhRVjJzYlFPdzFfTlVRc0k2VA?oc=5"
-    },
-    {
-      "id": "1038b1e9f22d",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-17",
-      "source": "Google News · Midnight",
-      "title_en": "Charles Hoskinson Teases New Midnight Concept to Solve Crypto’s Biggest Problems - Bitget",
-      "title_zh": "Charles Hoskinson Teases New Midnight Concept to Solve Crypto’s Biggest Problems - Bitget",
-      "summary_en": "Charles Hoskinson Teases New Midnight Concept to Solve Crypto’s Biggest Problems &nbsp;&nbsp; Bitget",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKM2U4aFdldkpCTTdaemtUSFRraE9uSUFhTzRmTXRrV2hVRjcxM0xvZkVFbkpIbDdDRWg1ZW9aUm0xV0psOEFzRVQyNDg0dHhDNWZ1OU1PNVNGV1l3NWVQV2UtZ9IBY0FVX3lxTFBKM2U4aFdldkpCTTdaemtUSFRraE9uSUFhTzRmTXRrV2hVRjcxM0xvZkVFbkpIbDdDRWg1ZW9aUm0xV0psOEFzRVQyNDg0dHhDNWZ1OU1PNVNGV1l3NWVQV2UtZw?oc=5"
-    },
-    {
-      "id": "2bdc54f29382",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-17",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Prediction: ADA Eyes $0.28 After 11.8M ADA Vote as Pepeto Targets 300x - TechBullion",
-      "title_zh": "Cardano Price Prediction: ADA Eyes $0.28 After 11.8M ADA Vote as Pepeto Targets 300x - TechBullion",
-      "summary_en": "Cardano Price Prediction: ADA Eyes $0.28 After 11.8M ADA Vote as Pepeto Targets 300x &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT2VrMHNVWkFXTmpzdktOcXhlTW80T3VHTktxZlBxQUZFaEtrV1FUb0VKU2xKdHlxT3Fhd21yUHFZYVF4emx0UTNXc29mbEJfLUJQbUVTTHBocXR5RDBpX0RvelVuN3kzbUl0aml1R3lORGl1LVliRXg5RDA3TnljbzN1NHJwYl9tSWxRbnNPSkdNUDBtR1JjU0YyTHF4Q21HcGMzTXhYZzRxRFk?oc=5"
     }
   ]
 }

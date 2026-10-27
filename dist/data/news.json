@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-27 14:31 UTC",
+    "updated_at": "2026-10-27 20:41 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -160,6 +160,18 @@
       "summary_en": "Midnight Price Prediction 2026 to 2030: NIGHT Targets &nbsp;&nbsp; CryptoTicker",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GMTdtY29fSUdEMjJiRWxMRUhTeC10d2lqTDlHZVRoa05jVDNHTmFUZ2I4aDY0ZmowQ2I2ZUlEMkx5bEd4dkxvc18tS2NKdDUtZnFQUTc5ekVnWjVhUXJSV3ZFc1BiOV9sdGdWQ1JqUm03bmY4RXdnd25UdW0?oc=5"
+    },
+    {
+      "id": "ba9c8f2692ba",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-10-24",
+      "source": "Google News · Midnight",
+      "title_en": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? - Cryptonews.net",
+      "title_zh": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? - Cryptonews.net",
+      "summary_en": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? &nbsp;&nbsp; Cryptonews.net",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOGdUd3F4RFZ6UFhaRE4zOXRLcHJEN2dZOFFNbmJwRWhjM1dnMnVoZlNSUFhRVXFOMzJHd3lwSktYUzRCSWtZZC0walRCSmhPMmRIa3hyY09JWTA?oc=5"
     },
     {
       "id": "99d629654004",
@@ -712,18 +724,6 @@
       "summary_en": "Charles Hoskinson Is Personally Writing a New Coding Language for Cardano. Can It Revive ADA After a 13% Weekly Drop? &nbsp;&nbsp; Yahoo Finance",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0ZmazZSVVZKSC1YeDk4a3JSekRiWGljakIwb3NFNE1FZkNqMWdBaEIxekVrQk9HcEE3c2F2R1J1U2NlMnhfaW9Ebjl6OHdId2VlNFZsellXSjhubU8xY2lNMFhVNTlrNlh1S2hDc2pSRGNNN1JuUHpVaWZVdG81ZzJqUXVZc0E0empxOG14dGlGUjItNFhKQnI1STFXYTJSUGxJRmF4TV90VGZs?oc=5"
-    },
-    {
-      "id": "297fe68368f1",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-19",
-      "source": "Google News · Midnight",
-      "title_en": "Cardano’s Founder Launches New Privacy-focused Midnight Blockchain - Bitcoin Foundation",
-      "title_zh": "Cardano’s Founder Launches New Privacy-focused Midnight Blockchain - Bitcoin Foundation",
-      "summary_en": "Cardano’s Founder Launches New Privacy-focused Midnight Blockchain &nbsp;&nbsp; Bitcoin Foundation",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEswSkZ3SFVGcXQzWmYwZ1dDeEhNM1FVY0JCUHVmOFQ0OEJxNlV5eDZMSklDaDNWUFFIS0pJM1pKaEdJbjlSMHVlVzJweHRleHZhMG1zWjhKdXRVUzJkSElwaUtoQ2V3R3pHd2xJNUZhTndLMnl0YkFDUll5cUZZUHBCZjNRQQ?oc=5"
     }
   ]
 }

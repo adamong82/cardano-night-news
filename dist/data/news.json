@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-10-28 05:41 UTC",
+    "updated_at": "2026-10-28 15:06 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "ffbce4b2ea2d",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-28",
+      "source": "Google News · Cardano",
+      "title_en": "ADA Price Prediction: Cardano Near $0.203 as Remittix Earn Prepares Morpho, Fluid and Maple Finance Pools - TechBullion",
+      "title_zh": "ADA Price Prediction: Cardano Near $0.203 as Remittix Earn Prepares Morpho, Fluid and Maple Finance Pools - TechBullion",
+      "summary_en": "ADA Price Prediction: Cardano Near $0.203 as Remittix Earn Prepares Morpho, Fluid and Maple Finance Pools &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREpFS2phUjhFNGI1U3JnbW1vY095V0NWY2YyOXViWE1DTlkwdWctTkRGRkJUOWIwVVR6SU5sSnE1NmNXdTlxTmduOXUydVdEVkNiMkh0QVdqellWQ1pFTDc3a0pLb0pDSy0yQzRkX0RpUFZpai04akRXVEtEaHpHVG15cXRFMVpXQmRUTmNJWUpvU0gwaGNjOEpqT2UxQjhLOWJoeTBYWTgwZFgtRXFQYm1QV0JjS3JNbWtQMWprMDhfRjl1N3c?oc=5"
+    },
     {
       "id": "2d3c3566d90d",
       "topic": "cardano",
@@ -136,6 +148,18 @@
       "summary_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? &nbsp;&nbsp; AOL.com",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84bGk1TlpGbGNvWm5hb2JfODNXMkRhbVdhOEZhX3RuaEhzTm1VZnBQTC13VWV1ampqV0d6UDlYTzVjOXBfbDQyR2RReElTelJGOGhhRnBlWmFNU3plTFlQQXdsSnJ3dXR2ejNVSG1uVEc1ZmtXRmxESnJFTQ?oc=5"
+    },
+    {
+      "id": "6df1951c9d1b",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-25",
+      "source": "Google News · Cardano",
+      "title_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? - Yahoo Finance",
+      "title_zh": "Why Is Ethereum Worth About 38 Times More Than Cardano? - Yahoo Finance",
+      "summary_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? &nbsp;&nbsp; Yahoo Finance",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQUR5MWx0TFNuRWE0QWJYRWt5cEhQS3BoWkRLYWtrRGpXQVdhTmRQLWFEWGNja2dmYzFrXzNXeVd3eHN2eXRKc1RidVh1LTNnbTdJM0NHSklJbEdFcTh1VGJXak0zVFI1NTdEdnFOYnViaTVWdWJuTEtPODJEWmFrRFhPQ0RGbldyVjJ0U0tJYVZJNVo0WEdR?oc=5"
     },
     {
       "id": "49b689788c95",
@@ -700,30 +724,6 @@
       "summary_en": "ADA Price Prediction: Cardano Bounces From $0.216 as Pepeto Draws Early Buyers &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeGVoMWRNUmxiOHp3b0ZZdjA0TmFKNnUzb0dDd2ZTT3EtYndGZmxuWEJoRW4yNWFobEQzbkRXY21OdkRaODR4NGwxSzFMZFd1Rk1rc0pYdWs0aFoxZldxc3JITFFBSFdXNmx3ZVlXNDlEN1VINko4SGxXRkhELXljSEVad0Zob251NVFiX1Rzdjc3U3ZLdndPV1lDNkdFUnFjVTdR?oc=5"
-    },
-    {
-      "id": "e0548bde2dc3",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-19",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Prediction: ADA Rebounds to $0.21 as Pepeto Presale Buyers Eye 100x Gains - TechBullion",
-      "title_zh": "Cardano Price Prediction: ADA Rebounds to $0.21 as Pepeto Presale Buyers Eye 100x Gains - TechBullion",
-      "summary_en": "Cardano Price Prediction: ADA Rebounds to $0.21 as Pepeto Presale Buyers Eye 100x Gains &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUmRQTHY2UFFDNkhVNW9WWC1KOW1XMDJmYjIzcURMQW5MckpSenVzUlpPeWljX2g5YkZXckI1eThndGViVDRzQ3JtNE8ydVZjU0RBSDdReTNLWHJlbENfdFlNWEI3Zm9lM3RBQlhsNnJMRmFGSlhTa0pzaWVBd1dYT0NRakgwaklaaGlqSUxEZUVUUVNvVlNmak1wbjEtMWFBYTZsb2ROd0NsYlZCckRn?oc=5"
-    },
-    {
-      "id": "763df120f586",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-19",
-      "source": "Google News · Cardano",
-      "title_en": "Top Cardano Price Predictions as ADA Slips 12% in a Week - CryptoRank",
-      "title_zh": "Top Cardano Price Predictions as ADA Slips 12% in a Week - CryptoRank",
-      "summary_en": "Top Cardano Price Predictions as ADA Slips 12% in a Week &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHJrd0dmTTFZUk51TVp3cWMtY0NWcWN1SXZveHRQWnFxeDA3ZEQyWGlHU0Zqa01hazBzS1VMV21aV0tzNzBCeEtWVXdhZjMzb3YtZW1yN21SZllmcXljY2ZTQzVidXpFejZYUi1neGF1YjVaUVZpNHdlM3BlVWFpejB2MC1PdDd4ZmI4VEt2Y3FzN3Y3WGdYVg?oc=5"
     }
   ]
 }

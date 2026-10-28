@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-27 20:41 UTC",
+    "updated_at": "2026-10-28 05:41 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -16,6 +16,30 @@
       "summary_en": "Cardano warned of drop to $0.12 as four headwinds cap rebound &nbsp;&nbsp; 디지털투데이",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWpfRGFOYnlaSVJLa3poOWZLdHV1SG05cjMySFZhUndCMjhwbS1Ra1Z4WkNrLXZsbWROd0FvRGg5Y3pFZjdmZ1pySGFFR1o3U2tWc1EtZjRCeXVJdU5sb1ZwWXJsUm5EcmJyeU5QdlJzYThiZExLX21TdVJPUmlQUHlJdVhQbGlPekFpcEoxRnM4NjBRYW5aYnFTWjlzNWM5U2h5SmVOMHdsdw?oc=5"
+    },
+    {
+      "id": "0dc9f915cecb",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-27",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano treasury: 115,172 ADA flow back - CryptoTicker.io",
+      "title_zh": "Cardano treasury: 115,172 ADA flow back - CryptoTicker.io",
+      "summary_en": "Cardano treasury: 115,172 ADA flow back &nbsp;&nbsp; CryptoTicker.io",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54Vjk0QXdnT2Y3Vm5sYzNZZHU0QmlRbU02ZTlXamNOaTNTVklZNzZaQmt1bFVqcTYwYnVxbTN6clE5aFhxUFhkU1NDSUdVNVVzYjk2MUNkc1AyN3IybnJYN1AyenowSjkySWpBNEVIVGJPbEZHRnc?oc=5"
+    },
+    {
+      "id": "e9bc576e43d5",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-27",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano to Hold Live AMA on October 28th - TradingView",
+      "title_zh": "Cardano to Hold Live AMA on October 28th - TradingView",
+      "summary_en": "Cardano to Hold Live AMA on October 28th &nbsp;&nbsp; TradingView",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPblZtc3l1b3BWMUxJTzVBZjQ1b181c2hSUlVBNDBTME83NlJmSDA4cU1jX3RuVDhKM0VzVU5IRmtjVkxQdE0wbEZMU3VURW5tMDhSRV9EY1M5NnVaZndmU19QRWRMSXFJTlJYMndrdjdmbkp2T3FaLS1OWUtiYjRYZVJvVWZPejFOeGxleE9JRVNCREhfSkIxdHV5NVE2a1E?oc=5"
     },
     {
       "id": "3272b13dd619",
@@ -486,6 +510,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NZ0JPUnVhWW1pbm43M3dTcWRhWnR1MXEyQjZya0NnT2FYMnZpWTVtcnRoM1dvbUo2TmFJLXRWNUlPRVlFYThJWTZWbU1UNkFxZnZZcG1MejAwT0pfaktsRHdB?oc=5"
     },
     {
+      "id": "d15df65559d7",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-21",
+      "source": "Google News · Cardano",
+      "title_en": "Is Cardano About to Take Over? ChatGPT AI Predicts a Huge Move - Cryptonews",
+      "title_zh": "Is Cardano About to Take Over? ChatGPT AI Predicts a Huge Move - Cryptonews",
+      "summary_en": "Is Cardano About to Take Over? ChatGPT AI Predicts a Huge Move &nbsp;&nbsp; Cryptonews",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kYWhKRjhGWmVfWDJXWEZKcmktUkNrdzVfdHBRWmtPX0lmeU9SV1pHZ2IyWEtZWi1qYjh6cnBhbVdTQk95Qng1OGJMZjBpVk55SGhCNFhjMjN3eDg3NVBuQWhPa0x3alA2V3JDdEE2RWNTOHNS?oc=5"
+    },
+    {
       "id": "2102bf3521ad",
       "topic": "cardano",
       "type": "media",
@@ -688,42 +724,6 @@
       "summary_en": "Top Cardano Price Predictions as ADA Slips 12% in a Week &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHJrd0dmTTFZUk51TVp3cWMtY0NWcWN1SXZveHRQWnFxeDA3ZEQyWGlHU0Zqa01hazBzS1VMV21aV0tzNzBCeEtWVXdhZjMzb3YtZW1yN21SZllmcXljY2ZTQzVidXpFejZYUi1neGF1YjVaUVZpNHdlM3BlVWFpejB2MC1PdDd4ZmI4VEt2Y3FzN3Y3WGdYVg?oc=5"
-    },
-    {
-      "id": "a34fe8429983",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-19",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Project Catalyst selects 12 projects for 2 million ADA pilot fund - Crypto News",
-      "title_zh": "Cardano Project Catalyst selects 12 projects for 2 million ADA pilot fund - Crypto News",
-      "summary_en": "Cardano Project Catalyst selects 12 projects for 2 million ADA pilot fund &nbsp;&nbsp; Crypto News",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTjhCVUlGWDdSSGMzMHkwQUlYaVRDSnUxbW1GODNtOVJadERNenJwNDNBOWFnVV9WNW5uLUotVVNPaTh2VE5zR2toS3d1TU1uX3dXX0hsWDRmNGx1a3otRzhUVVNOU0lwX2x6Ni1iTXowd0lqNjBlSnEtZEp5TkFEcHJiZjB2d0YzbEh2cUJEUkpMZENBaXJjdEFn?oc=5"
-    },
-    {
-      "id": "291c8c0d7f37",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-19",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano blockchain helps 30+ Georgian wineries fight counterfeit wine with QR code verification. - Pluang",
-      "title_zh": "Cardano blockchain helps 30+ Georgian wineries fight counterfeit wine with QR code verification. - Pluang",
-      "summary_en": "Cardano blockchain helps 30+ Georgian wineries fight counterfeit wine with QR code verification. &nbsp;&nbsp; Pluang",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd1dMLVJOcGR1MlljWTBZb3BfRmQ3ZFdQOVA1T2xiVmhzSGFIQThVMlZtQ3VFQU5GVnFvRVIxWmJLR2lfbS1hYzFhWEx1N0lkY1kwdzJiM2Y2T0k5bGxEem0tMzJYZl9ueEdERzNIY3FZVjZaVXJKX2hRc2g5Q3VOX2dlU3h4V2o2VUloY1pNaURGVHRVenBVNG9lOHB2WEtYMjU1NlZFaXE?oc=5"
-    },
-    {
-      "id": "b553c029338c",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-19",
-      "source": "Google News · Cardano",
-      "title_en": "Charles Hoskinson Is Personally Writing a New Coding Language for Cardano. Can It Revive ADA After a 13% Weekly Drop? - Yahoo Finance",
-      "title_zh": "Charles Hoskinson Is Personally Writing a New Coding Language for Cardano. Can It Revive ADA After a 13% Weekly Drop? - Yahoo Finance",
-      "summary_en": "Charles Hoskinson Is Personally Writing a New Coding Language for Cardano. Can It Revive ADA After a 13% Weekly Drop? &nbsp;&nbsp; Yahoo Finance",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0ZmazZSVVZKSC1YeDk4a3JSekRiWGljakIwb3NFNE1FZkNqMWdBaEIxekVrQk9HcEE3c2F2R1J1U2NlMnhfaW9Ebjl6OHdId2VlNFZsellXSjhubU8xY2lNMFhVNTlrNlh1S2hDc2pSRGNNN1JuUHpVaWZVdG81ZzJqUXVZc0E0empxOG14dGlGUjItNFhKQnI1STFXYTJSUGxJRmF4TV90VGZs?oc=5"
     }
   ]
 }

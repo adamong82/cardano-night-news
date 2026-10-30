@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-10-30 15:02 UTC",
+    "updated_at": "2026-10-30 20:47 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -16,6 +16,18 @@
       "summary_en": "Cardano Price Prediction: What Would Have to Happen for ADA to Get Back to $1? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0M4OFNBai1xNkJxQXhUNXc5Q3V4NnZqZ0s0MmJYZjVyUmlfTG9TLXlOWjBEY0xkZWp0VWRaZVd5WkZ0aTlxbnFaXzdELUZXd2xycGM5MlRzWXE0VnJZX2FQWmdVaFYtc1ZMall5QzNKSGNGRTZheFdzRGdjUDczV2NLR2FfNU50YWNtZUNxNmhYOHRsYkxxeUVENDlUdk9MX1dHX29HeWVkdUI2MXU0Ry1mUFVrRmtxQ0piS18tQ3lCRkdwaWJiUGNmZm5WZFk?oc=5"
+    },
+    {
+      "id": "a448238d8951",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-30",
+      "source": "Google News · Cardano",
+      "title_en": "ADA Price Prediction: Cardano Falls Below $0.20 as Analysts Eye 300x Gains for Pepeto Presale - TechBullion",
+      "title_zh": "ADA Price Prediction: Cardano Falls Below $0.20 as Analysts Eye 300x Gains for Pepeto Presale - TechBullion",
+      "summary_en": "ADA Price Prediction: Cardano Falls Below $0.20 as Analysts Eye 300x Gains for Pepeto Presale &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNektsQ0cwWG1EVGlGejJWenppQ1A3SDl6Y1ZJcU13OWEweWRpRDgwTGo4Tkdfajd2ZFBwWkRuMEJxRVZ5NnZ2YVAtTDdBOTFkaVN4SG00dkswT3ZDNGZMUk40WTlwdU14ZnI0Y2ZDS0pGRG1GZGJudEV5ZFN3Y0ZRQ2pEZy1wQ0YwMHdoLWJUZUhvOUN6T2FKdWJ4eDl2Zmt1WUlkaWQ4d3FPZ2NRQlduMjE3cE81YWM?oc=5"
     },
     {
       "id": "d05641a8bea6",
@@ -712,18 +724,6 @@
       "summary_en": "Cardano long downtrend near end, analyst sees $3.25 in 2027 &nbsp;&nbsp; 디지털투데이",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcTZBRHE1ODZKajIyNGZkczA2MWl3UV9idXA2WUlraFMzX3IzY3Y2UTNlOUxsdi14QWxJN3VpT2IwdnI3NVFwV1VWWHVYN3hUWEFiZWNIVDRPOTRWRkdXdGZCQ28zNElsNmZIQ1l4aFg5YksxX3dkUFBDU0NxNml2Y1hyOTkwV3JKcGk0WnJWMFJPUHhJOEtrTi1yY0EzeEtZTEx5ajV3?oc=5"
-    },
-    {
-      "id": "3a941897dfd2",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-20",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano: $62m in DeFi at an $8.15bn market value - CryptoTicker",
-      "title_zh": "Cardano: $62m in DeFi at an $8.15bn market value - CryptoTicker",
-      "summary_en": "Cardano: $62m in DeFi at an $8.15bn market value &nbsp;&nbsp; CryptoTicker",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE01QTZaLUlZNHFwSEluWDJTZVEyNEhpdjhWM1hTNUxOSmNzYkI3WlNzUGhNeTU3VXFLSThJOFBqTEloQmhvZmNXTnlDMVVzdjFhdnZoWmdKMm92YjRwWXBUSUpzVXVFclNJ?oc=5"
     }
   ]
 }

@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-10-29 21:07 UTC",
+    "updated_at": "2026-10-30 05:48 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "a1333a3c6a1e",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-30",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Prediction: What Would Have to Happen for ADA to Get Back to $1? - 24/7 Wall St.",
+      "title_zh": "Cardano Price Prediction: What Would Have to Happen for ADA to Get Back to $1? - 24/7 Wall St.",
+      "summary_en": "Cardano Price Prediction: What Would Have to Happen for ADA to Get Back to $1? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa0M4OFNBai1xNkJxQXhUNXc5Q3V4NnZqZ0s0MmJYZjVyUmlfTG9TLXlOWjBEY0xkZWp0VWRaZVd5WkZ0aTlxbnFaXzdELUZXd2xycGM5MlRzWXE0VnJZX2FQWmdVaFYtc1ZMall5QzNKSGNGRTZheFdzRGdjUDczV2NLR2FfNU50YWNtZUNxNmhYOHRsYkxxeUVENDlUdk9MX1dHX29HeWVkdUI2MXU0Ry1mUFVrRmtxQ0piS18tQ3lCRkdwaWJiUGNmZm5WZFk?oc=5"
+    },
     {
       "id": "d05641a8bea6",
       "topic": "cardano",
@@ -40,6 +52,18 @@
       "summary_en": "Cardano below $0.20: what counts for delegators &nbsp;&nbsp; CryptoTicker.io",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rQ3VaY3luaHBpOW8wNmZFZ0VPZXQwMFpOZlExOGRMS1Z2cHBMVGhOREt6Wk5DT3p0U3pid3ZDVGpkMEZMeV9zSGxNX0kzX0hEUFpKbUJoX0JZaEFPMnJNd3VZdlVvc2R6N1hrZFdVQmR5U1FJYVE?oc=5"
+    },
+    {
+      "id": "21457201d635",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-10-29",
+      "source": "Google News · Cardano",
+      "title_en": "ADA Price Prediction: ADA Holds $0.20, Cardano Weighs a $5M Copper Bet, and Pepeto Buyers Eye 100x - TechBullion",
+      "title_zh": "ADA Price Prediction: ADA Holds $0.20, Cardano Weighs a $5M Copper Bet, and Pepeto Buyers Eye 100x - TechBullion",
+      "summary_en": "ADA Price Prediction: ADA Holds $0.20, Cardano Weighs a $5M Copper Bet, and Pepeto Buyers Eye 100x &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1YxcF96RjUyZDE5RTNnVHFvRVJFOFpVVzN4ZHJ3MXN2WlFJNEVhU0ZKRE5qdTZ4VnZsU1dteWVVQU5tRmRFNnVPVjJyaWtET1FnR3J3eTVjeXEwVFFQRHF1WXRNanZwVE5yQUZPZ2N3a1RxZWwxb1ZxSGoyUlFraXlta2ZZd0FSVmc5TlJTcmUyckEzT2JGMlVfQlhjTFJIeUNFbUE0WlZuUDZhOUd2VmxsVG1sd1laQmc?oc=5"
     },
     {
       "id": "ffbce4b2ea2d",
@@ -700,30 +724,6 @@
       "summary_en": "ADA Price Prediction: Cardano Founder Teases New Upgrade as Price Struggles Near $0.22 &nbsp;&nbsp; CoinCodex",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdGlwZjdzckZ3LTVKbjJyd2hpSjdqdGJ0NzY4TmRubDROeUdwdVFQaGJRdWUweGJtQUJJcDQ4ZHhwS3JFMjd0YjZBeXhsXzdJYUhGM2dVYlJzeVdNZVV1Rkk2amtlczZsaHJJSUtucGd1bXo4U2QtWEhVN1oxc0wweE1PRmJiZXE5eG5vZGY5TzVWTFROLWpHVE9YdkxTQy1hSmY1UHBfbEtfOGtzc0dYUjMwTGlpSnlQdmhIaA?oc=5"
-    },
-    {
-      "id": "c9ad7f61122c",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-20",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano's blockchain holds just 0.76% of its $8... - Pluang",
-      "title_zh": "Cardano's blockchain holds just 0.76% of its $8... - Pluang",
-      "summary_en": "Cardano's blockchain holds just 0.76% of its $8... &nbsp;&nbsp; Pluang",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemtwdl9Lb2gyMTI3NUFYSEZGZjl4Ym9Wb1ZiS21vYVNyQ2VfYUFkTFNFaENZRHNFYU9qYnpxLUtuQzVwNEs1UEFfU1RKZmV2N3doU0NaSmUzVXFWNVE5bi1YWXMtMk5JWXRHS0lCZEdOZE5tVnhOUEc2d296cV9IQ0l5MjFLeDF2UWNj?oc=5"
-    },
-    {
-      "id": "77bf8a182d69",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-20",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Founder Rejects Calls to Bail Out SecondFi Hack Victims - CryptoRank",
-      "title_zh": "Cardano Founder Rejects Calls to Bail Out SecondFi Hack Victims - CryptoRank",
-      "summary_en": "Cardano Founder Rejects Calls to Bail Out SecondFi Hack Victims &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUQ1WjFoN1R1bmRSNWN1N1dOdnJrZW4tbHpSTkFrLW8yVkI3SFJSZ3FxRDJJa201TFlMQmJROXlYaWwwWElZY25zUkU4NTZPNzJrY3Z4c0phUUY5bThXVVFhLUpHTDlNVmhIRWstZ0w2LW85U01PUU0yZGprVHBBQlFSQVRrLXhzN2k5QVduNnVJYW00Y0ZfTlU1MF9rVnFYanow?oc=5"
     }
   ]
 }

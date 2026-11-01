@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-01 15:07 UTC",
+    "updated_at": "2026-11-01 20:30 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -187,10 +187,10 @@
     },
     {
       "id": "1f167eb4d986",
-      "topic": "midnight",
+      "topic": "cardano",
       "type": "media",
       "date": "2026-10-28",
-      "source": "Google News · Midnight",
+      "source": "Google News · Cardano",
       "title_en": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? - 24/7 Wall St.",
       "title_zh": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? - 24/7 Wall St.",
       "summary_en": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? &nbsp;&nbsp; 24/7 Wall St.",

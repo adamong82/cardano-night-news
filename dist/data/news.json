@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-01 20:30 UTC",
+    "updated_at": "2026-11-02 06:00 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "0ce961526248",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-01",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano, Hedera and Avalanche Lost 20% or More in October. Which Could Recover Most by 2027? - 24/7 Wall St.",
+      "title_zh": "Cardano, Hedera and Avalanche Lost 20% or More in October. Which Could Recover Most by 2027? - 24/7 Wall St.",
+      "summary_en": "Cardano, Hedera and Avalanche Lost 20% or More in October. Which Could Recover Most by 2027? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPXzEyVE5vRVp3Z1B4bE9oLUtzOEJpWkZkbUt0aXVwRjRFMnZ4ZDBwTnJoTmI5TC1pR0VFSFZkMXhqZEtKQk1rZGx2cFRjbnJZaTgwaFVoU2hEQ25ORi1QQVNicE1VT0dwUWNhT1BMRkVQd3FzVGZIZmoxTHNnZ3cxTnpMcWc0azNpdktQQXJGb1RaUjBVZWpNMEpwMWxPUHMwOHdINWphTXZuQ1QtT1c3OVd2Qk5UQ2h1YldiMk5fVlplRmw1N1BZblR2Yzh3dGgzcmZ4Q0staGdEUFUzT0xXeg?oc=5"
+    },
     {
       "id": "87e07593e641",
       "topic": "cardano",
@@ -712,18 +724,6 @@
       "summary_en": "Important Cardano News and ADA Price Update: October 21 &nbsp;&nbsp; CryptoPotato",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFpZMzEyOVdPenpGQ3JXd1lRVjd4d3ZaU1BtSVY5S0lrXzM2UklMVDBtcFFscV9PbTVqOGxMdU1pOVZzWER2WEJLTEV5d0NuWUxRaER6OVI2bTRnaWpJZ28yQl9hd3plRGFiZkR0WE9Lck51c3pvZkxJUUdjWUxSbHVkMDJReFU?oc=5"
-    },
-    {
-      "id": "b6df38f3aeec",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-21",
-      "source": "Google News · Cardano",
-      "title_en": "Can EU improve MiCA without new rules? Cardano Foundation makes its case - Crypto News",
-      "title_zh": "Can EU improve MiCA without new rules? Cardano Foundation makes its case - Crypto News",
-      "summary_en": "Can EU improve MiCA without new rules? Cardano Foundation makes its case &nbsp;&nbsp; Crypto News",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMUZZZ0diRzhPV0lHdUFMTzB6VUZ2M2JUNWk0ZXFzd2tWUk5hZUVDZ0hLalNWNGU4M2RPYkpMcndOSnZsNENBN2xrN2xUbk1EWENFMkxYQmx5bUdQakpxcFphNjIxcWJreXE1T1pENmsyWVlZV3VPTFRjci1NOGU4UzNiZWk5RUhXUVJ5OEVjQkQ1X1lrcVJv?oc=5"
     }
   ]
 }

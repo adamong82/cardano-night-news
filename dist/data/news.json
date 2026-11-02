@@ -1,10 +1,34 @@
 {
   "meta": {
-    "updated_at": "2026-11-02 06:00 UTC",
+    "updated_at": "2026-11-02 18:21 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "2653bddd5878",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-02",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano to Participate in Blockchain for Humanity in Geneva on November 5th - TradingView",
+      "title_zh": "Cardano to Participate in Blockchain for Humanity in Geneva on November 5th - TradingView",
+      "summary_en": "Cardano to Participate in Blockchain for Humanity in Geneva on November 5th &nbsp;&nbsp; TradingView",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc05oY05zcktIbV9iTVY0cmtSYXlHRUhKN09TWTRtVHNlczEyaTZ5QVd4TWxfYzhYMHhOSC1obGhXLTR4LWd5aXgxcG55NWMzUEhvN1ltS0VzcTNfN05uQ21ndWt3MDNDbzlSbjItMG9CbWN1VVB3M3dvQnZSbFRWZE5rdDYtM09wMnVOd3ZfbmFvczJieUR2aTNFTHNHODYtU2tFWm9qbzFoUkd1REllcS1ENEpzbjE0ZUtaZkZRb1d0NmhORWVDb0g5QzZHUQ?oc=5"
+    },
+    {
+      "id": "d175669146da",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-02",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano stake pools hit by critical Linux flaw, delegated ADA stay safe - CryptoTicker.io",
+      "title_zh": "Cardano stake pools hit by critical Linux flaw, delegated ADA stay safe - CryptoTicker.io",
+      "summary_en": "Cardano stake pools hit by critical Linux flaw, delegated ADA stay safe &nbsp;&nbsp; CryptoTicker.io",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSXBGNFRHT0RnX3VKSmdIMlZRblpqbU00T0xsTEtkTS11ekxUREwyZElMWXV0VE02WkctUVRMYWxPdnpwNEFaSkdTY1g2SWRFNnBtQkpvdHBmbWNFdUlvVG1BM2pvNHJicXJ2d0xTY3NFa3c4VGc?oc=5"
+    },
     {
       "id": "0ce961526248",
       "topic": "cardano",
@@ -52,6 +76,18 @@
       "summary_en": "Cardano: 9.6 million ADA up for a vote, what to check before November 20 &nbsp;&nbsp; CryptoTicker.io",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0OWxDNDVQdk9ndHI5LVhnU1NPU3ZUbDRyT0pDTjQ4MFFsQ3lhMzFWUEJuM3VSODRRUG43eVhsVjZCbF9SQWhnT1ZfWjBiR183NnRqZ0NtQUUtdjRNcWdMbVNFMHk?oc=5"
+    },
+    {
+      "id": "e35c022f48d8",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-10-31",
+      "source": "Google News · Midnight",
+      "title_en": "Midnight Price Today | Live NIGHT Price, Chart & Market Data - Binance",
+      "title_zh": "Midnight Price Today | Live NIGHT Price, Chart & Market Data - Binance",
+      "summary_en": "Midnight Price Today | Live NIGHT Price, Chart & Market Data &nbsp;&nbsp; Binance",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQT0pmWkpMQ3djWm4xbXowWmxwUjdBSklRRXoxV0pWVi1LWDNqaVVKX2U2LU92bHNkNkRKTEJYT2wtd0dPNk44YUVPajdza3Ywa2R0UExhbUxpV0xlcVMyQ3RB?oc=5"
     },
     {
       "id": "a1333a3c6a1e",
@@ -199,10 +235,10 @@
     },
     {
       "id": "1f167eb4d986",
-      "topic": "cardano",
+      "topic": "midnight",
       "type": "media",
       "date": "2026-10-28",
-      "source": "Google News · Cardano",
+      "source": "Google News · Midnight",
       "title_en": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? - 24/7 Wall St.",
       "title_zh": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? - 24/7 Wall St.",
       "summary_en": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? &nbsp;&nbsp; 24/7 Wall St.",
@@ -304,18 +340,6 @@
       "summary_en": "Cardano Stablecoin Supply Tops DeFi TVL by $11 Million &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnR5QXZpOVltX05xeDhWdkNvNk9FUm9CMVF5eDVBaGJrTmpHZDRneFcxUGdObHZxV0MxYTVtc2dTVDhUT1Vzd3ZvMlptRllfcTI0T1JKdUowU3hEUFBwUzJ5aWxYZjNXN3l5QlZmZEE2S1lYZlZLNVl6bmJQekZESDNaU3R6cXlSbHhQSjk3SExSSk9iZWc?oc=5"
-    },
-    {
-      "id": "e35c022f48d8",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-27",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight Price Today | Live NIGHT Price, Chart & Market Data - Binance",
-      "title_zh": "Midnight Price Today | Live NIGHT Price, Chart & Market Data - Binance",
-      "summary_en": "Midnight Price Today | Live NIGHT Price, Chart & Market Data &nbsp;&nbsp; Binance",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQT0pmWkpMQ3djWm4xbXowWmxwUjdBSklRRXoxV0pWVi1LWDNqaVVKX2U2LU92bHNkNkRKTEJYT2wtd0dPNk44YUVPajdza3Ywa2R0UExhbUxpV0xlcVMyQ3RB?oc=5"
     },
     {
       "id": "3272b13dd619",
@@ -700,30 +724,6 @@
       "summary_en": "Cardano price prediction: ADA whales go quiet as analyst warns of 24% drop &nbsp;&nbsp; Crypto News",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxczBYN0V0b09qZEVVNXl4RklmZFVhUVpoREI0WXlhN29XYmU2ckdFRDVlUHZwVVpjZk5Samh2TFUxc28zS3h3cmg5VC1aQ2VPVWhfaXZHcHY5dEFLZVJJNm5TNlRGaWN6ZV93Z3F4bk9HbDA?oc=5"
-    },
-    {
-      "id": "bdb63bd82cac",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-21",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Whales Stay Quiet as ADA’s Chart Flashes a Sell Signal - CryptoRank",
-      "title_zh": "Cardano Whales Stay Quiet as ADA’s Chart Flashes a Sell Signal - CryptoRank",
-      "summary_en": "Cardano Whales Stay Quiet as ADA’s Chart Flashes a Sell Signal &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQWd5bnNvUlQtTE1Qa2JEa0k3YVFNUlFCSjhrYzBGTFBraGVRaDVjSW5Rbk5ic3lmcTZNVTZjSmJ3V0h3NVctT2J3STBqSHJoVy12ZU5ZLW54QVVfUk9oQWtlaVJqS01ZR1lYbHVOS1FGaFk4R0Y3OW8tSW5YYTBSdWl3RFNjelpYVmdSV0ZIeEM1MVJjenUxNEJQQTMycjU5?oc=5"
-    },
-    {
-      "id": "f3028448f09a",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-21",
-      "source": "Google News · Cardano",
-      "title_en": "Important Cardano News and ADA Price Update: October 21 - CryptoPotato",
-      "title_zh": "Important Cardano News and ADA Price Update: October 21 - CryptoPotato",
-      "summary_en": "Important Cardano News and ADA Price Update: October 21 &nbsp;&nbsp; CryptoPotato",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMFpZMzEyOVdPenpGQ3JXd1lRVjd4d3ZaU1BtSVY5S0lrXzM2UklMVDBtcFFscV9PbTVqOGxMdU1pOVZzWER2WEJLTEV5d0NuWUxRaER6OVI2bTRnaWpJZ28yQl9hd3plRGFiZkR0WE9Lck51c3pvZkxJUUdjWUxSbHVkMDJReFU?oc=5"
     }
   ]
 }

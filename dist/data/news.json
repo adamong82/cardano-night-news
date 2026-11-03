@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-02 18:21 UTC",
+    "updated_at": "2026-11-03 02:18 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -28,6 +28,30 @@
       "summary_en": "Cardano stake pools hit by critical Linux flaw, delegated ADA stay safe &nbsp;&nbsp; CryptoTicker.io",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSXBGNFRHT0RnX3VKSmdIMlZRblpqbU00T0xsTEtkTS11ekxUREwyZElMWXV0VE02WkctUVRMYWxPdnpwNEFaSkdTY1g2SWRFNnBtQkpvdHBmbWNFdUlvVG1BM2pvNHJicXJ2d0xTY3NFa3c4VGc?oc=5"
+    },
+    {
+      "id": "aff4dc6dfbe0",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-02",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price: ADA Drops 9.7% Despite Swiss Rules Win as Pepeto Draws Early Buyers - TechBullion",
+      "title_zh": "Cardano Price: ADA Drops 9.7% Despite Swiss Rules Win as Pepeto Draws Early Buyers - TechBullion",
+      "summary_en": "Cardano Price: ADA Drops 9.7% Despite Swiss Rules Win as Pepeto Draws Early Buyers &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWROQjVuakRoVVN1VW50NGExcHdaTWVQYWVYR21CellIeWdpbkY5YjY0Qmx5NlQ2cVExbnRTZnhqMWVmeDNNWjNNc2JNMDl5eTZVbEdHSWVueFNaLUtQVklTdUVNZmVmUHJSeG1ETzBDVjZrS182NkJ4QTItT0FZZVVVUmNlcFNjTHppbkRPM3M3SlZQR3IyRTlHNTNBd3M5VnA0ZUFJMGg?oc=5"
+    },
+    {
+      "id": "71b913baf735",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-02",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Prediction: ADA Holds $0.19 as Early Pepeto Buyers Position Before Price Rise - TechBullion",
+      "title_zh": "Cardano Price Prediction: ADA Holds $0.19 as Early Pepeto Buyers Position Before Price Rise - TechBullion",
+      "summary_en": "Cardano Price Prediction: ADA Holds $0.19 as Early Pepeto Buyers Position Before Price Rise &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG1za0lTbmh2WXlIS09xdmxXaGJxdFZLMkhsODJGeGZVQ0s1ekJpNklLTUV1dm5JT0hhZGR4d21xUU1oMTY1bjlaaFR4RkFya1FwaUtEVnYtY3JIOFZ0dkdORUFXVUVUa3h3a0t1blI5Mldkb19wcWdtREZnWGxfaU16ODdQVXdIc0lLaDNOUmhGcEhIeGpHTGh0MTFwRFNOTnMwdGlaNjdrd3k1anlXLWpJTUQ?oc=5"
     },
     {
       "id": "0ce961526248",
@@ -700,30 +724,6 @@
       "summary_en": "Cardano Price Prediction: Top Analyst Sees Sell Signal on ADA &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2l1cERfUEdsTnh2QWpXcVdyR3lNUUZjLVFfdEt3LUp3TERqc1lGZ1hTdzk5MUJZdk5Fb3Bwd0toZFlKc3VSb3hVRHc0ajdCNnJWRjlWLV9IaVZ6VWtxU1p4TlNHRUpDeFZDXzZDT09ud1NXZ0YyTm0tQTJXZ1cwMlR5U3g2V1lYbHFlQW11QkxrWHRhQ0t1N0ZzZk1uMVE?oc=5"
-    },
-    {
-      "id": "40bf69f469ed",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-21",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Founder Welcomes TRON to Midnight - CryptoRank",
-      "title_zh": "Cardano Founder Welcomes TRON to Midnight - CryptoRank",
-      "summary_en": "Cardano Founder Welcomes TRON to Midnight &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd3dFekwxdlN2ZWQyWm4tdXBpbl9NNWdVRGs4N1I2T24xdVd6RjBrN3NPWjZBN0diQWU4Ukg1X1AyaGNQSVpXMFRUVnlRSk5fS2M3OFRoTFdCREI2Q2tfTGltb1BVZ25MQ1FxZkhUMElkZEdhTnpCbVkxRElyQ3RyY3A2aFlVdw?oc=5"
-    },
-    {
-      "id": "089f53825269",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-21",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano price prediction: ADA whales go quiet as analyst warns of 24% drop - Crypto News",
-      "title_zh": "Cardano price prediction: ADA whales go quiet as analyst warns of 24% drop - Crypto News",
-      "summary_en": "Cardano price prediction: ADA whales go quiet as analyst warns of 24% drop &nbsp;&nbsp; Crypto News",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxczBYN0V0b09qZEVVNXl4RklmZFVhUVpoREI0WXlhN29XYmU2ckdFRDVlUHZwVVpjZk5Samh2TFUxc28zS3h3cmg5VC1aQ2VPVWhfaXZHcHY5dEFLZVJJNm5TNlRGaWN6ZV93Z3F4bk9HbDA?oc=5"
     }
   ]
 }

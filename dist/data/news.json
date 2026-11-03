@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-03 02:18 UTC",
+    "updated_at": "2026-11-03 11:56 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "e923314a4978",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-03",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price at $0.1882 - The Cryptonomist",
+      "title_zh": "Cardano Price at $0.1882 - The Cryptonomist",
+      "summary_en": "Cardano Price at $0.1882 &nbsp;&nbsp; The Cryptonomist",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXhRRGd2VWFMR3NWYk55VkhiUGxxOENJMzBhY1lmQWY3UjNYRmZuRDBpbmd1TnZYRkIxMU5OaHp0cUhiblRqUUhEVE53Z0NubFZDWDVMRG85ekhSTlNtM0xpTWx6RnRGemtsd3ViU3J4ekVBcF8yWHlNUk9HWFpoU2dRWVdGX0NCYjRpR1l0R2g1a2ZQNDVFbS1B?oc=5"
+    },
     {
       "id": "2653bddd5878",
       "topic": "cardano",
@@ -712,18 +724,6 @@
       "summary_en": "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens &nbsp;&nbsp; Benzinga",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2s0dWJ2aEgzNEZSVUVLMU5Fd1cyMFpKX052a1RVeDhNRW9NV0NRa1JyLWoxbngyX2ZKcTRUeHdvTUFVV0UzbjdZdkhyb1ZIREstbDZBWWF0VDdXWXlublZyV0ZlTHVRWXRITHZ3X2dyQi1tT2FXMkUyYmI3R2dpbTdZMi1IcHI5akR1QndVb3hLM3d6MzJuajZXQlc?oc=5"
-    },
-    {
-      "id": "276ae2221f53",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-21",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Prediction: Top Analyst Sees Sell Signal on ADA - CryptoRank",
-      "title_zh": "Cardano Price Prediction: Top Analyst Sees Sell Signal on ADA - CryptoRank",
-      "summary_en": "Cardano Price Prediction: Top Analyst Sees Sell Signal on ADA &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON2l1cERfUEdsTnh2QWpXcVdyR3lNUUZjLVFfdEt3LUp3TERqc1lGZ1hTdzk5MUJZdk5Fb3Bwd0toZFlKc3VSb3hVRHc0ajdCNnJWRjlWLV9IaVZ6VWtxU1p4TlNHRUpDeFZDXzZDT09ud1NXZ0YyTm0tQTJXZ1cwMlR5U3g2V1lYbHFlQW11QkxrWHRhQ0t1N0ZzZk1uMVE?oc=5"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-04 00:36 UTC",
+    "updated_at": "2026-11-04 12:08 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -66,6 +66,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORkNNS09JM3YyUjZyOEZTQWJkemZHZmlmT0N1b2NQbE1hRjF4RGJhM2R2cUNjc1NxelZTRzhZOHl6MUdsdVhZcnlZT2hJSUZJRnlfemRoWVhVaUxab2piZ1FBZ0pSUkEwajFmWEdsNGlIWkljRWhPQlhLNndBZ2phamZYa0pUWGxrSFMzYg?oc=5"
     },
     {
+      "id": "87743c622591",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-03",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Bounce From This Key Support Strengthens Case for Recovery to $0.23 - CryptoRank",
+      "title_zh": "Cardano Bounce From This Key Support Strengthens Case for Recovery to $0.23 - CryptoRank",
+      "summary_en": "Cardano Bounce From This Key Support Strengthens Case for Recovery to $0.23 &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2pZeUk5ejlNVkc4Y0s5Z1N6a2w2VkpXTDNXQ19YREFlNk5jMklSeWtwVmdvcExtTWF3Wk96V29CVW1zS2NudG13b2NDSG5ObkUzYVJuNmxoRVVfNm9ieUVEV3NxZjhtYzNSYTUxT00wOXJoMHNyYVNiSzc0WV95N0pBbXBKdmRyZFlnSERybm0wajJHb1BaUjVzSTkweE9zUXQ2Q29Zdk9iV1JDZWJJbW53?oc=5"
+    },
+    {
       "id": "2653bddd5878",
       "topic": "cardano",
       "type": "media",
@@ -124,6 +136,18 @@
       "summary_en": "Cardano, Hedera and Avalanche Lost 20% or More in October. Which Could Recover Most by 2027? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPXzEyVE5vRVp3Z1B4bE9oLUtzOEJpWkZkbUt0aXVwRjRFMnZ4ZDBwTnJoTmI5TC1pR0VFSFZkMXhqZEtKQk1rZGx2cFRjbnJZaTgwaFVoU2hEQ25ORi1QQVNicE1VT0dwUWNhT1BMRkVQd3FzVGZIZmoxTHNnZ3cxTnpMcWc0azNpdktQQXJGb1RaUjBVZWpNMEpwMWxPUHMwOHdINWphTXZuQ1QtT1c3OVd2Qk5UQ2h1YldiMk5fVlplRmw1N1BZblR2Yzh3dGgzcmZ4Q0staGdEUFUzT0xXeg?oc=5"
+    },
+    {
+      "id": "fc5689d7f481",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-01",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano News: ADA Price Risks $0.16 Despite Developer Surge - CryptoRank",
+      "title_zh": "Cardano News: ADA Price Risks $0.16 Despite Developer Surge - CryptoRank",
+      "summary_en": "Cardano News: ADA Price Risks $0.16 Despite Developer Surge &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTF0eXJwZXFPR1JxVm1RZ1haZ1ZZeDJDYTI3ZGpoRmtoUTBDYVZyMy00alh4YUczQU1HcFIzdzhjQm1ZVVd0amdKODUybHNKWFRhSFlXNUstZWNmYktEWVp6VTE5M005RzdjeGhCSTVJbDM3b2dnT2U2LTVBUkYyN0NUeDMzaDhBSkZoQmE0SmIwalJEdDZKRzhQZw?oc=5"
     },
     {
       "id": "87e07593e641",
@@ -319,10 +343,10 @@
     },
     {
       "id": "1f167eb4d986",
-      "topic": "midnight",
+      "topic": "cardano",
       "type": "media",
       "date": "2026-10-28",
-      "source": "Google News · Midnight",
+      "source": "Google News · Cardano",
       "title_en": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? - 24/7 Wall St.",
       "title_zh": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? - 24/7 Wall St.",
       "summary_en": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? &nbsp;&nbsp; 24/7 Wall St.",
@@ -700,30 +724,6 @@
       "summary_en": "Paying in ADA: Cardano’s vision for the future of payroll &nbsp;&nbsp; Hackread",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0ySS02RERnd0tSRjJDMG1KLVgzSE40clZybW90MXdSNVpqZFlYaVNQNldtdFRuOERJbWxsLUtZdXhib0piaTNxOGduaER3aE1LUVRON3JpU2dGMFh1b0RPRjVoWUlpY09oak80Zm84dw?oc=5"
-    },
-    {
-      "id": "04d038295d38",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-22",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano (ADA) Founder Charles Hoskinson Announces Personal Work on a New Programming Language - Crowdfund Insider",
-      "title_zh": "Cardano (ADA) Founder Charles Hoskinson Announces Personal Work on a New Programming Language - Crowdfund Insider",
-      "summary_en": "Cardano (ADA) Founder Charles Hoskinson Announces Personal Work on a New Programming Language &nbsp;&nbsp; Crowdfund Insider",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNkk3TDNQSVNsbnhmTGNIalRKMWsyVnh1STFqaFNOOUhMTTdPUG1seTQ0ejdWdU5oeFREY2FYdDdwdEU3RFBQS3drZi13clRZTVNMNThTUE11bGk1XzJfY2ppOUJZai14YVhNQUJ6Z2hULTMyOElnSWRzaHhuRlg3RURVU09sXzZiQmVKUjdTdzRFOWM1UjdwSVJXcDhIZDhvM2ZVckRFaDQ5TjRRQlhIVmRwZGp1bzV0cV9aNWtvLU1xc1JsY3M1UW94a0RrX1JGaTUyRE1UYw?oc=5"
-    },
-    {
-      "id": "55f47736182b",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-22",
-      "source": "Google News · Cardano",
-      "title_en": "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens - TradingView",
-      "title_zh": "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens - TradingView",
-      "summary_en": "Ripple, Cardano, Chainlink Push for Binding SEC Rules Around Tokens &nbsp;&nbsp; TradingView",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFJPcDBVSGtVaGpURHJVM3RYcnRBbHZqUWltZFVOa0lJTmhvY2lkcjVnUk56bzM1Wjc5QVNJQnpQRXZPRVZkTm84Zjl0YW04TmdGTjJmLTctUFRZWWJqeFlpa0pnUVp5a1dRTEdfaHlLUkNadTdQODAtYWNQMjBwbUVWS084eVIzMXhhQnNNLVlwTjZqUGJFRnhDdUJTcmU0SGl1NVFNYmRUUTNkeDV1aXlHODM0NXVoTWJqaTZReHd6Zw?oc=5"
     }
   ]
 }

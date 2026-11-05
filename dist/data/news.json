@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-05 00:53 UTC",
+    "updated_at": "2026-11-05 12:19 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "9d840bb4a691",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-05",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Calculator: Profit, ROI and Break-Even Price - CryptoTicker.io",
+      "title_zh": "Cardano Calculator: Profit, ROI and Break-Even Price - CryptoTicker.io",
+      "summary_en": "Cardano Calculator: Profit, ROI and Break-Even Price &nbsp;&nbsp; CryptoTicker.io",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIVzZ4aUpaZHpaQkFibTRaSy1maG1PYjR5ak43X19PNW1YVmtoXzhGQUV6QUlKWXB1d3FUMllIaTdOdDNpS1FPNzYycGFVMnhUNnA3SGFyV0JPQ2Y5Y3FIaDBfRQ?oc=5"
+    },
     {
       "id": "0c01e2197677",
       "topic": "cardano",
@@ -16,6 +28,42 @@
       "summary_en": "Cardano Price Prediction: 131M ADA Earns Nothing in Closed Pools as Stakers Eye Pepeto &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUG9QSmM3RU1HNVpLLVNxUXpmejlsVDJxMzRXSUp1UENrenlWdnRHZ3JuWnZzeGF0bERIM19yd0NBM3IzMklFRkRyc1Z2ZWNYbzJjbWNtS1kwdWExZ29nbnhpaXE3ZE5DZWRrdU5DYWt3QVJPREUzbENpZFE0RjU4Mm1fd0tOc050alZxRldxeGc5SmpQZExMWnl2NjNFRDVXS1FBNjVZTTV2Q1VrTEpj?oc=5"
+    },
+    {
+      "id": "53a7787520ac",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-04",
+      "source": "Google News · Cardano",
+      "title_en": "59,025 Cardano Holders Still Have 131 Million ADA Assigned to Retired Stake Pools. Are They Losing Rewards? - 24/7 Wall St.",
+      "title_zh": "59,025 Cardano Holders Still Have 131 Million ADA Assigned to Retired Stake Pools. Are They Losing Rewards? - 24/7 Wall St.",
+      "summary_en": "59,025 Cardano Holders Still Have 131 Million ADA Assigned to Retired Stake Pools. Are They Losing Rewards? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaXJRUGl6blNlQWY1Ym5jSnMwUGQ1SHJlQWJKZER0LW5EV3Z5Y1E2Z3BOZ25EUk1YNXVvVGtVbTFOV1lJSEdWdVoteG5tQWJBVDFjT2VWUll4MFkwOGt1M19IWklVU210UXN3ZjYwZnVIZ01aS1B1QThrU1N6OElxbGhTZXRiX1ZRSlVGQUZjU3IzNG80MWQ0Y1dSZTlrUjhidGtfamlNd3BlQWtmRDBPVU53VG9xMEdvdmVkRXFWN3lCbkl5SGM0Qk9zMk03dFFsRDJIamxaMnB5UVMwSXc2WHJLNXVzUHBJekJwY2hPX1c4WVVXOGc?oc=5"
+    },
+    {
+      "id": "be1ef7cb0e13",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-04",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Ready to Repeat Its Legendary 2,000% Rally? Pundit Reveals Two Key Price Levels for Next Bull Run - CryptoRank",
+      "title_zh": "Cardano Ready to Repeat Its Legendary 2,000% Rally? Pundit Reveals Two Key Price Levels for Next Bull Run - CryptoRank",
+      "summary_en": "Cardano Ready to Repeat Its Legendary 2,000% Rally? Pundit Reveals Two Key Price Levels for Next Bull Run &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUnd3VDlPM2lxb0E2OVVBcldyU3hLRjZFSHJNUy14NGRpTk0yUzFfSGxEbmF1Q2UtaGFHYnZlcmFwTHZ0Y1hRQ05PS3dROTdOVzRhLVhvWXA2NHJhWnBGdUdfX3FMSFJuaVFWNWV0WllLTkp3cTlSSFViOFBobzNyRndkRGhlUHIxZWlQMGQ4VFhLSExoYmthR0FjUlcxaXEzX21sLVBpaUxmeTk4VnJWcmhzdzJOc3c2RzJlR2pEVVNncUFTdURfdUdtVUhZQWxuVXVwbnhWOA?oc=5"
+    },
+    {
+      "id": "fec5f6562c8f",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-04",
+      "source": "Google News · Cardano",
+      "title_en": "ADA Price Prediction: Cardano Holds $0.19 as Atlas Opens Futures and Pepeto Draws Buyers - TechBullion",
+      "title_zh": "ADA Price Prediction: Cardano Holds $0.19 as Atlas Opens Futures and Pepeto Draws Buyers - TechBullion",
+      "summary_en": "ADA Price Prediction: Cardano Holds $0.19 as Atlas Opens Futures and Pepeto Draws Buyers &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN1NCNzFCbTFDWGhPUF9uTkl4MEVWNWdxZ2dKSURIT2lOalM3TFp1M3dIbk8tQzFvSzU1UHBTMGhnTjRtaXZUaUlVYnl1MDJBYnVTTGtnX09kRmc3Vy1yZ00tYXpIMkFkX1BHZmMzZ01qX183eXo3TEZETU5wdjZwZVVMSGZLZWgzV1UxdzU3MlN1cW9FSGUxR0wzZHd1cmV0Q1hUSzZ4ZFZZVmczRmp1UA?oc=5"
     },
     {
       "id": "e923314a4978",
@@ -676,54 +724,6 @@
       "summary_en": "XRP vs Cardano: Which Has the Better Path to Recovery in 2026? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLTI5ZHdMbElZeFpUWGVIOXNoYlR0U1EweG5iZ2lPdEJSUVV5WXE3WkNwWGg0YW1oLVl3V1B3cWVpVC1EVTJzUkg0azhyVXpfem81QUxVSkpka0REYkJONzFTWjhvbUg5ZlVwWmhkdVZIWU1VaUI4NUJjZFBFNmxRUzdMSHdhaXJWUXl3Qkp6QW9OU2twdlJQNGdSRTVldXB3NkEyUUpLb2pYN1lyTHZXdzN4Y0pYNU1tVmNV?oc=5"
-    },
-    {
-      "id": "89ffe980bade",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-23",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Prediction: ADA Foundation and 5 Groups Push SEC as Analysts Eye Pepeto's 100x - TechBullion",
-      "title_zh": "Cardano Price Prediction: ADA Foundation and 5 Groups Push SEC as Analysts Eye Pepeto's 100x - TechBullion",
-      "summary_en": "Cardano Price Prediction: ADA Foundation and 5 Groups Push SEC as Analysts Eye Pepeto's 100x &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHJIcGZVOXlfWUJxQnR2Z2JseGFfR1RMUENKc2tTWTA0OGhmSGNheHhnb3J6ZTFnbVMwQ1lpbGNQbzBQNjFINjl1NGhRWjhxZzJmMi1EWUltQWlyR0tERkVBUVF0Ry16bjE1WTdCYzd1WHZ1V2huQ1hBeW83UEVELVBLMWRnQ29wYkxTWnNiYklULWJUYlBPb25zVXRINzRxSVJ5U2RmUTU1NVNqVjFXcW5zckpKdw?oc=5"
-    },
-    {
-      "id": "2a7a9e9d7a68",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-23",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? - AMBCrypto",
-      "title_zh": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? - AMBCrypto",
-      "summary_en": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? &nbsp;&nbsp; AMBCrypto",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFdybU8yQU5iQnBLU1lyUDBNUldHNVoxZlhIaWZMdER5TTZZc003ajJiWm5Pek9KaTR5LXV2SGttNkhjQU9iUDVxNnlxRF9oNF9ZMERoTEllOUp1V1ZZdW43RkxxMmZZMnlsNUpKb0dTRXBaNHM1dDhqSmFMM29HU0dzbk9Yam5JY205dV9KbFdYZw?oc=5"
-    },
-    {
-      "id": "52b67699553f",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-22",
-      "source": "Google News · Cardano",
-      "title_en": "MiCA: Cardano Foundation Opposes DeFi and Crypto Staking Rules - Cointribune",
-      "title_zh": "MiCA: Cardano Foundation Opposes DeFi and Crypto Staking Rules - Cointribune",
-      "summary_en": "MiCA: Cardano Foundation Opposes DeFi and Crypto Staking Rules &nbsp;&nbsp; Cointribune",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVVNoVlpINl96XzlYb1BweGJKU1BvOFpBSGlWajdOcVBLVTRZb29aZUEzZ1BQekJ5SGVLVHFpZzJzaTQ1UXpveGpMSURVOThwdV84T0ZQYUM4M20zSmktbzVBM2NObHJhWFdjeG9LSHVnQ20tdDhoNVVySXh1eEZ2TGFuclNsOENfUjc0Ym5UNngwdi1FNWdvaQ?oc=5"
-    },
-    {
-      "id": "a8332153852d",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-22",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Today: ADA Near $0.225 as Hoskinson Develops a New Coding Language and Remittix Hits $33M - TechBullion",
-      "title_zh": "Cardano Price Today: ADA Near $0.225 as Hoskinson Develops a New Coding Language and Remittix Hits $33M - TechBullion",
-      "summary_en": "Cardano Price Today: ADA Near $0.225 as Hoskinson Develops a New Coding Language and Remittix Hits $33M &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakFxOTNwNFo3MGxRZFdGb2QyYldQRDNsd2NScFZuNDIxeEU3QnQ4aEtzdTZNaDZzdjA0X08xeUlpWXFFMGhJVGM1QkdyUWo1ZDR0enZqOFZ6SXNjM2taNzZ5UmlzX3p5OXA1M05YbVJTNU12RnBnUDh0eThwWE9HYlpuZTZRODBEbzRJUFhZdmN2VXpSbG1TSzBqQy1PNFpaRFNzbnVzTHRoWTdBYlJ0YVVKSmZ6Vmc2elhDT0ZndU9ycUk?oc=5"
     }
   ]
 }

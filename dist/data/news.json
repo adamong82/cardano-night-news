@@ -1,10 +1,46 @@
 {
   "meta": {
-    "updated_at": "2026-11-05 21:58 UTC",
+    "updated_at": "2026-11-06 06:44 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "16df3940ee01",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-06",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Bulls Predict a 2,000% Rally, But Analysts Are Not Convinced - BeInCrypto",
+      "title_zh": "Cardano Bulls Predict a 2,000% Rally, But Analysts Are Not Convinced - BeInCrypto",
+      "summary_en": "Cardano Bulls Predict a 2,000% Rally, But Analysts Are Not Convinced &nbsp;&nbsp; BeInCrypto",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pak95TmlFd2pyM0pZVHJmVWV4T3hxU1I0bzBIcWNZLV90Sk50VGtTYnQySnI1REdRcURyeFl1YWlqbXo2XzdLaVpJZjNxd0dXU054RjhiNVhfWEd5cDYyVjlYVTVuRkhyNFFtcVlWY18?oc=5"
+    },
+    {
+      "id": "c7884e7265dc",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-06",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Under Pressure, Yet 58 Percent of All ADA Stays Staked - CryptoTicker.io",
+      "title_zh": "Cardano Price Under Pressure, Yet 58 Percent of All ADA Stays Staked - CryptoTicker.io",
+      "summary_en": "Cardano Price Under Pressure, Yet 58 Percent of All ADA Stays Staked &nbsp;&nbsp; CryptoTicker.io",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1rV3BYa0U5Skh5aElnTHFqcGxENkdNbE8xd185RExrME5OZGQwOGt2SG0zMUpibEpmTjNEUEVobVJmcUREWTdrQU1nRFhyRXFFYUlLRkhWQkxvczNQZ2hXX0tZblVTVzZWbXh6ZHVGdm4tSHdx?oc=5"
+    },
+    {
+      "id": "f7efb9fe6a4d",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-06",
+      "source": "Google News · Cardano",
+      "title_en": "ADA Price Prediction: Cardano Adds a Second Node on November 5 While AI Coin Pepeto Draws Early Buyers - TechBullion",
+      "title_zh": "ADA Price Prediction: Cardano Adds a Second Node on November 5 While AI Coin Pepeto Draws Early Buyers - TechBullion",
+      "summary_en": "ADA Price Prediction: Cardano Adds a Second Node on November 5 While AI Coin Pepeto Draws Early Buyers &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXVSRGRDOHkzRjJFd3EyWkdVWkF3QnJ0ZTM4VUxnc2szQnI1RHN1N0hYa2R6QVlrbUpFRWNDY2FyN3laejdXcWU0cWpmcUhYNUp2Ry0xZ3I3UHRMZ0FUajVOWlBmTUF3TDRLN0FLeGtiQmd2bzh4M196SU94X3R2RXFhQXZ6d05jY05DUWZac0NIenpCb0NoenpPX0V6d1JPeGVTaXk5R0lZY2ZkbU5IWWtTTXZJck5wTlRTcWNMb3RySkZD?oc=5"
+    },
     {
       "id": "9d840bb4a691",
       "topic": "cardano",
@@ -28,18 +64,6 @@
       "summary_en": "Cardano Price Prediction: The Levels ADA Must Hold Now &nbsp;&nbsp; CryptoTicker.io",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlN0Y1k4Q2l1bFZLMGREMFNDSElMSGxMWjRkZjlheGZjaDB5N0lFVjdPVVFHajhKU0FoSkNpSWJTSVZMaWcxY2gtWVU5VnpTTm5JaVkzZlYyUVVEUDI4eDZVNkFiVUdmVks3N3VkVnZPRUgxS0RiRU1YVFNmOERkV241cFJNRlY5bVE?oc=5"
-    },
-    {
-      "id": "16df3940ee01",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-05",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Bulls Predict a 2,000% Rally, But Analysts Are Not Convinced - BeInCrypto",
-      "title_zh": "Cardano Bulls Predict a 2,000% Rally, But Analysts Are Not Convinced - BeInCrypto",
-      "summary_en": "Cardano Bulls Predict a 2,000% Rally, But Analysts Are Not Convinced &nbsp;&nbsp; BeInCrypto",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1pak95TmlFd2pyM0pZVHJmVWV4T3hxU1I0bzBIcWNZLV90Sk50VGtTYnQySnI1REdRcURyeFl1YWlqbXo2XzdLaVpJZjNxd0dXU054RjhiNVhfWEd5cDYyVjlYVTVuRkhyNFFtcVlWY18?oc=5"
     },
     {
       "id": "0c01e2197677",
@@ -700,30 +724,6 @@
       "summary_en": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? &nbsp;&nbsp; Cryptonews.net",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOGdUd3F4RFZ6UFhaRE4zOXRLcHJEN2dZOFFNbmJwRWhjM1dnMnVoZlNSUFhRVXFOMzJHd3lwSktYUzRCSWtZZC0walRCSmhPMmRIa3hyY09JWTA?oc=5"
-    },
-    {
-      "id": "99d629654004",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-23",
-      "source": "Google News · Cardano",
-      "title_en": "ADA news: Cardano holders are being asked to bet $5 million on copper hitting a new record - CoinDesk",
-      "title_zh": "ADA news: Cardano holders are being asked to bet $5 million on copper hitting a new record - CoinDesk",
-      "summary_en": "ADA news: Cardano holders are being asked to bet $5 million on copper hitting a new record &nbsp;&nbsp; CoinDesk",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQU1lrZGhkZWpEUFFlcjVVZ2NuaTdQNzlqUldnNDBLd3NjNUtMQ0VmTVlwckJZUDVidmNfQXBSQTlqc0hUX3VzaGp6T2c0SFQ3UXpRN3BZODk0bWlSMDNlODNMemtzZHNhZk54Yzg4WnlpVFViMzNYTUFrOU9wdjZLclZqMzM5TERZZE9td1FiX2VHMmdRMTUyWXVTM2lLQlA2cV8zTEdDVzFrQmQ3Q1IzbWtYRTR1Vm9QUVc0R1podFZ3dzZy?oc=5"
-    },
-    {
-      "id": "77c2ed7eaa4c",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-23",
-      "source": "Google News · Cardano",
-      "title_en": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027. - Yahoo Finance",
-      "title_zh": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027. - Yahoo Finance",
-      "summary_en": "Not Bitcoin. Not Ethereum. This Once-Popular Cryptocurrency Could Be the Biggest Winner of 2027. &nbsp;&nbsp; Yahoo Finance",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXFUdG1TaTRveTk3VUhFclVvNVNiUzNHZHA1Tm12SVF6X1I5ZVJoVHl5eW90UWZoVnBZN1ZlM2RDX19FMXRGVFI0LXV5Z3lqc0QybW1BU1NnWGRnUWpnd2dFMlB0TGV3TmMyUnJpTDJyaDN3YlI5dmhMUG9CODJZRHJKTnNxMUVwVHp4OHRpSEJaUmVXS3hPY21B?oc=5"
     }
   ]
 }

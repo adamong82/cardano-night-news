@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-06 06:44 UTC",
+    "updated_at": "2026-11-06 15:55 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -40,6 +40,18 @@
       "summary_en": "ADA Price Prediction: Cardano Adds a Second Node on November 5 While AI Coin Pepeto Draws Early Buyers &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYXVSRGRDOHkzRjJFd3EyWkdVWkF3QnJ0ZTM4VUxnc2szQnI1RHN1N0hYa2R6QVlrbUpFRWNDY2FyN3laejdXcWU0cWpmcUhYNUp2Ry0xZ3I3UHRMZ0FUajVOWlBmTUF3TDRLN0FLeGtiQmd2bzh4M196SU94X3R2RXFhQXZ6d05jY05DUWZac0NIenpCb0NoenpPX0V6d1JPeGVTaXk5R0lZY2ZkbU5IWWtTTXZJck5wTlRTcWNMb3RySkZD?oc=5"
+    },
+    {
+      "id": "278cb7105a1e",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-06",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Today at $0.198: Is a Five Year Correction Ending as Pepe’s Cofounder Builds Pepeto? - TechBullion",
+      "title_zh": "Cardano Price Today at $0.198: Is a Five Year Correction Ending as Pepe’s Cofounder Builds Pepeto? - TechBullion",
+      "summary_en": "Cardano Price Today at $0.198: Is a Five Year Correction Ending as Pepe’s Cofounder Builds Pepeto? &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYzBpRFBrQTg4dzUycmZKckRRS1NDRU01WmY2OUxLaGJ5ZFNJbDFMbFoweFhaQkRaTHNQVlZaVjgzT2ZiZ2pNZjlsREtKTW1rWnNOVTdIcE9vUklWWVFDa0Yta0R0UUl6MHhabVNKYWxUN3IzdVA3MTV6X2tjWmhhQi15QWNNb0w2QnNTaTJRT3hySG5PSkZhM24xS2EwRWpZZW1jcElVNV9iQ3dwY0pnejVYVTRzSUhQb3VV?oc=5"
     },
     {
       "id": "9d840bb4a691",
@@ -712,18 +724,6 @@
       "summary_en": "Midnight Price Prediction 2026 to 2030: NIGHT Targets &nbsp;&nbsp; CryptoTicker",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5GMTdtY29fSUdEMjJiRWxMRUhTeC10d2lqTDlHZVRoa05jVDNHTmFUZ2I4aDY0ZmowQ2I2ZUlEMkx5bEd4dkxvc18tS2NKdDUtZnFQUTc5ekVnWjVhUXJSV3ZFc1BiOV9sdGdWQ1JqUm03bmY4RXdnd25UdW0?oc=5"
-    },
-    {
-      "id": "ba9c8f2692ba",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-24",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? - Cryptonews.net",
-      "title_zh": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? - Cryptonews.net",
-      "summary_en": "Midnight crypto slips below $0.04—How much of NIGHT’s rally remains? &nbsp;&nbsp; Cryptonews.net",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOGdUd3F4RFZ6UFhaRE4zOXRLcHJEN2dZOFFNbmJwRWhjM1dnMnVoZlNSUFhRVXFOMzJHd3lwSktYUzRCSWtZZC0walRCSmhPMmRIa3hyY09JWTA?oc=5"
     }
   ]
 }

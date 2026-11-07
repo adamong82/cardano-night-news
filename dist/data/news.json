@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-07 05:57 UTC",
+    "updated_at": "2026-11-07 14:54 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "5e22640b4f01",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-07",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
+      "title_zh": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
+      "summary_en": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? &nbsp;&nbsp; Coinpedia",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XelBOQ29VbmNSTlBaQ3k0bmZvSjFtR0djSmZWUk5SUmFKZHp4ZzBzTUdNVnBBNU52OVJsbWtYN1k2Nm5iRnU3bmM4a0owa2hTa3hUczVBT3o0emVSUVpQWHlnZEdSUmhuUmM3Q3VrUU9JUdIBd0FVX3lxTE9JbWVLNW9WZmcxczI4M2UtNG1MdFJnR0ZwdmNRaXNjRTFBU3RtQlZTVG5kU0NWbVNJX1BSaUFSREFXZUgtQi1XeFN2Tzczb3BZcTFNUUN2NEJyWWwxWE9kMGdOd2x1ZlFkU3VPamZ4eHhWek9rTnZz?oc=5"
+    },
     {
       "id": "16df3940ee01",
       "topic": "cardano",
@@ -712,18 +724,6 @@
       "summary_en": "Is There Cause for Alarm with Cardano (ADA)? Renowned Analyst Issues Major Warning &nbsp;&nbsp; Cryptonews.net",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMRngwcE1LSU5fXzlhRTFZTlgteUY3R1BnbWVhczF6U205WkR4TnM5aHgwTVp2dmpBTVdLTUM0UHVRX1BQRzNiQUk4ZTVfYUVIUGYxYzROdUVpUUE?oc=5"
-    },
-    {
-      "id": "8f101e823e90",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-24",
-      "source": "Google News · Cardano",
-      "title_en": "LNebraskan Gooner Says Cardano Will Never Hit New ATH Again - CryptoRank",
-      "title_zh": "LNebraskan Gooner Says Cardano Will Never Hit New ATH Again - CryptoRank",
-      "summary_en": "LNebraskan Gooner Says Cardano Will Never Hit New ATH Again &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOT0REd0k2TFV2Uk5NQUNFQS02M0hibS1ZVy1rbExUU3VFd0N6eTdfbUFPZV9MTURQSnd6TW1zd2lPakcyZWM2NTZ4ZjlidEJiZ2NKUFdaRzZpRTlGZ2NHamtGQkJTM2hKaWh4RkZsWGFnOE02b2Z6U0hsUUtjclREOU1iajBfM01iSFF3dkZKV2Y1aks2M3RYaEFKLTdXQQ?oc=5"
     }
   ]
 }

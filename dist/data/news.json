@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-08 05:59 UTC",
+    "updated_at": "2026-11-08 15:11 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -9,13 +9,25 @@
       "id": "5e22640b4f01",
       "topic": "cardano",
       "type": "media",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "source": "Google News · Cardano",
       "title_en": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
       "title_zh": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
       "summary_en": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? &nbsp;&nbsp; Coinpedia",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XelBOQ29VbmNSTlBaQ3k0bmZvSjFtR0djSmZWUk5SUmFKZHp4ZzBzTUdNVnBBNU52OVJsbWtYN1k2Nm5iRnU3bmM4a0owa2hTa3hUczVBT3o0emVSUVpQWHlnZEdSUmhuUmM3Q3VrUU9JUdIBd0FVX3lxTE9JbWVLNW9WZmcxczI4M2UtNG1MdFJnR0ZwdmNRaXNjRTFBU3RtQlZTVG5kU0NWbVNJX1BSaUFSREFXZUgtQi1XeFN2Tzczb3BZcTFNUUN2NEJyWWwxWE9kMGdOd2x1ZlFkU3VPamZ4eHhWek9rTnZz?oc=5"
+    },
+    {
+      "id": "abcca54a2551",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-08",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Today: ADA Near $0.183 as Remittix Earn Gives Crypto Holders a Weekly Payout Option - TechBullion",
+      "title_zh": "Cardano Price Today: ADA Near $0.183 as Remittix Earn Gives Crypto Holders a Weekly Payout Option - TechBullion",
+      "summary_en": "Cardano Price Today: ADA Near $0.183 as Remittix Earn Gives Crypto Holders a Weekly Payout Option &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSC1EYzRJVWRYS25laDVVZmpZZFJSMUFxUEdVVnlNWGxDeWRYTk8xRkpLeTlZMk5GUVlLdzMxeGQ5ejJCUEI4RFhwUmRUY0xSbWxHaUtPSkZmTDlBNzRSNVhWaElkSi1kN0pjR2dZLVVPbU1jX1EwcldyRWdHRlhscFg4ZzlEVVVUd3FsUlBFX1U5czN1cldQTVJicnNrYkJfRTVQQXhxVUlqdWlWRlFHOS1fSWNYZU4zSUpQdw?oc=5"
     },
     {
       "id": "16df3940ee01",
@@ -40,6 +52,18 @@
       "summary_en": "Cardano Amaru node cleared for mainnet block production &nbsp;&nbsp; CryptoTicker.io",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9WVGtBWXZCWm00ZEpoRnBobzAtTjJjNnVaYVBtSjZwQ0pwLWlicDVTYXMwSjRLd2FSWEJkUkNGMGU3bDdhUXlod3loVWk3TFgxQXRyV2ZPUDJOM25pdlNEb1FjM2MtTENDRXFib3FBWmJIakhFWHRLVE9nTQ?oc=5"
+    },
+    {
+      "id": "72425698e517",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-11-07",
+      "source": "Google News · Midnight",
+      "title_en": "Midnight (NIGHT) Surges 3.38% on Upgrade, RWA Growth - CoinMarketCap",
+      "title_zh": "Midnight (NIGHT) Surges 3.38% on Upgrade, RWA Growth - CoinMarketCap",
+      "summary_en": "Midnight (NIGHT) Surges 3.38% on Upgrade, RWA Growth &nbsp;&nbsp; CoinMarketCap",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DUkpoNDNidlpWZlVMMDZrZGkzVDlzRGE0b3ZlTXFFNVJhdHBGdVlqOVVmLTZfNUxJcWlqMk1jQzdtekI4RHdUdEd3bDItRHcwaUJ1Q3didklIZHh4UHo4ZDNFb2IzNzVPVUJiY3hlVGc?oc=5"
     },
     {
       "id": "c7884e7265dc",
@@ -700,30 +724,6 @@
       "summary_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? &nbsp;&nbsp; AOL.com",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84bGk1TlpGbGNvWm5hb2JfODNXMkRhbVdhOEZhX3RuaEhzTm1VZnBQTC13VWV1ampqV0d6UDlYTzVjOXBfbDQyR2RReElTelJGOGhhRnBlWmFNU3plTFlQQXdsSnJ3dXR2ejNVSG1uVEc1ZmtXRmxESnJFTQ?oc=5"
-    },
-    {
-      "id": "6df1951c9d1b",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-25",
-      "source": "Google News · Cardano",
-      "title_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? - Yahoo Finance",
-      "title_zh": "Why Is Ethereum Worth About 38 Times More Than Cardano? - Yahoo Finance",
-      "summary_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? &nbsp;&nbsp; Yahoo Finance",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQUR5MWx0TFNuRWE0QWJYRWt5cEhQS3BoWkRLYWtrRGpXQVdhTmRQLWFEWGNja2dmYzFrXzNXeVd3eHN2eXRKc1RidVh1LTNnbTdJM0NHSklJbEdFcTh1VGJXak0zVFI1NTdEdnFOYnViaTVWdWJuTEtPODJEWmFrRFhPQ0RGbldyVjJ0U0tJYVZJNVo0WEdR?oc=5"
-    },
-    {
-      "id": "49b689788c95",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-24",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Today: ADA Falls 7% as 100K Farms Go On Chain, Pepeto Eyes a Pepe-Like 150x - TechBullion",
-      "title_zh": "Cardano Price Today: ADA Falls 7% as 100K Farms Go On Chain, Pepeto Eyes a Pepe-Like 150x - TechBullion",
-      "summary_en": "Cardano Price Today: ADA Falls 7% as 100K Farms Go On Chain, Pepeto Eyes a Pepe-Like 150x &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV0JOc1NoaE1RRFN2OUozVzBweDFRdXNoTE1FamVKR2Y0SGN2VVFYU2RQbDFrQ29KMGpMeHU1R3dDMWUzMWFXZmhxZEZhalNkZm9PY1V0S01YdmxLbUhJekVZZjBEYVF1WW1iM0lPby1NTjU0Snlqd2k3X1ltNDdCa1FvN3d0UUVrTVRDX1dRWFdGYXoyNFltdEp1NFo3SnNqcTI4ZGtDbzkxRTRMa25QWA?oc=5"
     }
   ]
 }

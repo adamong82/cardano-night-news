@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-08 20:28 UTC",
+    "updated_at": "2026-11-09 06:26 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "6e6a408fa492",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-09",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Is Down 24% in 30 Days and Bitcoin 8%. Will ADA Ever Recover? - 24/7 Wall St.",
+      "title_zh": "Cardano Is Down 24% in 30 Days and Bitcoin 8%. Will ADA Ever Recover? - 24/7 Wall St.",
+      "summary_en": "Cardano Is Down 24% in 30 Days and Bitcoin 8%. Will ADA Ever Recover? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY1pCSUJod3N3SnpteWlHdmR1Y0dNaWhSYTU0R0dJLW5IeGhIbXkwenV3bXBDQ1RmZGZzVUc1aUxCSmJMMmJ6SWx6Tk1uaFM1aFZSNXZJVW1wVllRREdUSjcwSVdWX0REQ05tX1p2QTJZcWhBbHpYTWNtTnFsXzFZX09WLTNicmxROUF3aWxtMXBseGJucWJnTWpIRkxQMVpyUjhseXpPbXdRemZHN2wwZ0F0OTRqM0FWYWtjb0EtbWR2Zw?oc=5"
+    },
     {
       "id": "5e22640b4f01",
       "topic": "cardano",
@@ -28,6 +40,18 @@
       "summary_en": "Cardano Price Today: ADA Near $0.183 as Remittix Earn Gives Crypto Holders a Weekly Payout Option &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSC1EYzRJVWRYS25laDVVZmpZZFJSMUFxUEdVVnlNWGxDeWRYTk8xRkpLeTlZMk5GUVlLdzMxeGQ5ejJCUEI4RFhwUmRUY0xSbWxHaUtPSkZmTDlBNzRSNVhWaElkSi1kN0pjR2dZLVVPbU1jX1EwcldyRWdHRlhscFg4ZzlEVVVUd3FsUlBFX1U5czN1cldQTVJicnNrYkJfRTVQQXhxVUlqdWlWRlFHOS1fSWNYZU4zSUpQdw?oc=5"
+    },
+    {
+      "id": "2b2d3a845773",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-08",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Prediction: Can ADA Hold $0.18 With 70% of Top Traders Long as Buyers Pick Pepeto? - TechBullion",
+      "title_zh": "Cardano Price Prediction: Can ADA Hold $0.18 With 70% of Top Traders Long as Buyers Pick Pepeto? - TechBullion",
+      "summary_en": "Cardano Price Prediction: Can ADA Hold $0.18 With 70% of Top Traders Long as Buyers Pick Pepeto? &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZUxNUm92a0lIbndBWEpxaExkMi1CNEZseGVzU25aUjNtQU9abVU3SkF0b2VCbmpzN0dzdU5TOXdkc2ZWaTdqQTNVbWtHal9TQTltNlVTWi1zT0N1cndBTzluVXVyVWJqTVRSeTRfZEhCUXZtY2xIa3NqZE4tRy1ZU1U5b0E2eEdhWnhEbldOdFVYRG5jVDRTYkVSOHFPUWhuQWs2VDhWTWNSaTd3UVJSRzIyTFZydUlo?oc=5"
     },
     {
       "id": "16df3940ee01",
@@ -700,30 +724,6 @@
       "summary_en": "Cardano: 22m ADA for copper, vote to November 15 &nbsp;&nbsp; CryptoTicker",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9keVZuM0UzS1dpdkpfVTk5TUVGUExyVG1McmFZbC1ISk53T0ZWa2xHRU9qZE9INFVxdnFtWUxZbDhUUTUtVHF0dElnNW1KdGEteFBYdG5fcFFmeDJvUTkxSTNJWlM4WC15VllDa3ptdUtNUQ?oc=5"
-    },
-    {
-      "id": "4e13bfa4a217",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-25",
-      "source": "Google News · Cardano",
-      "title_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? - 24/7 Wall St.",
-      "title_zh": "Why Is Ethereum Worth About 38 Times More Than Cardano? - 24/7 Wall St.",
-      "summary_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzFrVjUwWWVHemVoV0tGRVptemo5c0h0ZDlRM0lxM0d0algtb3BpbzUzNHNKeHFIZ3QtTjV3b3Z1Y1ZQQ2RkdEd1TnNVSURSQXRzeDhZUUJfS1JyU014NGd6My1EUXZkNXRDTVRwQWRTaXpPQnNNd292MFJUV0tSMENSRHBiM1BnRWVqMmdPRnFBUURYMi1SQWtJNW9DOFU2RmFKWDgxaTVrckU1QnJpU0xRYw?oc=5"
-    },
-    {
-      "id": "625690655093",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-25",
-      "source": "Google News · Cardano",
-      "title_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? - AOL.com",
-      "title_zh": "Why Is Ethereum Worth About 38 Times More Than Cardano? - AOL.com",
-      "summary_en": "Why Is Ethereum Worth About 38 Times More Than Cardano? &nbsp;&nbsp; AOL.com",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE84bGk1TlpGbGNvWm5hb2JfODNXMkRhbVdhOEZhX3RuaEhzTm1VZnBQTC13VWV1ampqV0d6UDlYTzVjOXBfbDQyR2RReElTelJGOGhhRnBlWmFNU3plTFlQQXdsSnJ3dXR2ejNVSG1uVEc1ZmtXRmxESnJFTQ?oc=5"
     }
   ]
 }

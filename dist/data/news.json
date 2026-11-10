@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-10 12:38 UTC",
+    "updated_at": "2026-11-10 21:47 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -18,6 +18,78 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1Y0Y19wblRqTUJ6WElUZUhlUE9OUXRPdU8yTGJsTnZFZzc5UGJDcGhwa0ZpY3pYcGhYd1hYVjJ4c1hxY3EtVWV5T3dYTnBaeE1IUkpJLWpVLUU0UGNJalJFbUJCZHk0Z0p3OWt4cTFCU3RBOXdOTno3dnJSUUEwclB5NC1DVFFXMGloUzNsM1F6WjVQN3NfOGgyQVExMGJBeWg4emJMVmFQZHFEWFA2RXNZbHdoanVpSk9udTJkNGhrZmE1dEF6cWZlSDltd0E?oc=5"
     },
     {
+      "id": "7937162db392",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-10",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Fell 29% in 30 Days, Even More Than XRP. Does Cardano Have a Future? - 24/7 Wall St.",
+      "title_zh": "Cardano Fell 29% in 30 Days, Even More Than XRP. Does Cardano Have a Future? - 24/7 Wall St.",
+      "summary_en": "Cardano Fell 29% in 30 Days, Even More Than XRP. Does Cardano Have a Future? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWmJ5RXVSTTRQanNSVUtLMlF6VGdkVXdGdGk4bnp1REdvRDdoNFJkT21rQnc0S291NmYzQXNXZ2tsRlJvanVQNENxWTUwNXlyaTJ0TnhQNzNKLXZNaTdjaDFUYW9RRjctdEZ0dW5aVEdiWVNZYXdxTWV6cTBnUFpqV05vcU1aZkdHYUtreDdTR2hjcUxVQ2pwSFgzbmk1VVlYRHU5Tkh5a0xXRWQ1XzhTLVdhQ0JyXzFha3JBeWRGVTJPOEJPak0tR3BBRQ?oc=5"
+    },
+    {
+      "id": "f95e3b1945e3",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-10",
+      "source": "Google News · Cardano",
+      "title_en": "Better Buy Right Now: Cardano vs. Solana - The Motley Fool",
+      "title_zh": "Better Buy Right Now: Cardano vs. Solana - The Motley Fool",
+      "summary_en": "Better Buy Right Now: Cardano vs. Solana &nbsp;&nbsp; The Motley Fool",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMmdHdDlNaks2aGdCM0dub3hPbld2dGZQV1J5ZWpOME1iYkh4T3dnSzRZbmRjdGxjVDJfbkVDS2lOWVBWaWhUZmFSSXpxa1lJWl9xS2R2SmR1OFItWWtSZklzUExmNnFlQm9NdmNaZU80a2txTUlDb0NmZjh3Z202VHNyMEg5NWFr?oc=5"
+    },
+    {
+      "id": "a3781aa7b7c7",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-10",
+      "source": "Google News · Cardano",
+      "title_en": "Why Cardano’s 57% staked supply signals resilience despite ADA price dip - AMBCrypto",
+      "title_zh": "Why Cardano’s 57% staked supply signals resilience despite ADA price dip - AMBCrypto",
+      "summary_en": "Why Cardano’s 57% staked supply signals resilience despite ADA price dip &nbsp;&nbsp; AMBCrypto",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSV9iTGFqblFQRjVZYzJ4dzBCZGVlelRyR1UyekhQUWs2U3YzT1o3MTh1bG9xQkFraGtXTDlOM3piUFl5dXRLTzFyUTRsVUg1MnFoZ2FxaV9ZM1Z1c1AzUzFhdjRaSmE5UC1OV1RhZkxEaFF4dWwzSFl1SWZIeFgyWVJ5cXBTWk1pUlhDN0ZVQUtNRUhWS0ZlcA?oc=5"
+    },
+    {
+      "id": "4f3006cc70b8",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-10",
+      "source": "Google News · Cardano",
+      "title_en": "Big Cardano (ADA) Sell Wall Emerges Below $0.18, Will OI Spike Hold Off Bears? - Cryptonews.net",
+      "title_zh": "Big Cardano (ADA) Sell Wall Emerges Below $0.18, Will OI Spike Hold Off Bears? - Cryptonews.net",
+      "summary_en": "Big Cardano (ADA) Sell Wall Emerges Below $0.18, Will OI Spike Hold Off Bears? &nbsp;&nbsp; Cryptonews.net",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9meW9TU3YwVU9WZzQweVF4Y09UeXpvc0JHanVNRmV2MGl1cmotTGx5dGQ0YnFodGRfTWNjZ1FIM0JWa1dMWUI2b00xM1Bza3Z2OUJSYkxQUllwdzQ?oc=5"
+    },
+    {
+      "id": "dfeba15a3c06",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-10",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Prediction: Can ADA Reclaim $0.2030 as the Cardano Foundation Backs 8 Ventures and Buyers Stake in Pepeto? - TechBullion",
+      "title_zh": "Cardano Price Prediction: Can ADA Reclaim $0.2030 as the Cardano Foundation Backs 8 Ventures and Buyers Stake in Pepeto? - TechBullion",
+      "summary_en": "Cardano Price Prediction: Can ADA Reclaim $0.2030 as the Cardano Foundation Backs 8 Ventures and Buyers Stake in Pepeto? &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTEFoV0h0eVFRcWpuZ1pURnQ2VTB4d0U4Y2lJSk5ET2lhcFFWY01mNEE1M3JxLUZSVVJqc3dMMUZjV19PV3dfekg2UXZGX0pWSGNHX0xDdnlva2pWRGZvclBMdUNBT1pTcEkzTkFvOTlsNUNPQkx0Y01LTjNwNWJBUzZST1poVDc0cHhWdFNROXg0cV9iYUp5UmxXVGRNMGJSNnJQRzVodTF0S1JSNlYyMmk0ZjJRa3pzQVhneURSbDZEYTJSVzdMRDB2T2llTU1VYlg4WnR3blVlQQ?oc=5"
+    },
+    {
+      "id": "2105fbb61f96",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-10",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano’s police evidence system could bring 1.5 million annual transactions - Crypto News",
+      "title_zh": "Cardano’s police evidence system could bring 1.5 million annual transactions - Crypto News",
+      "summary_en": "Cardano’s police evidence system could bring 1.5 million annual transactions &nbsp;&nbsp; Crypto News",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMndOSDFrT3ZCRWNRSW5mY1hMYVlUTEE0OGRDZFNSQTA2X2hyOWNyeXc2clNYcm5FNHJhSkZzQUlYZDV4UVpQVWJzQ1RBcEpVTDc0bXA0ay1ZUU5GTXAweGhVVkpLVFVxRUNQRDVKMzc2UXpQT004MHlsVjV3RnpGcjhTVTlaQi1LLXVVWW1ONzB0WUs0X2VqSXRvQ20?oc=5"
+    },
+    {
       "id": "6e6a408fa492",
       "topic": "cardano",
       "type": "media",
@@ -28,6 +100,18 @@
       "summary_en": "Cardano Is Down 24% in 30 Days and Bitcoin 8%. Will ADA Ever Recover? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY1pCSUJod3N3SnpteWlHdmR1Y0dNaWhSYTU0R0dJLW5IeGhIbXkwenV3bXBDQ1RmZGZzVUc1aUxCSmJMMmJ6SWx6Tk1uaFM1aFZSNXZJVW1wVllRREdUSjcwSVdWX0REQ05tX1p2QTJZcWhBbHpYTWNtTnFsXzFZX09WLTNicmxROUF3aWxtMXBseGJucWJnTWpIRkxQMVpyUjhseXpPbXdRemZHN2wwZ0F0OTRqM0FWYWtjb0EtbWR2Zw?oc=5"
+    },
+    {
+      "id": "be344d469750",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-09",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Longs Take 99% of Liquidation Hit as ADA Nears $0.1705 - CryptoRank",
+      "title_zh": "Cardano Longs Take 99% of Liquidation Hit as ADA Nears $0.1705 - CryptoRank",
+      "summary_en": "Cardano Longs Take 99% of Liquidation Hit as ADA Nears $0.1705 &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWdNMzV3THJINWhqTnFtdC1QRXAwU2lTYWJPSlByRmNhOENqWVZvcmp6Z0FPN1hmekNDY1VTWW9samRLRjVfbW0yQ1Y2WDNpenpCX3l5ZlVnbjZUS3RpQVc0Z2hraWhmaG90dUpiSndzcE42OS1HWERDRmdEdXV5OGstVUR0VjY3Q2lRaUhxNllGU00tVEFseDhDdzU1Wmc?oc=5"
     },
     {
       "id": "abcca54a2551",
@@ -640,90 +724,6 @@
       "summary_en": "Cardano treasury: 115,172 ADA flow back &nbsp;&nbsp; CryptoTicker.io",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54Vjk0QXdnT2Y3Vm5sYzNZZHU0QmlRbU02ZTlXamNOaTNTVklZNzZaQmt1bFVqcTYwYnVxbTN6clE5aFhxUFhkU1NDSUdVNVVzYjk2MUNkc1AyN3IybnJYN1AyenowSjkySWpBNEVIVGJPbEZHRnc?oc=5"
-    },
-    {
-      "id": "e9bc576e43d5",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-27",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano to Hold Live AMA on October 28th - TradingView",
-      "title_zh": "Cardano to Hold Live AMA on October 28th - TradingView",
-      "summary_en": "Cardano to Hold Live AMA on October 28th &nbsp;&nbsp; TradingView",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPblZtc3l1b3BWMUxJTzVBZjQ1b181c2hSUlVBNDBTME83NlJmSDA4cU1jX3RuVDhKM0VzVU5IRmtjVkxQdE0wbEZMU3VURW5tMDhSRV9EY1M5NnVaZndmU19QRWRMSXFJTlJYMndrdjdmbkp2T3FaLS1OWUtiYjRYZVJvVWZPejFOeGxleE9JRVNCREhfSkIxdHV5NVE2a1E?oc=5"
-    },
-    {
-      "id": "b8246bb4a586",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-27",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Stablecoin Supply Tops DeFi TVL by $11 Million - CryptoRank",
-      "title_zh": "Cardano Stablecoin Supply Tops DeFi TVL by $11 Million - CryptoRank",
-      "summary_en": "Cardano Stablecoin Supply Tops DeFi TVL by $11 Million &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnR5QXZpOVltX05xeDhWdkNvNk9FUm9CMVF5eDVBaGJrTmpHZDRneFcxUGdObHZxV0MxYTVtc2dTVDhUT1Vzd3ZvMlptRllfcTI0T1JKdUowU3hEUFBwUzJ5aWxYZjNXN3l5QlZmZEE2S1lYZlZLNVl6bmJQekZESDNaU3R6cXlSbHhQSjk3SExSSk9iZWc?oc=5"
-    },
-    {
-      "id": "3272b13dd619",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-26",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano warned of drop to $0.14 as key support level tested - 디지털투데이",
-      "title_zh": "Cardano warned of drop to $0.14 as key support level tested - 디지털투데이",
-      "summary_en": "Cardano warned of drop to $0.14 as key support level tested &nbsp;&nbsp; 디지털투데이",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdl9WcE5BZmJNWUVndFM3Ri14SExJMm1hSE5USnlJOHY2bXlJZnI5Zy1qdTFLc0VMUGZhaENRYVV2aVAteE9xX0tZeE9RYlpyUlFuZ0JHbUJLU0FOSjZMNGF3VlFWV2duRURNalh5UVdiWHBobUdXRGg2cUNmX2FKRzczRHpPbG5hWHFoOGdsWFlpcm5YOWFBWENoU2tqM0FRMWRDYnNYeVRwUlY0UkdhWDV3?oc=5"
-    },
-    {
-      "id": "07dd2d22dea1",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-26",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano could surge 1,799 percent in two months as optimism emerges for $4 by year-end - 디지털투데이",
-      "title_zh": "Cardano could surge 1,799 percent in two months as optimism emerges for $4 by year-end - 디지털투데이",
-      "summary_en": "Cardano could surge 1,799 percent in two months as optimism emerges for $4 by year-end &nbsp;&nbsp; 디지털투데이",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1U5LTR5cHZrOUZ0a21YNS0wNlpZcVEyX1FaaUlxYnhId2wwNWlyYWxHSzdSZUJMSVJOMVl0aWJUWVhUZEV6U0VSR0ZFd0NseTM3ajdYUXNNNmNSZ2ZDSlA3T3lMazU5MWpQanFFcHNVaDRRMUhaRGlrVUdKSUJpYXk2cmZ4QjQtWkNJeFc2bFc5ZXlHUHluOWV4VUV5WFNMNVBocElPeWVpNWlSQzNBMmFrTW5fNnRTYk14bzN4RU1IWTZEaEE?oc=5"
-    },
-    {
-      "id": "82bd20321d5a",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-26",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Prediction: ADA Treasury Faces a $5M Copper Proposal as Remittix Prepares a 300M RTX Burn - TechBullion",
-      "title_zh": "Cardano Price Prediction: ADA Treasury Faces a $5M Copper Proposal as Remittix Prepares a 300M RTX Burn - TechBullion",
-      "summary_en": "Cardano Price Prediction: ADA Treasury Faces a $5M Copper Proposal as Remittix Prepares a 300M RTX Burn &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlNlM0NNelV1eVhUbzRGa3BPbXNOUkxtWUFuYUtpTjg4dlBIWW8xRkxHTmtMMXppRTkxZHM2dTlkMTlzVW5MYXZXS2h5MUFlWGtDVlFSdlExN0VlQUs3WHhoeENMRDczdF9EV19uMFhWcmdFeXRPc0dmRXNEdjRLcVM1TFpNUUdBWi1jclJXaDRkd2YwYjhDTEJfMnJoYXpsU3ZZX1M0bzdjd0NWM3phRFM2N0VsTjJmMHY3LTlnQVVJZXdL?oc=5"
-    },
-    {
-      "id": "cacd61f86beb",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-26",
-      "source": "Google News · Cardano",
-      "title_en": "$1,000 in Cardano or $1,000 in Solana: Which Could Be Worth More by 2030? ChatGPT AI Runs the Numbers - 24/7 Wall St.",
-      "title_zh": "$1,000 in Cardano or $1,000 in Solana: Which Could Be Worth More by 2030? ChatGPT AI Runs the Numbers - 24/7 Wall St.",
-      "summary_en": "$1,000 in Cardano or $1,000 in Solana: Which Could Be Worth More by 2030? ChatGPT AI Runs the Numbers &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdEFTb1Bnb3NldFlqcFpGT2VidC1DS01SV0NVWlBIS1NWOUxXTHl0bzc3MlZSMTI2ZC1GLXctdTZvR2pBMEJyOG5qWjVsaFR5WWJ6Z0pPWUFoRjdXUS1YMHJZX0RkejhPZnR2WkpzOVlWcXFSeC14SWlFM1ZVbzdmZWxWNGlNTXFvbGpnT1JUb0dORzBvV3o3TFZUVkVxYXJTSm5sT0t4OVdvczZYYU9fTGRGaC0yRmc4a1ZqQ3EwRUhMWXhhOUhGUE04dzlXbzRZdlZPNDNJQnJHOHBHYlh6MnBXRllVbGN3SkE?oc=5"
-    },
-    {
-      "id": "188c2128fd02",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-26",
-      "source": "Google News · Cardano",
-      "title_en": "samirkh(@samirkh231)'s insights - Binance",
-      "title_zh": "samirkh(@samirkh231)'s insights - Binance",
-      "summary_en": "samirkh(@samirkh231)'s insights &nbsp;&nbsp; Binance",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43VDV6UU5oQWVfWmUxMnN2dERVaU52clpyQWxqb3pTMVQ4cTEwTlE2eXpFOG9FS0hWQUhERkFXUmkxMDU4OGZmOFBYTWZyQnpZb2lOUU1jblNHNnBoNzd2eXZaek0?oc=5"
     }
   ]
 }

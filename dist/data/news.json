@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-10 02:44 UTC",
+    "updated_at": "2026-11-10 12:38 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "f219a45fb8ad",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-10",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Prediction: Can ADA Reclaim $0.18 as Remittix Earn Offers Up to 21.4% APY Across Supported Options? - TechBullion",
+      "title_zh": "Cardano Price Prediction: Can ADA Reclaim $0.18 as Remittix Earn Offers Up to 21.4% APY Across Supported Options? - TechBullion",
+      "summary_en": "Cardano Price Prediction: Can ADA Reclaim $0.18 as Remittix Earn Offers Up to 21.4% APY Across Supported Options? &nbsp;&nbsp; TechBullion",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1Y0Y19wblRqTUJ6WElUZUhlUE9OUXRPdU8yTGJsTnZFZzc5UGJDcGhwa0ZpY3pYcGhYd1hYVjJ4c1hxY3EtVWV5T3dYTnBaeE1IUkpJLWpVLUU0UGNJalJFbUJCZHk0Z0p3OWt4cTFCU3RBOXdOTno3dnJSUUEwclB5NC1DVFFXMGloUzNsM1F6WjVQN3NfOGgyQVExMGJBeWg4emJMVmFQZHFEWFA2RXNZbHdoanVpSk9udTJkNGhrZmE1dEF6cWZlSDltd0E?oc=5"
+    },
     {
       "id": "6e6a408fa492",
       "topic": "cardano",
@@ -16,18 +28,6 @@
       "summary_en": "Cardano Is Down 24% in 30 Days and Bitcoin 8%. Will ADA Ever Recover? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY1pCSUJod3N3SnpteWlHdmR1Y0dNaWhSYTU0R0dJLW5IeGhIbXkwenV3bXBDQ1RmZGZzVUc1aUxCSmJMMmJ6SWx6Tk1uaFM1aFZSNXZJVW1wVllRREdUSjcwSVdWX0REQ05tX1p2QTJZcWhBbHpYTWNtTnFsXzFZX09WLTNicmxROUF3aWxtMXBseGJucWJnTWpIRkxQMVpyUjhseXpPbXdRemZHN2wwZ0F0OTRqM0FWYWtjb0EtbWR2Zw?oc=5"
-    },
-    {
-      "id": "5e22640b4f01",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-08",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
-      "title_zh": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
-      "summary_en": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? &nbsp;&nbsp; Coinpedia",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XelBOQ29VbmNSTlBaQ3k0bmZvSjFtR0djSmZWUk5SUmFKZHp4ZzBzTUdNVnBBNU52OVJsbWtYN1k2Nm5iRnU3bmM4a0owa2hTa3hUczVBT3o0emVSUVpQWHlnZEdSUmhuUmM3Q3VrUU9JUdIBd0FVX3lxTE9JbWVLNW9WZmcxczI4M2UtNG1MdFJnR0ZwdmNRaXNjRTFBU3RtQlZTVG5kU0NWbVNJX1BSaUFSREFXZUgtQi1XeFN2Tzczb3BZcTFNUUN2NEJyWWwxWE9kMGdOd2x1ZlFkU3VPamZ4eHhWek9rTnZz?oc=5"
     },
     {
       "id": "abcca54a2551",
@@ -52,6 +52,18 @@
       "summary_en": "Cardano Price Prediction: Can ADA Hold $0.18 With 70% of Top Traders Long as Buyers Pick Pepeto? &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZUxNUm92a0lIbndBWEpxaExkMi1CNEZseGVzU25aUjNtQU9abVU3SkF0b2VCbmpzN0dzdU5TOXdkc2ZWaTdqQTNVbWtHal9TQTltNlVTWi1zT0N1cndBTzluVXVyVWJqTVRSeTRfZEhCUXZtY2xIa3NqZE4tRy1ZU1U5b0E2eEdhWnhEbldOdFVYRG5jVDRTYkVSOHFPUWhuQWs2VDhWTWNSaTd3UVJSRzIyTFZydUlo?oc=5"
+    },
+    {
+      "id": "5e22640b4f01",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-07",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
+      "title_zh": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
+      "summary_en": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? &nbsp;&nbsp; Coinpedia",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XelBOQ29VbmNSTlBaQ3k0bmZvSjFtR0djSmZWUk5SUmFKZHp4ZzBzTUdNVnBBNU52OVJsbWtYN1k2Nm5iRnU3bmM4a0owa2hTa3hUczVBT3o0emVSUVpQWHlnZEdSUmhuUmM3Q3VrUU9JUdIBd0FVX3lxTE9JbWVLNW9WZmcxczI4M2UtNG1MdFJnR0ZwdmNRaXNjRTFBU3RtQlZTVG5kU0NWbVNJX1BSaUFSREFXZUgtQi1XeFN2Tzczb3BZcTFNUUN2NEJyWWwxWE9kMGdOd2x1ZlFkU3VPamZ4eHhWek9rTnZz?oc=5"
     },
     {
       "id": "16df3940ee01",
@@ -712,18 +724,6 @@
       "summary_en": "samirkh(@samirkh231)'s insights &nbsp;&nbsp; Binance",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43VDV6UU5oQWVfWmUxMnN2dERVaU52clpyQWxqb3pTMVQ4cTEwTlE2eXpFOG9FS0hWQUhERkFXUmkxMDU4OGZmOFBYTWZyQnpZb2lOUU1jblNHNnBoNzd2eXZaek0?oc=5"
-    },
-    {
-      "id": "5cf92fa9f52d",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-25",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano: 22m ADA for copper, vote to November 15 - CryptoTicker",
-      "title_zh": "Cardano: 22m ADA for copper, vote to November 15 - CryptoTicker",
-      "summary_en": "Cardano: 22m ADA for copper, vote to November 15 &nbsp;&nbsp; CryptoTicker",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9keVZuM0UzS1dpdkpfVTk5TUVGUExyVG1McmFZbC1ISk53T0ZWa2xHRU9qZE9INFVxdnFtWUxZbDhUUTUtVHF0dElnNW1KdGEteFBYdG5fcFFmeDJvUTkxSTNJWlM4WC15VllDa3ptdUtNUQ?oc=5"
     }
   ]
 }

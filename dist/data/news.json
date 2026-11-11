@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-11 06:18 UTC",
+    "updated_at": "2026-11-11 16:10 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "a3530a98e606",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-11",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano open interest rises as ADA drops below $0.175 - CryptoTicker.io",
+      "title_zh": "Cardano open interest rises as ADA drops below $0.175 - CryptoTicker.io",
+      "summary_en": "Cardano open interest rises as ADA drops below $0.175 &nbsp;&nbsp; CryptoTicker.io",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBc211ajlOYy1SRDJpOFQ1Vk9FY2xyQko3ckpLUW9za1IxQU9BSDhYOUgyeFM4cUtUVjdpZnlOaVdoTS1ISmNHM0tVLVM1eksyVmdkYUg5RFdpR09NN1FNMnd1Z0I4OTByZld6UDlFRFYtSlU?oc=5"
+    },
     {
       "id": "f219a45fb8ad",
       "topic": "cardano",
@@ -712,18 +724,6 @@
       "summary_en": "Cardano warned of drop to $0.12 as four headwinds cap rebound &nbsp;&nbsp; 디지털투데이",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSWpfRGFOYnlaSVJLa3poOWZLdHV1SG05cjMySFZhUndCMjhwbS1Ra1Z4WkNrLXZsbWROd0FvRGg5Y3pFZjdmZ1pySGFFR1o3U2tWc1EtZjRCeXVJdU5sb1ZwWXJsUm5EcmJyeU5QdlJzYThiZExLX21TdVJPUmlQUHlJdVhQbGlPekFpcEoxRnM4NjBRYW5aYnFTWjlzNWM5U2h5SmVOMHdsdw?oc=5"
-    },
-    {
-      "id": "0dc9f915cecb",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-27",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano treasury: 115,172 ADA flow back - CryptoTicker.io",
-      "title_zh": "Cardano treasury: 115,172 ADA flow back - CryptoTicker.io",
-      "summary_en": "Cardano treasury: 115,172 ADA flow back &nbsp;&nbsp; CryptoTicker.io",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54Vjk0QXdnT2Y3Vm5sYzNZZHU0QmlRbU02ZTlXamNOaTNTVklZNzZaQmt1bFVqcTYwYnVxbTN6clE5aFhxUFhkU1NDSUdVNVVzYjk2MUNkc1AyN3IybnJYN1AyenowSjkySWpBNEVIVGJPbEZHRnc?oc=5"
     }
   ]
 }

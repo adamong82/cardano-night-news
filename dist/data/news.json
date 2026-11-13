@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-12 16:48 UTC",
+    "updated_at": "2026-11-13 01:04 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -16,6 +16,18 @@
       "summary_en": "Midnight (NIGHT) surges 13.15%, leading top cry... &nbsp;&nbsp; Pluang",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qbWE5NUNJSWdHT2Q4eDF4bVNZaFJHZ0cwUkpfcmV2akxxbE5BWF93aGZFMUw3MExiQTJpVXp3Q1JLNk9FMXlfekdUYzcxQXlZMktQUC0zZnB4ZlpnNzU1eG5rWmxVUWZQQ19haV95NTFnZm9kY0NlcVBZbHJjUQ?oc=5"
+    },
+    {
+      "id": "4d0f1c007a8d",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-12",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Academy launches practicum with on-chain credentials - Crypto News",
+      "title_zh": "Cardano Academy launches practicum with on-chain credentials - Crypto News",
+      "summary_en": "Cardano Academy launches practicum with on-chain credentials &nbsp;&nbsp; Crypto News",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Yd01mMlRoNlJCLU1TT3ZXbG03TXlnRnUwNlk1aENmVnZyZXdSX1ItMnU0THplOUVHaDVSUWNEbE1lcFlDTlVwTzFwR2EtUjZ3Y095V1FfNlpQR1E1Z2U2MDFsZW5LNzdJX09saGlMbUdTNWRk?oc=5"
     },
     {
       "id": "a3530a98e606",
@@ -136,6 +148,18 @@
       "summary_en": "Cardano Longs Take 99% of Liquidation Hit as ADA Nears $0.1705 &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLWdNMzV3THJINWhqTnFtdC1QRXAwU2lTYWJPSlByRmNhOENqWVZvcmp6Z0FPN1hmekNDY1VTWW9samRLRjVfbW0yQ1Y2WDNpenpCX3l5ZlVnbjZUS3RpQVc0Z2hraWhmaG90dUpiSndzcE42OS1HWERDRmdEdXV5OGstVUR0VjY3Q2lRaUhxNllGU00tVEFseDhDdzU1Wmc?oc=5"
+    },
+    {
+      "id": "a9542f918898",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-09",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano goes on-chain with criminal evidence tracking for police in India’s most populous state - CryptoRank",
+      "title_zh": "Cardano goes on-chain with criminal evidence tracking for police in India’s most populous state - CryptoRank",
+      "summary_en": "Cardano goes on-chain with criminal evidence tracking for police in India’s most populous state &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWF5WUxoYy1rT2pLSThUamw5LUgwanRxXzhMSnhyWEI2bTloamltNFdOeFZYQ3M0NDJ2ZDhxbWdUVnA0RzdDRFBLWHRHVHN3NEZ2WmwtdDFFeDBwM19neXA0MjF4MmlEWE5nbXktTFNiLU85cHpydkFwWlNJUGE4NkF6bzgzSXdpbklPYkk3MXg1cnhQOHJMS0R6MDRyZTRoQ3VoNlJQblNfOEh3Mjh0LTFyVzNKSUJSZHRrekVDU0pFa05jcFl5Y0lETy0?oc=5"
     },
     {
       "id": "abcca54a2551",
@@ -700,30 +724,6 @@
       "summary_en": "Cardano Community Weighs 9.6 Million ADA Proposal to Expand Blockchain-Based Police Evidence System &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdngtaXc2Z1l2azYwcWVIbjB3cThoSmZSczhOaHoycWdOdHBocHBsQzZZZG5nMktqQVlYc3VvTEY3TURkbkRpdFVBV0QtT3V4bkozdlJuTTJOTzFDaVNadGRjX0VzS0NyRDRSUlpnWTBBNk9obVpOVWM3OWxsckpsQXRGaUVxOGVjTjU0cUNtcl9XOE16a2pyNWJEOTM2SEVSZHM1M2N3YmZfRWU5TzEtOXJRWHdscHZLZWUtWHRCZmRwUHJaUlNOWTAyZ19oazdCU0xv?oc=5"
-    },
-    {
-      "id": "216b4b62714f",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-28",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Today: ADA Near $0.203 Despite 100,000 Farms Onchain as Remittix's Raise Hits $33M - TechBullion",
-      "title_zh": "Cardano Price Today: ADA Near $0.203 Despite 100,000 Farms Onchain as Remittix's Raise Hits $33M - TechBullion",
-      "summary_en": "Cardano Price Today: ADA Near $0.203 Despite 100,000 Farms Onchain as Remittix's Raise Hits $33M &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVkhVQmJtalFhSTVMSjNTcmI5ZDkxTjMyQVNDbWk1VXByb21PbXhXZnBHb2l1VVU0LWF6aUIzWGtodlJaZmZSZXpZLVNUb2ZUejJlbk5iVTh0V1RhS2NoODV2MThCdFFiam9CcFRYY0ltZjRRZjkzVnRESFZnc1hPVUlXTkdBOTlGNHVJb0pTR3UzMVp5bWtSTm5fektnemhjbkJ0Z2Z5bmt0bDhYd21seENjckoxVzQ?oc=5"
-    },
-    {
-      "id": "2b894888d709",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-28",
-      "source": "Google News · Midnight",
-      "title_en": "New Cryptocurrency: Midnight Jumps 11% Ahead of Japan Debut as Pepeto Targets 100x - TechBullion",
-      "title_zh": "New Cryptocurrency: Midnight Jumps 11% Ahead of Japan Debut as Pepeto Targets 100x - TechBullion",
-      "summary_en": "New Cryptocurrency: Midnight Jumps 11% Ahead of Japan Debut as Pepeto Targets 100x &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUVc0UVFSOXlweV9faXlqZ3ZFY0k4dkppZVl4djhpcmhyMHVHVmgzaUNxdzVrbnctdDVsQ1dLVUI4ZkExSWhXeE9VdEk1SmNwNGhKNWtKOWRWZnpfeEthVE5LdkoyRHdlLTZ6alBId3otdTJPZlA5V3NmOVBBUUZremdiZWZHc0tISDRVRmJOcUVrUXhEdTVhSVhXTTROUkZRVjNKLXlabkc?oc=5"
     }
   ]
 }

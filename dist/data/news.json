@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-13 01:04 UTC",
+    "updated_at": "2026-11-13 12:12 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "9f756cf8b4a1",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-13",
+      "source": "Google News · Cardano",
+      "title_en": "Charles Hoskinson says Cardano is a better store of value than bitcoin - 디지털투데이",
+      "title_zh": "Charles Hoskinson says Cardano is a better store of value than bitcoin - 디지털투데이",
+      "summary_en": "Charles Hoskinson says Cardano is a better store of value than bitcoin &nbsp;&nbsp; 디지털투데이",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUtqcFlGMU9FVi1VZUdIbUpteE5nanlVLVFOalhsQVhyMkYtMzVJQzdvRjljSUtyeGdSS3JlMGluelE0WWNpWHYzME1DWnVHN2VudlZ2MXczbzBnY0lJQzNRalNuZXBSck9iVGRYUlR3WUswTFA0NzJCc1lfb0REYzJkUmZISDctLVhuWS1Wc1NMNUR4YWtyTGdtQkxLUHpTSXVWODVLMFdNNWpVeDZJbTlOQkRkNnM?oc=5"
+    },
     {
       "id": "016ef5dee2fb",
       "topic": "midnight",
@@ -244,6 +256,18 @@
       "summary_en": "Midnight (NIGHT) Surges 3.38% on Upgrade, RWA Growth &nbsp;&nbsp; CoinMarketCap",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DUkpoNDNidlpWZlVMMDZrZGkzVDlzRGE0b3ZlTXFFNVJhdHBGdVlqOVVmLTZfNUxJcWlqMk1jQzdtekI4RHdUdEd3bDItRHcwaUJ1Q3didklIZHh4UHo4ZDNFb2IzNzVPVUJiY3hlVGc?oc=5"
+    },
+    {
+      "id": "82cd2ae03043",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-07",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
+      "title_zh": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? - Coinpedia",
+      "summary_en": "Cardano (ADA) Price Prediction 2026, 2027 – 2030: Will ADA Price Hit $2? &nbsp;&nbsp; Coinpedia",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XelBOQ29VbmNSTlBaQ3k0bmZvSjFtR0djSmZWUk5SUmFKZHp4ZzBzTUdNVnBBNU52OVJsbWtYN1k2Nm5iRnU3bmM4a0owa2hTa3hUczVBT3o0emVSUVpQWHlnZEdSUmhuUmM3Q3VrUU9JUdIBjgFBVV95cUxOaC1NSktVZzhTTEFUUEF0MTRxcGtLY0ctNWpqVUtnRVF5cERUVlBGT05ZU2hfZUdERTZTN1dncGRwbnFJSTJKRGZ0NmVVcTg3TG4yS1dnT0o3VmJTeDlweGMzTjEyOXpsTjA4cWFQWXgtX1hUOW0zVllpWFF2aG52MWgwZEpTY0RDallxaHJ3?oc=5"
     },
     {
       "id": "c7884e7265dc",
@@ -700,30 +724,6 @@
       "summary_en": "ADA Price Prediction: Cardano Near $0.203 as Remittix Earn Prepares Morpho, Fluid and Maple Finance Pools &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREpFS2phUjhFNGI1U3JnbW1vY095V0NWY2YyOXViWE1DTlkwdWctTkRGRkJUOWIwVVR6SU5sSnE1NmNXdTlxTmduOXUydVdEVkNiMkh0QVdqellWQ1pFTDc3a0pLb0pDSy0yQzRkX0RpUFZpai04akRXVEtEaHpHVG15cXRFMVpXQmRUTmNJWUpvU0gwaGNjOEpqT2UxQjhLOWJoeTBYWTgwZFgtRXFQYm1QV0JjS3JNbWtQMWprMDhfRjl1N3c?oc=5"
-    },
-    {
-      "id": "1f167eb4d986",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-28",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? - 24/7 Wall St.",
-      "title_zh": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? - 24/7 Wall St.",
-      "summary_en": "Cardano’s Midnight Is a Separate Blockchain, Not a Layer 2. Does It Help or Hurt ADA? &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQndCOGNQVEQ5Y3ZBNERwTDFZb0V4bllCMXVTb0JPNXpVX1R4MEo2X2t6dTJTSEVONlo5cDA3NXNyVC1jRi1rOW9tekh0VmpKMkJuWmpveHpmdmdhNVI4dWNUYzNHYnkzOENhR0gwOHh0RTR3TUVCQ2lTbUQ1amV4cTlQbk5GWUdsVS1OeFdOekN4LXl3ZzMtQndyV3RaRE9CR09aM3dwR3lIQzlKamJaSXFvel8wOUtkdlhzOU1TTVZSZnQxeGhFeWhXM2hRaFNsaERGSGFwWQ?oc=5"
-    },
-    {
-      "id": "b61e9d956af3",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-28",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Community Weighs 9.6 Million ADA Proposal to Expand Blockchain-Based Police Evidence System - CryptoRank",
-      "title_zh": "Cardano Community Weighs 9.6 Million ADA Proposal to Expand Blockchain-Based Police Evidence System - CryptoRank",
-      "summary_en": "Cardano Community Weighs 9.6 Million ADA Proposal to Expand Blockchain-Based Police Evidence System &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdngtaXc2Z1l2azYwcWVIbjB3cThoSmZSczhOaHoycWdOdHBocHBsQzZZZG5nMktqQVlYc3VvTEY3TURkbkRpdFVBV0QtT3V4bkozdlJuTTJOTzFDaVNadGRjX0VzS0NyRDRSUlpnWTBBNk9obVpOVWM3OWxsckpsQXRGaUVxOGVjTjU0cUNtcl9XOE16a2pyNWJEOTM2SEVSZHM1M2N3YmZfRWU5TzEtOXJRWHdscHZLZWUtWHRCZmRwUHJaUlNOWTAyZ19oazdCU0xv?oc=5"
     }
   ]
 }

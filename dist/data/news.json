@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-14 00:53 UTC",
+    "updated_at": "2026-11-14 11:27 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -16,6 +16,18 @@
       "summary_en": "What Could 5,000 XRP, 5,000 Cardano and 5,000 Stellar Be Worth by 2028? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONlg4Z0JyT2t2OFFrLXhRUlJuc3hIc0xGbUNaY182aExkVi1kdmdJNW1FcHZOVkV3UkE4ODNGR09VRzZjT1RoNm9uY1Zld3ZrcHR1UEVHQnNneXdEcjhlYVQ1eGstcS1DUEVoYy0zS0dSelNKN1FHVktGQmFQSWJrX3FkMnV5ZHJsanp0NzhJcUdTclBFSC1BQWhxN3h5YVdNaEhjcGlYOHdZNjUzaE9OZUJBQi1VZG9hOHVwY3dTOHVuODg?oc=5"
+    },
+    {
+      "id": "dd13c0f8cfaa",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-14",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Founder Says He Never Promised ADA Would Rise, as ADA is Down 95% - Coinpedia",
+      "title_zh": "Cardano Founder Says He Never Promised ADA Would Rise, as ADA is Down 95% - Coinpedia",
+      "summary_en": "Cardano Founder Says He Never Promised ADA Would Rise, as ADA is Down 95% &nbsp;&nbsp; Coinpedia",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGh0Ull4dHdfNExaQXN0Y2E3a0xfU1RZdUJVSm56d1ZWdmF0ckNveDZrWmtwWVNicGZXTDR0dTdOcWhtX29MbWFLVUMwdW9OUnB6d09kVTV2NzRwTktZZlFjZ195MEExaUZZMVhaRGVLOVZUM3RPdk5fb3VVeE9ZbEVWOW5acThqc3RNWVNyVl9ESUs2R0VRQ3dFUko5M25Y0gGmAUFVX3lxTE5mMkFIbUZidWxQUXpiLU01V2k0MUZ3Y2JxNUcxdk5SLTBpa3hNNjljOFppc0R2LXcyMlNFQmlMcW1LMEIxekU3ZnNMV2hTU3NoNlZZdE9aMmhqOXQtY3drYnRUV0FIb2QxVXRjX0MyODcxNm5fbE5RU3FnelVnaWh6a3NTNUJBQm83Y1pIN3pnd3JvdGw3SE9SZHFUdUloMGlkN1p6TFE?oc=5"
     },
     {
       "id": "9f756cf8b4a1",
@@ -712,18 +724,6 @@
       "summary_en": "Cardano below $0.20: what counts for delegators &nbsp;&nbsp; CryptoTicker.io",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rQ3VaY3luaHBpOW8wNmZFZ0VPZXQwMFpOZlExOGRMS1Z2cHBMVGhOREt6Wk5DT3p0U3pid3ZDVGpkMEZMeV9zSGxNX0kzX0hEUFpKbUJoX0JZaEFPMnJNd3VZdlVvc2R6N1hrZFdVQmR5U1FJYVE?oc=5"
-    },
-    {
-      "id": "21457201d635",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-29",
-      "source": "Google News · Cardano",
-      "title_en": "ADA Price Prediction: ADA Holds $0.20, Cardano Weighs a $5M Copper Bet, and Pepeto Buyers Eye 100x - TechBullion",
-      "title_zh": "ADA Price Prediction: ADA Holds $0.20, Cardano Weighs a $5M Copper Bet, and Pepeto Buyers Eye 100x - TechBullion",
-      "summary_en": "ADA Price Prediction: ADA Holds $0.20, Cardano Weighs a $5M Copper Bet, and Pepeto Buyers Eye 100x &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1YxcF96RjUyZDE5RTNnVHFvRVJFOFpVVzN4ZHJ3MXN2WlFJNEVhU0ZKRE5qdTZ4VnZsU1dteWVVQU5tRmRFNnVPVjJyaWtET1FnR3J3eTVjeXEwVFFQRHF1WXRNanZwVE5yQUZPZ2N3a1RxZWwxb1ZxSGoyUlFraXlta2ZZd0FSVmc5TlJTcmUyckEzT2JGMlVfQlhjTFJIeUNFbUE0WlZuUDZhOUd2VmxsVG1sd1laQmc?oc=5"
     }
   ]
 }

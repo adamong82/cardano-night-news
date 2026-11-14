@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-14 18:00 UTC",
+    "updated_at": "2026-11-14 23:54 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -52,6 +52,18 @@
       "summary_en": "Charles Hoskinson Clashes With Angry ADA Holders Over Promises of Price Gains &nbsp;&nbsp; BeInCrypto",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RMFhhbHVJMmFjb2xzcmM5aHJUM3d2dDNZMzBTTFJyTlhxVFljVi0tbUw5aTNsV3RPb0h2NjJYSnQ1b2pCVVYwSk9FNkh0TlNETy0yX0REeEpKejVfZ0pMd2Y0dnI3aDJpcGstYWtQV08zN2s?oc=5"
+    },
+    {
+      "id": "94c68f2c7499",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-14",
+      "source": "Google News · Cardano",
+      "title_en": "Can Cardano (ADA) Get Back to $1 by 2028? - 24/7 Wall St.",
+      "title_zh": "Can Cardano (ADA) Get Back to $1 by 2028? - 24/7 Wall St.",
+      "summary_en": "Can Cardano (ADA) Get Back to $1 by 2028? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFpFRHNNbndNYXphLUtwOS1IY1VMVUN1N2JvU2dhNHpvRnNyMHR2ckEzVXZYMTRvWjJDSHdtUV9SZ3d4SGMxdzNnRFBtM29CdEdQR1VKdWZlc1NkWlRMNlZvOUkyRzVGV3I0bVlEVGRvUHdCMDNZYXdmeENjamZSZ0FLOVBPdXAyZ3JpLU5pR3MtRkc1S21lUzh5XzU?oc=5"
     },
     {
       "id": "9f756cf8b4a1",
@@ -712,18 +724,6 @@
       "summary_en": "3 Cryptos Under $0.25 That Could Stage a Comeback in 2026 &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZmo3bWNZOV9GT3hvSEUwMlg3X3Rsd05JSHVUSExHQ245QmltcEY2LW4ySG1hbl9BWVVWczlXNFRSMmRaS1J0Vkh2blpXVXJEdld2aGRNSnFJMEFRYmhnSGR4ZXBoZm1pVURxTHpabmota2xqb2RfZUgtdWxsUm1GZWQtNXpvNXp6YjBCMnJoRXRyZjdmNmpWbmJmZzVrQzEyZkREX3VlTDBka1NXNllFWFRhUUJNZzNITV9ZMkIxN181TVZ6eGc1NVUwSlBRZUE1SkcxTGVTUEtzaDJuZEwwaUQ5Q20?oc=5"
-    },
-    {
-      "id": "d05641a8bea6",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-29",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano uptrend at risk as prices warn of slide to $0.15 range - 디지털투데이",
-      "title_zh": "Cardano uptrend at risk as prices warn of slide to $0.15 range - 디지털투데이",
-      "summary_en": "Cardano uptrend at risk as prices warn of slide to $0.15 range &nbsp;&nbsp; 디지털투데이",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSE40V3NqWWJWMktUV0xaOXJ0aHVibG1lQ0dYVkFaTTF4Mmc0Mm1mYlJ3aE1JaVllZHZPOVctb2lxZ0JEeDlCNWc5bXRLem5CZVIybUJtLTJLdS1aSkVPM0MxNlJJNnV4QUltOVBJbHpxTUdPWExEUmFqSnJ6N3RveVJpSVprbjZZaFZCOTI2MnpRVmhGUGRvaFBhWHB4cHhGNFBhQk5LT2lTWXc?oc=5"
     }
   ]
 }

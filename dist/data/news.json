@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-13 19:41 UTC",
+    "updated_at": "2026-11-14 00:53 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "625e892de3dc",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-14",
+      "source": "Google News · Cardano",
+      "title_en": "What Could 5,000 XRP, 5,000 Cardano and 5,000 Stellar Be Worth by 2028? - 24/7 Wall St.",
+      "title_zh": "What Could 5,000 XRP, 5,000 Cardano and 5,000 Stellar Be Worth by 2028? - 24/7 Wall St.",
+      "summary_en": "What Could 5,000 XRP, 5,000 Cardano and 5,000 Stellar Be Worth by 2028? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONlg4Z0JyT2t2OFFrLXhRUlJuc3hIc0xGbUNaY182aExkVi1kdmdJNW1FcHZOVkV3UkE4ODNGR09VRzZjT1RoNm9uY1Zld3ZrcHR1UEVHQnNneXdEcjhlYVQ1eGstcS1DUEVoYy0zS0dSelNKN1FHVktGQmFQSWJrX3FkMnV5ZHJsanp0NzhJcUdTclBFSC1BQWhxN3h5YVdNaEhjcGlYOHdZNjUzaE9OZUJBQi1VZG9hOHVwY3dTOHVuODg?oc=5"
+    },
     {
       "id": "9f756cf8b4a1",
       "topic": "cardano",
@@ -28,6 +40,18 @@
       "summary_en": "Charles Hoskinson says Cardano’s roadmap is complete as ADA holders push back &nbsp;&nbsp; Crypto Briefing",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkNTFGVF9RSFBtN1NtT0lMNzh4aXExbUZnNzA5RVFIY3Z6VnRvYl9fcXNGMUZtVTFleXVRZnpqNDlWeUhFVXhyMG85SXhBeHo5RHE1Z2wzaHVRQWhPR21LZXBySnl1VnZPbDRfei1ELVJVbFBpelAtY09IWQ?oc=5"
+    },
+    {
+      "id": "5051bd6ee5b4",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-13",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Prediction: Where Will Cardano (ADA) Be in 2030? - 24/7 Wall St.",
+      "title_zh": "Cardano Price Prediction: Where Will Cardano (ADA) Be in 2030? - 24/7 Wall St.",
+      "summary_en": "Cardano Price Prediction: Where Will Cardano (ADA) Be in 2030? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDVFLUN3QTU4X0Y3bDN6cmQ0YVZrV0lURmxuT1NXbnR3RERzWmlLZDlkQnR3OG1kSUFrMFRrN1p1cC05VU9OODRRMXJ2aFhnMnMzb1d2SUhHNU9zOUFoTWk4emwtNEFHLTRFOHFNdkJRU2pPWFg3ZW42U1d1UWJFMC1PM3VaSG1Vd29hZEUzbkppTlQyVC1NRUFMckdsRTAyM0FYLWloME1OTXhrZWp1Q2l4azcwa0Q4?oc=5"
     },
     {
       "id": "016ef5dee2fb",
@@ -700,30 +724,6 @@
       "summary_en": "ADA Price Prediction: ADA Holds $0.20, Cardano Weighs a $5M Copper Bet, and Pepeto Buyers Eye 100x &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU1YxcF96RjUyZDE5RTNnVHFvRVJFOFpVVzN4ZHJ3MXN2WlFJNEVhU0ZKRE5qdTZ4VnZsU1dteWVVQU5tRmRFNnVPVjJyaWtET1FnR3J3eTVjeXEwVFFQRHF1WXRNanZwVE5yQUZPZ2N3a1RxZWwxb1ZxSGoyUlFraXlta2ZZd0FSVmc5TlJTcmUyckEzT2JGMlVfQlhjTFJIeUNFbUE0WlZuUDZhOUd2VmxsVG1sd1laQmc?oc=5"
-    },
-    {
-      "id": "56f32d13cb8a",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-29",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano below $0.20: what delegators should watch now - CryptoTicker.io",
-      "title_zh": "Cardano below $0.20: what delegators should watch now - CryptoTicker.io",
-      "summary_en": "Cardano below $0.20: what delegators should watch now &nbsp;&nbsp; CryptoTicker.io",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rQ3VaY3luaHBpOW8wNmZFZ0VPZXQwMFpOZlExOGRMS1Z2cHBMVGhOREt6Wk5DT3p0U3pid3ZDVGpkMEZMeV9zSGxNX0kzX0hEUFpKbUJoX0JZaEFPMnJNd3VZdlVvc2R6N1hrZFdVQmR5U1FJYVE?oc=5"
-    },
-    {
-      "id": "caee270e0ccc",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-10-29",
-      "source": "Google News · Midnight",
-      "title_en": "Cardano: Midnight Price Prediction: When Could NIGHT Hit $1? - CryptoRank",
-      "title_zh": "Cardano: Midnight Price Prediction: When Could NIGHT Hit $1? - CryptoRank",
-      "summary_en": "Cardano: Midnight Price Prediction: When Could NIGHT Hit $1? &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXzhGc293YmM1ZFBLc3RnMWpvUlJXVjdxRlpyRG9Yai1CMUtlZGltb1BxdTBlcVRNdC1SZEpfVjFXN1oxMkdRQnFfb0syNEl1N0ZGSGpKcVhEN05VUFR6Y0s0MDdTcXV3dnVYTlF5amhaa0c5eVhFWlVKcmEwYlAyNnVCaUotZi0waUFmZTZPTDQwbXNZN1pGWU1n?oc=5"
     }
   ]
 }

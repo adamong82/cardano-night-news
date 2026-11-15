@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-15 06:30 UTC",
+    "updated_at": "2026-11-15 15:39 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "1d97b467603f",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-15",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano founder Charles Hoskinson draws backlash as ADA price drops 8% - Crypto News",
+      "title_zh": "Cardano founder Charles Hoskinson draws backlash as ADA price drops 8% - Crypto News",
+      "summary_en": "Cardano founder Charles Hoskinson draws backlash as ADA price drops 8% &nbsp;&nbsp; Crypto News",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkNzJVT3NlcDBLX3Q2OVN1M3RHX1NNQ3RFZ2NKamxDclFwOTFudFItUkZNWFdmMFVDRjVoRHYtNTRnS2EzZEVRQ0RBU29sNzVic1Y2eDI4V0hDSmJ6cV82cTVYQk0tSjBLQ3NLdWNhUEJlNUtz?oc=5"
+    },
     {
       "id": "625e892de3dc",
       "topic": "cardano",
@@ -712,18 +724,6 @@
       "summary_en": "Cardano Eyes November Recovery as Historical Data Shows Possible Double-Digit Gains &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2xQeGR3X2tsYnNmTnExQWRadk1sb182Mkw2R2xGTG0tcURvNEw0YTVlVU9KRWY5S1FTRjIzQ21wdlNRZEJXOU5sU2dDbmhNYjJSc3htRXVsZzZzc1d3Y1FyVFdhT19OR2hUbWo4cFlIZ0F1TkhjeWVQMlBmSG8xYThLalA4elNKUUpHOElMMlZXdHBMaXZYTDlHbVpKZkVRUG9SbDBEaWJ6NDRFcjlkS1JFWHpLaEwwMklxaDd3?oc=5"
-    },
-    {
-      "id": "6c4707d6079b",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-30",
-      "source": "Google News · Cardano",
-      "title_en": "3 Cryptos Under $0.25 That Could Stage a Comeback in 2026 - 24/7 Wall St.",
-      "title_zh": "3 Cryptos Under $0.25 That Could Stage a Comeback in 2026 - 24/7 Wall St.",
-      "summary_en": "3 Cryptos Under $0.25 That Could Stage a Comeback in 2026 &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZmo3bWNZOV9GT3hvSEUwMlg3X3Rsd05JSHVUSExHQ245QmltcEY2LW4ySG1hbl9BWVVWczlXNFRSMmRaS1J0Vkh2blpXVXJEdld2aGRNSnFJMEFRYmhnSGR4ZXBoZm1pVURxTHpabmota2xqb2RfZUgtdWxsUm1GZWQtNXpvNXp6YjBCMnJoRXRyZjdmNmpWbmJmZzVrQzEyZkREX3VlTDBka1NXNllFWFRhUUJNZzNITV9ZMkIxN181TVZ6eGc1NVUwSlBRZUE1SkcxTGVTUEtzaDJuZEwwaUQ5Q20?oc=5"
     }
   ]
 }

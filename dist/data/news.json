@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-15 15:39 UTC",
+    "updated_at": "2026-11-15 21:02 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -16,6 +16,18 @@
       "summary_en": "Cardano founder Charles Hoskinson draws backlash as ADA price drops 8% &nbsp;&nbsp; Crypto News",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkNzJVT3NlcDBLX3Q2OVN1M3RHX1NNQ3RFZ2NKamxDclFwOTFudFItUkZNWFdmMFVDRjVoRHYtNTRnS2EzZEVRQ0RBU29sNzVic1Y2eDI4V0hDSmJ6cV82cTVYQk0tSjBLQ3NLdWNhUEJlNUtz?oc=5"
+    },
+    {
+      "id": "de8efd537133",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-15",
+      "source": "Google News · Cardano",
+      "title_en": "What Could $1,000 in Cardano (ADA) Be Worth by 2028? - 24/7 Wall St.",
+      "title_zh": "What Could $1,000 in Cardano (ADA) Be Worth by 2028? - 24/7 Wall St.",
+      "summary_en": "What Could $1,000 in Cardano (ADA) Be Worth by 2028? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZE0td0NTZHJCS241LWFFS1JTdnp6cGwyMXQ5V093RXBwcHEwNklWUlFwRTFYa3B1WTM5R0V5RVBfdDF0SlF5MExzNzVNYWVPSlJVZnllREN0alRaOURGeHhEUkpxazlSRUxKNGtxa3hKVzNSNjlLaHdOM1dsSlJJZFJDd0JBWXNwTmc1TVRtWFg2WWpERzU1SnR0OWlCell2WmpwWnZCeF9BQQ?oc=5"
     },
     {
       "id": "625e892de3dc",
@@ -712,18 +724,6 @@
       "summary_en": "3 Cryptos Under $0.25 That Could Stage a Comeback in 2026 &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEN0X0xxaHMyaF9MY2d6NjF4LXZiZGN6V2ZPckxCTE9MdWxSRkZxa2ExaUN1WmpfY1FscGk3eG5CZ1Y1ZGtHVE1rVXN5alhEdGFHVUpiajU3eTdDLWdYMURUNFpObHZFNXplWnB1SjByLS1BeVl4bXJHWTNVcV9PUm40R0VKekdobnlMak5ITmN3bmVmbHM4WWVwcE1GbFZ4YWduaUE4b0VDeE1oZjBzTE5QUFI0Zw?oc=5"
-    },
-    {
-      "id": "437e8a0108b2",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-30",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Eyes November Recovery as Historical Data Shows Possible Double-Digit Gains - CryptoRank",
-      "title_zh": "Cardano Eyes November Recovery as Historical Data Shows Possible Double-Digit Gains - CryptoRank",
-      "summary_en": "Cardano Eyes November Recovery as Historical Data Shows Possible Double-Digit Gains &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2xQeGR3X2tsYnNmTnExQWRadk1sb182Mkw2R2xGTG0tcURvNEw0YTVlVU9KRWY5S1FTRjIzQ21wdlNRZEJXOU5sU2dDbmhNYjJSc3htRXVsZzZzc1d3Y1FyVFdhT19OR2hUbWo4cFlIZ0F1TkhjeWVQMlBmSG8xYThLalA4elNKUUpHOElMMlZXdHBMaXZYTDlHbVpKZkVRUG9SbDBEaWJ6NDRFcjlkS1JFWHpLaEwwMklxaDd3?oc=5"
     }
   ]
 }

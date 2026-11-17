@@ -1,10 +1,34 @@
 {
   "meta": {
-    "updated_at": "2026-11-17 02:55 UTC",
+    "updated_at": "2026-11-17 13:25 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "f140a9734b73",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-17",
+      "source": "Google News · Cardano",
+      "title_en": "ADA news: Cardano Foundation seeks $5 million despite $360 million balance sheet - CoinDesk",
+      "title_zh": "ADA news: Cardano Foundation seeks $5 million despite $360 million balance sheet - CoinDesk",
+      "summary_en": "ADA news: Cardano Foundation seeks $5 million despite $360 million balance sheet &nbsp;&nbsp; CoinDesk",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0xRMXNHR2hzWEpRTFhSMWdPYVVhRkNlX0dxYndxaDlpRVhaWUNPT3BDV0tESGIwazVBMjhJbi1qdjY5VHBWc092eHpLR01MLUlWdXZQbHI1eTY3VEVYSF9vZy1pdm9xNnBDcl9zbHRmQWQ1NDVnb3NGTW9ZWXEtcnNvNmRKWC1SZEViclpGNThJMWVwOTVGZ3YwNU9ES3I4SGNXMzdJdGhFc2Q4U2pQUGRXWHNRd3BZdmlPMm1PcUIydw?oc=5"
+    },
+    {
+      "id": "aeda5fa7b938",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-17",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Foundation seeks treasury funding for 2027 events amid ADA pricing gap - Traders Union",
+      "title_zh": "Cardano Foundation seeks treasury funding for 2027 events amid ADA pricing gap - Traders Union",
+      "summary_en": "Cardano Foundation seeks treasury funding for 2027 events amid ADA pricing gap &nbsp;&nbsp; Traders Union",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlZValVjYVh4QWJhbEs1cXJHRWVoaVVfajFGaG5LTll2TUs3YTFmZ3J3dENDdnZLN1pOZ1VrNmRzQ1lEa3g2ZkRwNDJfTUU5c1c4Y3ZyXzRxejRvVjJSdTlDeTJsbGdncmNFUGYzXzQ3T0VyaTY4UEpYLVdIc0J1TjBTQ2MtUFk5UzVPbDhleFFwTF9tV1o3WTlYVUVOVkFNeWc?oc=5"
+    },
     {
       "id": "9fa63836ccef",
       "topic": "cardano",
@@ -64,6 +88,42 @@
       "summary_en": "Midnight's NIGHT token would need 22-fold price rise to enter crypto top 10 by market cap &nbsp;&nbsp; 디지털투데이",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdkhjRldrUEMtOWNzTEctMVdOaW14MW51RXFfVVpsMThHZnRkdGt3OWIwRXJmcm5ObC1KRHRRT2tyZXQtMnZzTFlqVHMzXzk2VUVWYm1fS2ZQWjNWNjhiU1kzUVdadE4wN3RFRVRUTnl1bU5hdmJUZGtQWlEyYnVpOE9jS041Z1p5NkhmN0JuZGl3M2FtSjhhUDc4cmxhZGE1bTZoWDhtdmVvQ0hab0E?oc=5"
+    },
+    {
+      "id": "4c57a0a2b17e",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-16",
+      "source": "Google News · Cardano",
+      "title_en": "Should You Buy, Sell or Hold Cardano (ADA) Before Year-End? - 24/7 Wall St.",
+      "title_zh": "Should You Buy, Sell or Hold Cardano (ADA) Before Year-End? - 24/7 Wall St.",
+      "summary_en": "Should You Buy, Sell or Hold Cardano (ADA) Before Year-End? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2Y1Z1h2UlBSRVlLbTlLVmxmdVJhbVBCMWUxZ2haNHhReEQ0aXB3MFJqcjJKdVVrLXdOLU5QdzQwbjdzdWpzSzRoanFTSGdVWGpPaTd6Vmd4V2NiNGNGRTdPNlNNNF9hQmdxRmJGc0VpdjBFRVloVnd6dEtFbndmV3oxcGp3MTFIMXhJdlR1V2dXSS04OE16WXEySzdnS3BleGlvc2JpLWwtVWh0SENiU1IzSlo?oc=5"
+    },
+    {
+      "id": "d014246d21a3",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-16",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Founder Pushes Back on Claim That Midnight Isn’t Built on Cardano - CryptoRank",
+      "title_zh": "Cardano Founder Pushes Back on Claim That Midnight Isn’t Built on Cardano - CryptoRank",
+      "summary_en": "Cardano Founder Pushes Back on Claim That Midnight Isn’t Built on Cardano &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdjJNek9zaEs4ZFRXMmNFWWQ5SGRVdWtSQlh0am5lSFJKUndmR2w1ZHdDYzluRFpZcG9IZ2d3N1hPUkJwTzhfQXJhOUJyOHZHSnpCbzFoV2FnMTZSVFdHU2VUejBLNTJCOFRkSXhodVhidk50RXNsbUVCVDdpZm5DQnR2cFhWdGdKdDdZQWgwTk56Zk5rLTItQ1pjVDRqM3dpSGpSUWZXU3ZnbFdaSF9N?oc=5"
+    },
+    {
+      "id": "492fe35d4eb8",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-16",
+      "source": "Google News · Cardano",
+      "title_en": "Sam Altman’s ChatGPT AI Predicts a Crazy ADA Crypto Price - Cryptonews",
+      "title_zh": "Sam Altman’s ChatGPT AI Predicts a Crazy ADA Crypto Price - Cryptonews",
+      "summary_en": "Sam Altman’s ChatGPT AI Predicts a Crazy ADA Crypto Price &nbsp;&nbsp; Cryptonews",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVFJNzM1WnAxOXdPdDllU3lldUNNc2wyWmVMRUNaa0JXN2RJMUZGVEhHa0JBb2JEWk5sZVdXX2Y2OE1maU5ud3JvOTUzV1RhZmpHWGVjMm9PUHAyT3dUNm5KSW5Xc0FVaUhHbDlCeEZMQ2E3X3k4MDBVQ0txRFlxanJtejAwSVplSk03M2p3?oc=5"
     },
     {
       "id": "1d97b467603f",
@@ -664,66 +724,6 @@
       "summary_en": "Cardano stake pools hit by critical Linux flaw, delegated ADA stay safe &nbsp;&nbsp; CryptoTicker.io",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSXBGNFRHT0RnX3VKSmdIMlZRblpqbU00T0xsTEtkTS11ekxUREwyZElMWXV0VE02WkctUVRMYWxPdnpwNEFaSkdTY1g2SWRFNnBtQkpvdHBmbWNFdUlvVG1BM2pvNHJicXJ2d0xTY3NFa3c4VGc?oc=5"
-    },
-    {
-      "id": "aff4dc6dfbe0",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-02",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price: ADA Drops 9.7% Despite Swiss Rules Win as Pepeto Draws Early Buyers - TechBullion",
-      "title_zh": "Cardano Price: ADA Drops 9.7% Despite Swiss Rules Win as Pepeto Draws Early Buyers - TechBullion",
-      "summary_en": "Cardano Price: ADA Drops 9.7% Despite Swiss Rules Win as Pepeto Draws Early Buyers &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWROQjVuakRoVVN1VW50NGExcHdaTWVQYWVYR21CellIeWdpbkY5YjY0Qmx5NlQ2cVExbnRTZnhqMWVmeDNNWjNNc2JNMDl5eTZVbEdHSWVueFNaLUtQVklTdUVNZmVmUHJSeG1ETzBDVjZrS182NkJ4QTItT0FZZVVVUmNlcFNjTHppbkRPM3M3SlZQR3IyRTlHNTNBd3M5VnA0ZUFJMGg?oc=5"
-    },
-    {
-      "id": "71b913baf735",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-02",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Prediction: ADA Holds $0.19 as Early Pepeto Buyers Position Before Price Rise - TechBullion",
-      "title_zh": "Cardano Price Prediction: ADA Holds $0.19 as Early Pepeto Buyers Position Before Price Rise - TechBullion",
-      "summary_en": "Cardano Price Prediction: ADA Holds $0.19 as Early Pepeto Buyers Position Before Price Rise &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaG1za0lTbmh2WXlIS09xdmxXaGJxdFZLMkhsODJGeGZVQ0s1ekJpNklLTUV1dm5JT0hhZGR4d21xUU1oMTY1bjlaaFR4RkFya1FwaUtEVnYtY3JIOFZ0dkdORUFXVUVUa3h3a0t1blI5Mldkb19wcWdtREZnWGxfaU16ODdQVXdIc0lLaDNOUmhGcEhIeGpHTGh0MTFwRFNOTnMwdGlaNjdrd3k1anlXLWpJTUQ?oc=5"
-    },
-    {
-      "id": "0ce961526248",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-01",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano, Hedera and Avalanche Lost 20% or More in October. Which Could Recover Most by 2027? - 24/7 Wall St.",
-      "title_zh": "Cardano, Hedera and Avalanche Lost 20% or More in October. Which Could Recover Most by 2027? - 24/7 Wall St.",
-      "summary_en": "Cardano, Hedera and Avalanche Lost 20% or More in October. Which Could Recover Most by 2027? &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPXzEyVE5vRVp3Z1B4bE9oLUtzOEJpWkZkbUt0aXVwRjRFMnZ4ZDBwTnJoTmI5TC1pR0VFSFZkMXhqZEtKQk1rZGx2cFRjbnJZaTgwaFVoU2hEQ25ORi1QQVNicE1VT0dwUWNhT1BMRkVQd3FzVGZIZmoxTHNnZ3cxTnpMcWc0azNpdktQQXJGb1RaUjBVZWpNMEpwMWxPUHMwOHdINWphTXZuQ1QtT1c3OVd2Qk5UQ2h1YldiMk5fVlplRmw1N1BZblR2Yzh3dGgzcmZ4Q0staGdEUFUzT0xXeg?oc=5"
-    },
-    {
-      "id": "fc5689d7f481",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-01",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano News: ADA Price Risks $0.16 Despite Developer Surge - CryptoRank",
-      "title_zh": "Cardano News: ADA Price Risks $0.16 Despite Developer Surge - CryptoRank",
-      "summary_en": "Cardano News: ADA Price Risks $0.16 Despite Developer Surge &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORTF0eXJwZXFPR1JxVm1RZ1haZ1ZZeDJDYTI3ZGpoRmtoUTBDYVZyMy00alh4YUczQU1HcFIzdzhjQm1ZVVd0amdKODUybHNKWFRhSFlXNUstZWNmYktEWVp6VTE5M005RzdjeGhCSTVJbDM3b2dnT2U2LTVBUkYyN0NUeDMzaDhBSkZoQmE0SmIwalJEdDZKRzhQZw?oc=5"
-    },
-    {
-      "id": "87e07593e641",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-10-31",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price: ADA Falls Below $0.20 as India Police Plan Faces Vote and Pepeto Eyes 100x - TechBullion",
-      "title_zh": "Cardano Price: ADA Falls Below $0.20 as India Police Plan Faces Vote and Pepeto Eyes 100x - TechBullion",
-      "summary_en": "Cardano Price: ADA Falls Below $0.20 as India Police Plan Faces Vote and Pepeto Eyes 100x &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ0NzeFM5NEpxa1NpTjNLNXNKUVk5SXRCd2tJX29SSmladUxQLU5TcWpYbEt6S3Fabi1UZDd2VjVpdE5SbGFqWXJVSTA3Mnh5elJzMEJYRlkwbFVoUGY5cHlzbnBLekpLQkczMGw3MHQ2VlVrWGNaaE5WclRkMHFQSlMyX2RHZzJZUzZlVklfX0xZcmtYOEJENFdsbko3emsyb2F2MlFmM3h0ZFd3WEpIRXJ3?oc=5"
     }
   ]
 }

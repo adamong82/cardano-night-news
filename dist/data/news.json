@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-17 13:25 UTC",
+    "updated_at": "2026-11-17 23:29 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -28,6 +28,30 @@
       "summary_en": "Cardano Foundation seeks treasury funding for 2027 events amid ADA pricing gap &nbsp;&nbsp; Traders Union",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTlZValVjYVh4QWJhbEs1cXJHRWVoaVVfajFGaG5LTll2TUs3YTFmZ3J3dENDdnZLN1pOZ1VrNmRzQ1lEa3g2ZkRwNDJfTUU5c1c4Y3ZyXzRxejRvVjJSdTlDeTJsbGdncmNFUGYzXzQ3T0VyaTY4UEpYLVdIc0J1TjBTQ2MtUFk5UzVPbDhleFFwTF9tV1o3WTlYVUVOVkFNeWc?oc=5"
+    },
+    {
+      "id": "30e7275463a0",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-17",
+      "source": "Google News · Cardano",
+      "title_en": "Will Cardano (ADA) Recover in 2027? - 24/7 Wall St.",
+      "title_zh": "Will Cardano (ADA) Recover in 2027? - 24/7 Wall St.",
+      "summary_en": "Will Cardano (ADA) Recover in 2027? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZHVkUFFYdXQxWlloSWtmYjhSZXczOHBvaUszU1d5TlhrUTFaWHFTUFlWN1BIVXlZWi1OLXNiMVF3RjNaZ0pyX2FiZVpqTXJ0UXRvcmNlWmJlalRwdmFvcGFWWWVqaS1JOEZuMktZbENLemVtUVFEZk9aYzNYNEZlRzV4anl3V05Eek1vMXJScVZqdVNlRGc?oc=5"
+    },
+    {
+      "id": "4388b6380ab8",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-17",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Foundation seeks 25M ADA for 2027 events despite $1.2M funding gap - Crypto News",
+      "title_zh": "Cardano Foundation seeks 25M ADA for 2027 events despite $1.2M funding gap - Crypto News",
+      "summary_en": "Cardano Foundation seeks 25M ADA for 2027 events despite $1.2M funding gap &nbsp;&nbsp; Crypto News",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUEdKMnZaekVITC05bWJobW5HRUdkQXRaQ3VpWmVKVFdLUHRsLXljRWlRRnlCaWltcG0ybGxMZXVuWjBFUURFRlY2MWdQNTktd0JIUEZkT1VaaGpBT0ZSbUhzZmU4OVV3ZHVmR3JMMUlxRkdFMXZWTFYxSXRfeEdWTXdBV0twTDdxVDhkdUYzOWMyZW1iM0tpcnRR?oc=5"
     },
     {
       "id": "9fa63836ccef",
@@ -148,6 +172,30 @@
       "summary_en": "What Could $1,000 in Cardano (ADA) Be Worth by 2028? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZE0td0NTZHJCS241LWFFS1JTdnp6cGwyMXQ5V093RXBwcHEwNklWUlFwRTFYa3B1WTM5R0V5RVBfdDF0SlF5MExzNzVNYWVPSlJVZnllREN0alRaOURGeHhEUkpxazlSRUxKNGtxa3hKVzNSNjlLaHdOM1dsSlJJZFJDd0JBWXNwTmc1TVRtWFg2WWpERzU1SnR0OWlCell2WmpwWnZCeF9BQQ?oc=5"
+    },
+    {
+      "id": "46b78659e0bc",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-15",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Voters Reject 22,000,000 ADA Copper Reserve - CryptoRank",
+      "title_zh": "Cardano Voters Reject 22,000,000 ADA Copper Reserve - CryptoRank",
+      "summary_en": "Cardano Voters Reject 22,000,000 ADA Copper Reserve &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRWxobzJLNkZYTFhpaGNhclc0RHhQOXIzVHNlUldKT3l6U254aW5EM2VrSWVmakhMWEdfYmhMNVJwT213SmV3MWtSclNSX3Zaa2liTUlFUy12OXpHRC1QVmdNd0VRNjJOeEhpS2Q3X2l0UDhIVW1mVmlaYUtDRktMT1BEVG9KRF93NjVXUk02aXg?oc=5"
+    },
+    {
+      "id": "85b24ceebb3a",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-11-15",
+      "source": "Google News · Midnight",
+      "title_en": "Cardano Midnight Price Prediction: Here is NIGHT token Price if It Enters Top 10 - CryptoRank",
+      "title_zh": "Cardano Midnight Price Prediction: Here is NIGHT token Price if It Enters Top 10 - CryptoRank",
+      "summary_en": "Cardano Midnight Price Prediction: Here is NIGHT token Price if It Enters Top 10 &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXdTTGlJdE5nVG1BNkMwNHNzMjZlWDl0cjVhRWRSa0QxbU8zeUl4ZE9GalJLVkx2MVBjcHp3MnFtS05waUtmN08zb0VIOHRwV1gxaEVJcXdaNkZSeV93VmR1NlBqbVFmLS02UDRCYWlSYmk1OVg3OTQ2ZHNWR0lxN0VqSy1SUkRxRjR2eEp1NTlmODVkeTVCZkQ0MFZWWWxZajRlb19BQVc1aThndVVSS3U4WVFQcEZH?oc=5"
     },
     {
       "id": "625e892de3dc",
@@ -676,54 +724,6 @@
       "summary_en": "Cardano Price Prediction: ADA Waits at $0.18 While Pepeto’s AI Presale Keeps Drawing Buyers &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaHZ6UlZ5dzhpMGJ0RldQOHhfV2NkdUxOaUUxWHpSZ3FKU29BY2JfajZNLVVTNzJ0WURpdU55T3QzMFF3WW95UEJrek5qVjZxUUJLWGZ2OEN0aTR2OHllZHg1dEZXTmFFbVR3bDhzbnFBZ2JNNk1uZHpZazMwZHdoY2cyYVNwbGd5dzFzdmlhRFVaLTE3RGZyNFY4YTl2Smp4X0NiXzl1YklHV3dHY0xlWGtXMA?oc=5"
-    },
-    {
-      "id": "e16bc576a096",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-03",
-      "source": "Google News · Cardano",
-      "title_en": "Binance resumes Cardano withdrawals only as BEP... - Pluang",
-      "title_zh": "Binance resumes Cardano withdrawals only as BEP... - Pluang",
-      "summary_en": "Binance resumes Cardano withdrawals only as BEP... &nbsp;&nbsp; Pluang",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORkNNS09JM3YyUjZyOEZTQWJkemZHZmlmT0N1b2NQbE1hRjF4RGJhM2R2cUNjc1NxelZTRzhZOHl6MUdsdVhZcnlZT2hJSUZJRnlfemRoWVhVaUxab2piZ1FBZ0pSUkEwajFmWEdsNGlIWkljRWhPQlhLNndBZ2phamZYa0pUWGxrSFMzYg?oc=5"
-    },
-    {
-      "id": "87743c622591",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-03",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Bounce From This Key Support Strengthens Case for Recovery to $0.23 - CryptoRank",
-      "title_zh": "Cardano Bounce From This Key Support Strengthens Case for Recovery to $0.23 - CryptoRank",
-      "summary_en": "Cardano Bounce From This Key Support Strengthens Case for Recovery to $0.23 &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2pZeUk5ejlNVkc4Y0s5Z1N6a2w2VkpXTDNXQ19YREFlNk5jMklSeWtwVmdvcExtTWF3Wk96V29CVW1zS2NudG13b2NDSG5ObkUzYVJuNmxoRVVfNm9ieUVEV3NxZjhtYzNSYTUxT00wOXJoMHNyYVNiSzc0WV95N0pBbXBKdmRyZFlnSERybm0wajJHb1BaUjVzSTkweE9zUXQ2Q29Zdk9iV1JDZWJJbW53?oc=5"
-    },
-    {
-      "id": "2653bddd5878",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-02",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano to Participate in Blockchain for Humanity in Geneva on November 5th - TradingView",
-      "title_zh": "Cardano to Participate in Blockchain for Humanity in Geneva on November 5th - TradingView",
-      "summary_en": "Cardano to Participate in Blockchain for Humanity in Geneva on November 5th &nbsp;&nbsp; TradingView",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNc05oY05zcktIbV9iTVY0cmtSYXlHRUhKN09TWTRtVHNlczEyaTZ5QVd4TWxfYzhYMHhOSC1obGhXLTR4LWd5aXgxcG55NWMzUEhvN1ltS0VzcTNfN05uQ21ndWt3MDNDbzlSbjItMG9CbWN1VVB3M3dvQnZSbFRWZE5rdDYtM09wMnVOd3ZfbmFvczJieUR2aTNFTHNHODYtU2tFWm9qbzFoUkd1REllcS1ENEpzbjE0ZUtaZkZRb1d0NmhORWVDb0g5QzZHUQ?oc=5"
-    },
-    {
-      "id": "d175669146da",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-02",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano stake pools hit by critical Linux flaw, delegated ADA stay safe - CryptoTicker.io",
-      "title_zh": "Cardano stake pools hit by critical Linux flaw, delegated ADA stay safe - CryptoTicker.io",
-      "summary_en": "Cardano stake pools hit by critical Linux flaw, delegated ADA stay safe &nbsp;&nbsp; CryptoTicker.io",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SSXBGNFRHT0RnX3VKSmdIMlZRblpqbU00T0xsTEtkTS11ekxUREwyZElMWXV0VE02WkctUVRMYWxPdnpwNEFaSkdTY1g2SWRFNnBtQkpvdHBmbWNFdUlvVG1BM2pvNHJicXJ2d0xTY3NFa3c4VGc?oc=5"
     }
   ]
 }

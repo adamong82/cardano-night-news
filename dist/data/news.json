@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-19 13:05 UTC",
+    "updated_at": "2026-11-19 23:03 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -16,6 +16,42 @@
       "summary_en": "Cardano Voting on Trivolve Tech’s PFMS Proposal to Close on November 20th &nbsp;&nbsp; TradingView",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0hOYnN1Y3NnRDkwV2FVbjFwSFJXd21HeDBzbldXYVVVWFhCYnllN1NMOVAzSTBLeWlzTXdKdzB6YnZwdjh2cS05OFFBaFFwX1hxbUs0Y0Y3d2FiWUJWdjNTUENNZ204N0w3YlktQzVFT0RfWWdTYUc1V29DY3YxR2pEX1c0MXJuT0g5YzlnbEdGZDJfUENsUnJ0V2FxTzQ2V3hEbmxjeFBheGFpTUstbDVtcTZaSGk2YzNEV1YwSW9UWnFCQTE4OC1pWQ?oc=5"
+    },
+    {
+      "id": "ef36bb3bd0e4",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-19",
+      "source": "Google News · Cardano",
+      "title_en": "Could Cardano’s (ADA) Market Value Reach $25 Billion by 2030? - 24/7 Wall St.",
+      "title_zh": "Could Cardano’s (ADA) Market Value Reach $25 Billion by 2030? - 24/7 Wall St.",
+      "summary_en": "Could Cardano’s (ADA) Market Value Reach $25 Billion by 2030? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSk1DY1BWMGkzRDQ1Z2ZrbDlZWXo1YXRfQW5iSVlua1l3LTVlNjNPa2JVWWllRDZKOFRnR01jVDBHUzA1bjU1VmRkbWljajlhRjBIenBMQllCa3lKMzFBNnp3MXJNancwUC1MejJRMVdGb3N1TVBuOTBvYzlVMmVLSzcwOGFvaWlTYzR3Q1VqMWRBY1BITVliNWZaM1lfNmdiYTI4bHZJVU54bjAtS3JtTnFHN3o4UQ?oc=5"
+    },
+    {
+      "id": "b828772fa79f",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-19",
+      "source": "Google News · Cardano",
+      "title_en": "Important Cardano News and ADA Price Update: November 19 - CryptoPotato",
+      "title_zh": "Important Cardano News and ADA Price Update: November 19 - CryptoPotato",
+      "summary_en": "Important Cardano News and ADA Price Update: November 19 &nbsp;&nbsp; CryptoPotato",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNy1BVmNDWERxY1o1ZjVqRzc2SnVYSEktT0pKU3IwYUlHek5wU1hqOWxxLW1QbzdxYnpyX0I5TEhwVmdCUXk1U3ZBTDBqSXhueGVIYVBuZnZWMVJTSDZqbXJrS2M3LUVDQUVPWmk4dFdIZ1QzaGFfM3BwSXdPRG1pMHBONThfWEZ6?oc=5"
+    },
+    {
+      "id": "ec6a2351335f",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-19",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano’s (ADA) 5-Year Outlook: Is It Worth Buying After This Crash? - 24/7 Wall St.",
+      "title_zh": "Cardano’s (ADA) 5-Year Outlook: Is It Worth Buying After This Crash? - 24/7 Wall St.",
+      "summary_en": "Cardano’s (ADA) 5-Year Outlook: Is It Worth Buying After This Crash? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRjV2cmxJRlNjQzl1bzBYOGJBV1Zva3Rkdl8xSGE1ZGluWWlWNUYxdHdBU19JYWI0OEFKZjQ0QnBhVXI1UV9iSTViM0IxOTN3cUNqRWZjYndnblc5N1ZFZlVwbzNCX29lcjduMENuclJ0aWxkclFZaDBQUXhXc0ZmQXBRd2JFbThiZWprWXdiUmkxbUR1TmtqOWd5SloyUXlrRE5uWDR3cnFuX1dadjVkTnlVblF2N0xMZ3l0Vm9yaw?oc=5"
     },
     {
       "id": "1510520d2f05",
@@ -688,42 +724,6 @@
       "summary_en": "59,025 Cardano Holders Still Have 131 Million ADA Assigned to Retired Stake Pools. Are They Losing Rewards? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNaXJRUGl6blNlQWY1Ym5jSnMwUGQ1SHJlQWJKZER0LW5EV3Z5Y1E2Z3BOZ25EUk1YNXVvVGtVbTFOV1lJSEdWdVoteG5tQWJBVDFjT2VWUll4MFkwOGt1M19IWklVU210UXN3ZjYwZnVIZ01aS1B1QThrU1N6OElxbGhTZXRiX1ZRSlVGQUZjU3IzNG80MWQ0Y1dSZTlrUjhidGtfamlNd3BlQWtmRDBPVU53VG9xMEdvdmVkRXFWN3lCbkl5SGM0Qk9zMk03dFFsRDJIamxaMnB5UVMwSXc2WHJLNXVzUHBJekJwY2hPX1c4WVVXOGc?oc=5"
-    },
-    {
-      "id": "be1ef7cb0e13",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-04",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Ready to Repeat Its Legendary 2,000% Rally? Pundit Reveals Two Key Price Levels for Next Bull Run - CryptoRank",
-      "title_zh": "Cardano Ready to Repeat Its Legendary 2,000% Rally? Pundit Reveals Two Key Price Levels for Next Bull Run - CryptoRank",
-      "summary_en": "Cardano Ready to Repeat Its Legendary 2,000% Rally? Pundit Reveals Two Key Price Levels for Next Bull Run &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUnd3VDlPM2lxb0E2OVVBcldyU3hLRjZFSHJNUy14NGRpTk0yUzFfSGxEbmF1Q2UtaGFHYnZlcmFwTHZ0Y1hRQ05PS3dROTdOVzRhLVhvWXA2NHJhWnBGdUdfX3FMSFJuaVFWNWV0WllLTkp3cTlSSFViOFBobzNyRndkRGhlUHIxZWlQMGQ4VFhLSExoYmthR0FjUlcxaXEzX21sLVBpaUxmeTk4VnJWcmhzdzJOc3c2RzJlR2pEVVNncUFTdURfdUdtVUhZQWxuVXVwbnhWOA?oc=5"
-    },
-    {
-      "id": "fec5f6562c8f",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-04",
-      "source": "Google News · Cardano",
-      "title_en": "ADA Price Prediction: Cardano Holds $0.19 as Atlas Opens Futures and Pepeto Draws Buyers - TechBullion",
-      "title_zh": "ADA Price Prediction: Cardano Holds $0.19 as Atlas Opens Futures and Pepeto Draws Buyers - TechBullion",
-      "summary_en": "ADA Price Prediction: Cardano Holds $0.19 as Atlas Opens Futures and Pepeto Draws Buyers &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN1NCNzFCbTFDWGhPUF9uTkl4MEVWNWdxZ2dKSURIT2lOalM3TFp1M3dIbk8tQzFvSzU1UHBTMGhnTjRtaXZUaUlVYnl1MDJBYnVTTGtnX09kRmc3Vy1yZ00tYXpIMkFkX1BHZmMzZ01qX183eXo3TEZETU5wdjZwZVVMSGZLZWgzV1UxdzU3MlN1cW9FSGUxR0wzZHd1cmV0Q1hUSzZ4ZFZZVmczRmp1UA?oc=5"
-    },
-    {
-      "id": "e923314a4978",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-03",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price at $0.1882 - The Cryptonomist",
-      "title_zh": "Cardano Price at $0.1882 - The Cryptonomist",
-      "summary_en": "Cardano Price at $0.1882 &nbsp;&nbsp; The Cryptonomist",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXhRRGd2VWFMR3NWYk55VkhiUGxxOENJMzBhY1lmQWY3UjNYRmZuRDBpbmd1TnZYRkIxMU5OaHp0cUhiblRqUUhEVE53Z0NubFZDWDVMRG85ekhSTlNtM0xpTWx6RnRGemtsd3ViU3J4ekVBcF8yWHlNUk9HWFpoU2dRWVdGX0NCYjRpR1l0R2g1a2ZQNDVFbS1B?oc=5"
     }
   ]
 }

@@ -1,10 +1,22 @@
 {
   "meta": {
-    "updated_at": "2026-11-20 07:14 UTC",
+    "updated_at": "2026-11-20 16:57 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "a452f34d9abf",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-20",
+      "source": "Google News · Cardano",
+      "title_en": "GSR Becomes Market Maker for Cardano (ADA) and Micro ADA Futures on CME - Cryptonews.net",
+      "title_zh": "GSR Becomes Market Maker for Cardano (ADA) and Micro ADA Futures on CME - Cryptonews.net",
+      "summary_en": "GSR Becomes Market Maker for Cardano (ADA) and Micro ADA Futures on CME &nbsp;&nbsp; Cryptonews.net",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9hVXpIazZCN18taloyV2hsNEhOMGlXUzduTE9jQ0hsT0NlTVR4RWZiV3VUc2t6cjllR2lsb1VnLWZiam9zRUFnLWFYaEJzMFpiMjM4X2llVQ?oc=5"
+    },
     {
       "id": "bddc6d4b20c3",
       "topic": "cardano",
@@ -64,6 +76,18 @@
       "summary_en": "How Much Cardano (ADA) Do You Need to Be a Millionaire by 2030? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcnRzVlFjbFAyR3ktQUtzbzhLS0NfYUFqLUxDSERuOXN6NzVEbDdJd084TklCUG5NRWRuSzFDNnQ0RFlBRkgtRVg1LUUzTjlyNWpuZm95bWVheVFBaUNGWVR2am9fV09yY3FrVWRpS1FTZjlBQy1QVFJFOGpxc0tFSzVZazgzVHFhZUpyVWQyYjBXOWZIUWY1R1V2RXhWVWUxNXNncDc0YTQ4WmNuaUo2ZWpub1puZXcwOGFr?oc=5"
+    },
+    {
+      "id": "9c3f0f89857f",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-11-19",
+      "source": "Google News · Midnight",
+      "title_en": "Midnight price today, NIGHT to USD live price, marketcap and chart - CoinMarketCap",
+      "title_zh": "Midnight price today, NIGHT to USD live price, marketcap and chart - CoinMarketCap",
+      "summary_en": "Midnight price today, NIGHT to USD live price, marketcap and chart &nbsp;&nbsp; CoinMarketCap",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYZ2VEWkwwcTBDQjRFQ1ptVWZfZmJSa3ozbG9QVUNza3BTUjRCVzZuRFFfa0J1TFctZngtRnY0OVB0d1hfcnpVV2lsZmxRMnJPeWp0MW1yWHR5ZUJ3aVlEQWtPRnY?oc=5"
     },
     {
       "id": "1510520d2f05",
@@ -700,30 +724,6 @@
       "summary_en": "ADA Price Prediction: Can Cardano Clear $0.1999 After Its Wedge Breakout as Pepeto Draws Big Investors? &nbsp;&nbsp; TechBullion",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPd29IOGZLblZjQnczNk03X3BmZnNPVUVUUGdLMGVvR182SkVXWS1MZlpFQjNEc1VFdTltLWVRQ3VVTnpoa05JdV9xYW84U1dIWmFXRjVsU1ZZNXBjQUpPb3REYXV5ei14WVVyZ2JlZW9pYWxWX2Z0NkhzOGR6SGdNM2lQV3NEXzl1N1pzZFRLbXNMM1Axdnl6WHZudWx2d0JPNDBCLUh4blRmaTRrUV94a0NXaHJsSEtxclNEM0NKcEpFeTA?oc=5"
-    },
-    {
-      "id": "9d840bb4a691",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-05",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Calculator: Profit, ROI and Break-Even Price - CryptoTicker.io",
-      "title_zh": "Cardano Calculator: Profit, ROI and Break-Even Price - CryptoTicker.io",
-      "summary_en": "Cardano Calculator: Profit, ROI and Break-Even Price &nbsp;&nbsp; CryptoTicker.io",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIVzZ4aUpaZHpaQkFibTRaSy1maG1PYjR5ak43X19PNW1YVmtoXzhGQUV6QUlKWXB1d3FUMllIaTdOdDNpS1FPNzYycGFVMnhUNnA3SGFyV0JPQ2Y5Y3FIaDBfRQ?oc=5"
-    },
-    {
-      "id": "97681d038b86",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-05",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Prediction: The Levels ADA Must Hold Now - CryptoTicker.io",
-      "title_zh": "Cardano Price Prediction: The Levels ADA Must Hold Now - CryptoTicker.io",
-      "summary_en": "Cardano Price Prediction: The Levels ADA Must Hold Now &nbsp;&nbsp; CryptoTicker.io",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlN0Y1k4Q2l1bFZLMGREMFNDSElMSGxMWjRkZjlheGZjaDB5N0lFVjdPVVFHajhKU0FoSkNpSWJTSVZMaWcxY2gtWVU5VnpTTm5JaVkzZlYyUVVEUDI4eDZVNkFiVUdmVks3N3VkVnZPRUgxS0RiRU1YVFNmOERkV241cFJNRlY5bVE?oc=5"
     }
   ]
 }

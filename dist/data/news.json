@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-22 16:16 UTC",
+    "updated_at": "2026-11-22 21:52 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -28,6 +28,18 @@
       "summary_en": "Midnight (NIGHT) Surges 8.9% on Multi-Factor Momentum &nbsp;&nbsp; CoinMarketCap",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JUkhWTjZISFFmenFrRlhzcmlZZFQyMW03V1pkYmQ2NEM5ODdyZ09uYnRJQXN2TzhFTDBJLWF1eVJoNzhZV3NqQlZ3OW04c1pyOTRpTXRxZzJGS2w1VnZ6Znk5WFlwY0RfcXVjUV9yTjk?oc=5"
+    },
+    {
+      "id": "0eb0e97dfe0e",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-22",
+      "source": "Google News · Cardano",
+      "title_en": "$500 in XRP or $500 in Cardano: Which Could Be Worth More in 5 Years? - 24/7 Wall St.",
+      "title_zh": "$500 in XRP or $500 in Cardano: Which Could Be Worth More in 5 Years? - 24/7 Wall St.",
+      "summary_en": "$500 in XRP or $500 in Cardano: Which Could Be Worth More in 5 Years? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWRCMmZDVTl0LWlPOG9FU2F2bGxRb0FINnpsaTBDMlBqbF94T3ZWTWRHQWRZVE04SE1iV2NJWXI3RVB5UDc0OXgxSzFDUldiU2x0YkFXRnFpS2pkc2VULTl5ZW9hTl9GQVU2bDlYcVMyR0ZvM3h1S2k2eUd2VE11WmZRbmlBV1k3RUlIUk9RbWdzYUUtTlZyS3dDT0lpZmNuUUZmNGNhT1I4ajlWVUs2Mko4NUxCRkkyNEEtTFBmak83QQ?oc=5"
     },
     {
       "id": "d9a5b9155e3f",
@@ -88,6 +100,30 @@
       "summary_en": "Cardano vs Solana: Analysts and ADA Holders Clash Over Adoption &nbsp;&nbsp; Cryptonews.net",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tYmtvMU1vVVhUWG9DV3JHNEx5MktFbGZFVnJJN3FWa2w2WjMxMU9YV1ZFZ3ZFQV9EbllfcDZDN1MyMUtmTzQyRnVfejhkQ25QS2MyVU5sZlN3dw?oc=5"
+    },
+    {
+      "id": "534ad363f795",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-21",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano vs Solana: Analysts and ADA Holders Clash Over Adoption - CryptoRank",
+      "title_zh": "Cardano vs Solana: Analysts and ADA Holders Clash Over Adoption - CryptoRank",
+      "summary_en": "Cardano vs Solana: Analysts and ADA Holders Clash Over Adoption &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY29vVldxR2ZDdnNtbEJUNjV4TWxxZlJqZVY1MTFPUV85S1pWTHowYW90cEQ3dU9Sb1ZXcGtwTTJJbXhsTjNDVnlQRGdrTzg1Q3ptbzZpZ1NyaUJhdEZYLVI3WnRvaHBCUlAzRUZPdWQzd0R1ck5DZ05rOTdCcl83SEVqR21CYmh4cFBhUGNqcjFmdWtmU2x1MHNCU3oySElHSnc?oc=5"
+    },
+    {
+      "id": "343bfc2cd641",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-11-21",
+      "source": "Google News · Midnight",
+      "title_en": "Midnight (NIGHT) Drops 4.44% Amid Broad Crypto Selloff - CoinMarketCap",
+      "title_zh": "Midnight (NIGHT) Drops 4.44% Amid Broad Crypto Selloff - CoinMarketCap",
+      "summary_en": "Midnight (NIGHT) Drops 4.44% Amid Broad Crypto Selloff &nbsp;&nbsp; CoinMarketCap",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TdFBObEVBUjdJZ1V0bnlCTFZMSU0wMVV0dnM1ZDR5aE9mVnBGQmdQYko4UE8weExXY0xfRzdFVUxqZExEVXpaSVJNM2lYTU9UdVh1NGF6ekVJNUlLLUV5ZlJrTzkyUlJYeWFoOHFFSmQ?oc=5"
     },
     {
       "id": "a452f34d9abf",
@@ -688,42 +724,6 @@
       "summary_en": "Big Cardano (ADA) Sell Wall Emerges Below $0.18, Will OI Spike Hold Off Bears? &nbsp;&nbsp; Cryptonews.net",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9meW9TU3YwVU9WZzQweVF4Y09UeXpvc0JHanVNRmV2MGl1cmotTGx5dGQ0YnFodGRfTWNjZ1FIM0JWa1dMWUI2b00xM1Bza3Z2OUJSYkxQUllwdzQ?oc=5"
-    },
-    {
-      "id": "dfeba15a3c06",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-10",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Prediction: Can ADA Reclaim $0.2030 as the Cardano Foundation Backs 8 Ventures and Buyers Stake in Pepeto? - TechBullion",
-      "title_zh": "Cardano Price Prediction: Can ADA Reclaim $0.2030 as the Cardano Foundation Backs 8 Ventures and Buyers Stake in Pepeto? - TechBullion",
-      "summary_en": "Cardano Price Prediction: Can ADA Reclaim $0.2030 as the Cardano Foundation Backs 8 Ventures and Buyers Stake in Pepeto? &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTEFoV0h0eVFRcWpuZ1pURnQ2VTB4d0U4Y2lJSk5ET2lhcFFWY01mNEE1M3JxLUZSVVJqc3dMMUZjV19PV3dfekg2UXZGX0pWSGNHX0xDdnlva2pWRGZvclBMdUNBT1pTcEkzTkFvOTlsNUNPQkx0Y01LTjNwNWJBUzZST1poVDc0cHhWdFNROXg0cV9iYUp5UmxXVGRNMGJSNnJQRzVodTF0S1JSNlYyMmk0ZjJRa3pzQVhneURSbDZEYTJSVzdMRDB2T2llTU1VYlg4WnR3blVlQQ?oc=5"
-    },
-    {
-      "id": "2105fbb61f96",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-10",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano’s police evidence system could bring 1.5 million annual transactions - Crypto News",
-      "title_zh": "Cardano’s police evidence system could bring 1.5 million annual transactions - Crypto News",
-      "summary_en": "Cardano’s police evidence system could bring 1.5 million annual transactions &nbsp;&nbsp; Crypto News",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMndOSDFrT3ZCRWNRSW5mY1hMYVlUTEE0OGRDZFNSQTA2X2hyOWNyeXc2clNYcm5FNHJhSkZzQUlYZDV4UVpQVWJzQ1RBcEpVTDc0bXA0ay1ZUU5GTXAweGhVVkpLVFVxRUNQRDVKMzc2UXpQT004MHlsVjV3RnpGcjhTVTlaQi1LLXVVWW1ONzB0WUs0X2VqSXRvQ20?oc=5"
-    },
-    {
-      "id": "6e6a408fa492",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-09",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Is Down 24% in 30 Days and Bitcoin 8%. Will ADA Ever Recover? - 24/7 Wall St.",
-      "title_zh": "Cardano Is Down 24% in 30 Days and Bitcoin 8%. Will ADA Ever Recover? - 24/7 Wall St.",
-      "summary_en": "Cardano Is Down 24% in 30 Days and Bitcoin 8%. Will ADA Ever Recover? &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY1pCSUJod3N3SnpteWlHdmR1Y0dNaWhSYTU0R0dJLW5IeGhIbXkwenV3bXBDQ1RmZGZzVUc1aUxCSmJMMmJ6SWx6Tk1uaFM1aFZSNXZJVW1wVllRREdUSjcwSVdWX0REQ05tX1p2QTJZcWhBbHpYTWNtTnFsXzFZX09WLTNicmxROUF3aWxtMXBseGJucWJnTWpIRkxQMVpyUjhseXpPbXdRemZHN2wwZ0F0OTRqM0FWYWtjb0EtbWR2Zw?oc=5"
     }
   ]
 }

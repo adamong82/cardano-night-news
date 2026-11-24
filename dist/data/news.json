@@ -1,10 +1,70 @@
 {
   "meta": {
-    "updated_at": "2026-11-24 04:48 UTC",
+    "updated_at": "2026-11-24 19:30 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "eb6d1c0611f9",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-24",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Founder on ADA weak price: Technology Does Not Always Translate to Market Returns - CryptoRank",
+      "title_zh": "Cardano Founder on ADA weak price: Technology Does Not Always Translate to Market Returns - CryptoRank",
+      "summary_en": "Cardano Founder on ADA weak price: Technology Does Not Always Translate to Market Returns &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVc1NVRuc3g2b0l3LURxT0ZPanM4ZHI0WnhxOVpXMzlzU1dCMnFKc3E4OHcySm05NVM5U2JBUTNLTnlpZ3NDYlpUdDlTZHVOOFAzY2xhcndJd1lINFFJTWtnMDZpYlBVVENGVXZqLTdxYTJzd2Q2OVlzZFV3YnhpaUtZOWVTMVExM0txWUNEUWtDb3o3UEJfelEwbEt0YW1VTGFYMjV1SHJWaEtpeTMtUVJtRDd1UElMVExxYlBRZjU3bkRM?oc=5"
+    },
+    {
+      "id": "c3621c68a998",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-24",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano to Close 2026 Developer Survey on November 30th - TradingView",
+      "title_zh": "Cardano to Close 2026 Developer Survey on November 30th - TradingView",
+      "summary_en": "Cardano to Close 2026 Developer Survey on November 30th &nbsp;&nbsp; TradingView",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc1VHSXFZMmxwUlJRcDMwWlVMYWdPdEd6YTNyemx2aFFMRkVFa1FlZEQyd2hhdGhHWTZUalViU0k2WDlXUG1UZGE4UXlibTFRckxWc3hzY0JTRFVtbjl3aEpRbTU4R0trOVBiTXRmci11ZHNBSHVqLWVjcHFBLUNkNFRKa3dEdUNoVC1wOWw5MmdwY19UUDZTNFpVVDlFRW43VnY5NkI4RE9CbER0d3U5OVdwUQ?oc=5"
+    },
+    {
+      "id": "7914fc66f0b0",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-24",
+      "source": "Google News · Cardano",
+      "title_en": "Solada Co-Founder Says Cardano Haters Will Cry When ADA Reaches $5 - Cryptonews.net",
+      "title_zh": "Solada Co-Founder Says Cardano Haters Will Cry When ADA Reaches $5 - Cryptonews.net",
+      "summary_en": "Solada Co-Founder Says Cardano Haters Will Cry When ADA Reaches $5 &nbsp;&nbsp; Cryptonews.net",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rdDYtUUVqZEtySzJ0OGRZUGUyejlybG04SGJtOFU1UXJvaUlXYU1oZ3VwNzlBUC1qMXRxLU5qeTdUX255WHJpY0VyZGpyWEwyaTYxOHpuSkgyZw?oc=5"
+    },
+    {
+      "id": "10499e2626d1",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-24",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano introduces on-chain surveys that anyone can independently verify - Crypto News",
+      "title_zh": "Cardano introduces on-chain surveys that anyone can independently verify - Crypto News",
+      "summary_en": "Cardano introduces on-chain surveys that anyone can independently verify &nbsp;&nbsp; Crypto News",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xVDdxSUc5NEprYk9QcXZrTUJaSnBMeV9DMWtQdDFya1ZrQlNSM2dFbHB2S2Zxd29zWUNRaERlLU1tSkRHQVhiU1lTbFNXU1hibVY4bW50S2cteHE1UFJyMzhXYWNrbF9UOW5OLUFuZnhEQQ?oc=5"
+    },
+    {
+      "id": "c0a6f7f5388c",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-24",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Founder Says Midnight Helped Get ADA Listed on Sony-Backed Exchange in Japan - CryptoRank",
+      "title_zh": "Cardano Founder Says Midnight Helped Get ADA Listed on Sony-Backed Exchange in Japan - CryptoRank",
+      "summary_en": "Cardano Founder Says Midnight Helped Get ADA Listed on Sony-Backed Exchange in Japan &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX0hsb1hzemJvXzNWdkIyTV91UzY5Qlh1Rl9TYjJxdG9VQ3dQcFBpWDU1enNGX1FXUW9JUFdTLTZfX2psbExzTmFNUjRHTm15S0Yxc1BzMmxWRWVWX29DWF93R29NeVE1d2Z2OVpaNGxKbUJjSnBFZjZHTnlUWUtrZFV0M095b3VmMTdob1MwNWJtRDNWMlJ0UmozNWJTZ3JoVlY1OWljaFJzS2FLeUZWQkphRklHUXUyWDczMjlBOA?oc=5"
+    },
     {
       "id": "37209c629ac9",
       "topic": "cardano",
@@ -67,10 +127,10 @@
     },
     {
       "id": "ec3e02b45a54",
-      "topic": "midnight",
+      "topic": "cardano",
       "type": "media",
       "date": "2026-11-23",
-      "source": "Google News · Midnight",
+      "source": "Google News · Cardano",
       "title_en": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month - CryptoRank",
       "title_zh": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month - CryptoRank",
       "summary_en": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month &nbsp;&nbsp; CryptoRank",
@@ -112,6 +172,18 @@
       "summary_en": "$500 in XRP or $500 in Cardano: Which Could Be Worth More in 5 Years? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWRCMmZDVTl0LWlPOG9FU2F2bGxRb0FINnpsaTBDMlBqbF94T3ZWTWRHQWRZVE04SE1iV2NJWXI3RVB5UDc0OXgxSzFDUldiU2x0YkFXRnFpS2pkc2VULTl5ZW9hTl9GQVU2bDlYcVMyR0ZvM3h1S2k2eUd2VE11WmZRbmlBV1k3RUlIUk9RbWdzYUUtTlZyS3dDT0lpZmNuUUZmNGNhT1I4ajlWVUs2Mko4NUxCRkkyNEEtTFBmak83QQ?oc=5"
+    },
+    {
+      "id": "c42a5381b59a",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-11-22",
+      "source": "Google News · Midnight",
+      "title_en": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month - Cryptonews.net",
+      "title_zh": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month - Cryptonews.net",
+      "summary_en": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month &nbsp;&nbsp; Cryptonews.net",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ONi1Jc2FCcm5YQXRBOTNlckRLbDE2VHlIcjhZMU52eTY5cUJSb0gtVVNfWjRzNlg1eFFUUVFMYnBLRTNBSnVaeVU0aTZENnFCeWxBbVRtQW9Idw?oc=5"
     },
     {
       "id": "d9a5b9155e3f",
@@ -196,6 +268,18 @@
       "summary_en": "Midnight (NIGHT) Drops 4.44% Amid Broad Crypto Selloff &nbsp;&nbsp; CoinMarketCap",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TdFBObEVBUjdJZ1V0bnlCTFZMSU0wMVV0dnM1ZDR5aE9mVnBGQmdQYko4UE8weExXY0xfRzdFVUxqZExEVXpaSVJNM2lYTU9UdVh1NGF6ekVJNUlLLUV5ZlJrTzkyUlJYeWFoOHFFSmQ?oc=5"
+    },
+    {
+      "id": "13e4b4d7c442",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-21",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano (ADA) Drops 3.65% Amid Broad Crypto Selloff - CoinMarketCap",
+      "title_zh": "Cardano (ADA) Drops 3.65% Amid Broad Crypto Selloff - CoinMarketCap",
+      "summary_en": "Cardano (ADA) Drops 3.65% Amid Broad Crypto Selloff &nbsp;&nbsp; CoinMarketCap",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84aEVfWDViNDhBdVRHeTFYdS1IcVpSZmd4YkRhQmNoRTVHeFRsQzZJeFFDUTlXUjQ1Tk9UVXJHRzRNX0RTRHU5MDhDYzJpeUgzNGdtQ3NSczE2bnJvQ05jcFNnWkNsazZ0TDk3YUJrdTE?oc=5"
     },
     {
       "id": "a452f34d9abf",
@@ -640,90 +724,6 @@
       "summary_en": "Charles Hoskinson Clashes With Angry ADA Holders Over Promises of Price Gains &nbsp;&nbsp; BeInCrypto",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RMFhhbHVJMmFjb2xzcmM5aHJUM3d2dDNZMzBTTFJyTlhxVFljVi0tbUw5aTNsV3RPb0h2NjJYSnQ1b2pCVVYwSk9FNkh0TlNETy0yX0REeEpKejVfZ0pMd2Y0dnI3aDJpcGstYWtQV08zN2s?oc=5"
-    },
-    {
-      "id": "94c68f2c7499",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-14",
-      "source": "Google News · Cardano",
-      "title_en": "Can Cardano (ADA) Get Back to $1 by 2028? - 24/7 Wall St.",
-      "title_zh": "Can Cardano (ADA) Get Back to $1 by 2028? - 24/7 Wall St.",
-      "summary_en": "Can Cardano (ADA) Get Back to $1 by 2028? &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcFpFRHNNbndNYXphLUtwOS1IY1VMVUN1N2JvU2dhNHpvRnNyMHR2ckEzVXZYMTRvWjJDSHdtUV9SZ3d4SGMxdzNnRFBtM29CdEdQR1VKdWZlc1NkWlRMNlZvOUkyRzVGV3I0bVlEVGRvUHdCMDNZYXdmeENjamZSZ0FLOVBPdXAyZ3JpLU5pR3MtRkc1S21lUzh5XzU?oc=5"
-    },
-    {
-      "id": "9f756cf8b4a1",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-13",
-      "source": "Google News · Cardano",
-      "title_en": "Charles Hoskinson says Cardano is a better store of value than bitcoin - 디지털투데이",
-      "title_zh": "Charles Hoskinson says Cardano is a better store of value than bitcoin - 디지털투데이",
-      "summary_en": "Charles Hoskinson says Cardano is a better store of value than bitcoin &nbsp;&nbsp; 디지털투데이",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdUtqcFlGMU9FVi1VZUdIbUpteE5nanlVLVFOalhsQVhyMkYtMzVJQzdvRjljSUtyeGdSS3JlMGluelE0WWNpWHYzME1DWnVHN2VudlZ2MXczbzBnY0lJQzNRalNuZXBSck9iVGRYUlR3WUswTFA0NzJCc1lfb0REYzJkUmZISDctLVhuWS1Wc1NMNUR4YWtyTGdtQkxLUHpTSXVWODVLMFdNNWpVeDZJbTlOQkRkNnM?oc=5"
-    },
-    {
-      "id": "cb440781cf60",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-13",
-      "source": "Google News · Cardano",
-      "title_en": "Charles Hoskinson says Cardano’s roadmap is complete as ADA holders push back - Crypto Briefing",
-      "title_zh": "Charles Hoskinson says Cardano’s roadmap is complete as ADA holders push back - Crypto Briefing",
-      "summary_en": "Charles Hoskinson says Cardano’s roadmap is complete as ADA holders push back &nbsp;&nbsp; Crypto Briefing",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkNTFGVF9RSFBtN1NtT0lMNzh4aXExbUZnNzA5RVFIY3Z6VnRvYl9fcXNGMUZtVTFleXVRZnpqNDlWeUhFVXhyMG85SXhBeHo5RHE1Z2wzaHVRQWhPR21LZXBySnl1VnZPbDRfei1ELVJVbFBpelAtY09IWQ?oc=5"
-    },
-    {
-      "id": "5051bd6ee5b4",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-13",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Prediction: Where Will Cardano (ADA) Be in 2030? - 24/7 Wall St.",
-      "title_zh": "Cardano Price Prediction: Where Will Cardano (ADA) Be in 2030? - 24/7 Wall St.",
-      "summary_en": "Cardano Price Prediction: Where Will Cardano (ADA) Be in 2030? &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbDVFLUN3QTU4X0Y3bDN6cmQ0YVZrV0lURmxuT1NXbnR3RERzWmlLZDlkQnR3OG1kSUFrMFRrN1p1cC05VU9OODRRMXJ2aFhnMnMzb1d2SUhHNU9zOUFoTWk4emwtNEFHLTRFOHFNdkJRU2pPWFg3ZW42U1d1UWJFMC1PM3VaSG1Vd29hZEUzbkppTlQyVC1NRUFMckdsRTAyM0FYLWloME1OTXhrZWp1Q2l4azcwa0Q4?oc=5"
-    },
-    {
-      "id": "8bc987fa45a7",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-13",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano to Host Meetup in Zürich on November 26th - TradingView",
-      "title_zh": "Cardano to Host Meetup in Zürich on November 26th - TradingView",
-      "summary_en": "Cardano to Host Meetup in Zürich on November 26th &nbsp;&nbsp; TradingView",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnFYUnpENkRfNXo5MU85dkllYTdCMzJlX05iZlA4Nml6U3NFU2tTTE95ZVlGS043T2w1dGl2bklqb2J1SnVPRktZZFppZVBBVk1JXzY5WmYxd2JRenUxeFl4bG1tczdtQUdVenZzbzQ3VjZZbFBPakVjUGdBYUtJcGRqM2xoSmV6OXg2NFF5dXMwVVB0YzJuU2tHMEktUlR1anRjSTJsVlVDYzg?oc=5"
-    },
-    {
-      "id": "016ef5dee2fb",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-11-12",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight (NIGHT) surges 13.15%, leading top cry... - Pluang",
-      "title_zh": "Midnight (NIGHT) surges 13.15%, leading top cry... - Pluang",
-      "summary_en": "Midnight (NIGHT) surges 13.15%, leading top cry... &nbsp;&nbsp; Pluang",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qbWE5NUNJSWdHT2Q4eDF4bVNZaFJHZ0cwUkpfcmV2akxxbE5BWF93aGZFMUw3MExiQTJpVXp3Q1JLNk9FMXlfekdUYzcxQXlZMktQUC0zZnB4ZlpnNzU1eG5rWmxVUWZQQ19haV95NTFnZm9kY0NlcVBZbHJjUQ?oc=5"
-    },
-    {
-      "id": "4d0f1c007a8d",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-12",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Academy launches practicum with on-chain credentials - Crypto News",
-      "title_zh": "Cardano Academy launches practicum with on-chain credentials - Crypto News",
-      "summary_en": "Cardano Academy launches practicum with on-chain credentials &nbsp;&nbsp; Crypto News",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Yd01mMlRoNlJCLU1TT3ZXbG03TXlnRnUwNlk1aENmVnZyZXdSX1ItMnU0THplOUVHaDVSUWNEbE1lcFlDTlVwTzFwR2EtUjZ3Y095V1FfNlpQR1E1Z2U2MDFsZW5LNzdJX09saGlMbUdTNWRk?oc=5"
     }
   ]
 }

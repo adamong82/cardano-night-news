@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-23 20:13 UTC",
+    "updated_at": "2026-11-24 04:48 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -52,6 +52,30 @@
       "summary_en": "Cardano’s $5M event budget faces 5 times more opposition &nbsp;&nbsp; Crypto News",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCeEk3RXhwSjZvaWJTYXZ4dGUtZF9wZ21obVdLdGhzUVJXQ0dkY1huWlkzWWF3b25fd0VwbldFbl9UV3FfblhMMnNfa2ItSTlmaEFmYjBBQVdkcDVydmN5a1ZQX3JRVGJhekpaTmVCZ0t4emdMczRfc1ZSbw?oc=5"
+    },
+    {
+      "id": "ec7e3b04101e",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-23",
+      "source": "Google News · Cardano",
+      "title_en": "What Cardano (ADA) Did After Every 90% Drop From Its All-Time High - 24/7 Wall St.",
+      "title_zh": "What Cardano (ADA) Did After Every 90% Drop From Its All-Time High - 24/7 Wall St.",
+      "summary_en": "What Cardano (ADA) Did After Every 90% Drop From Its All-Time High &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGo4VW1va091RE9PeHRnMk9tV1BqTy0zc190MnFiYXVXVTItYmhXU2M1S1NpbW56dGFCQkl0OWktVnBZbFE3cnlrU0VfcXlJUkJZX3UwT0FLUUZmNUVqYWl6TVp1LTdlSDljazhnbTJ1bEhWdUlRamNzZGR5TENuOGdFZ0RkMVFaU0UwX0xUNVR6a0FKb1BXMUkxT0xKRXJiQWVGUWdITW5oV1pKeFVMWmlndmlKTEJ6eURRS2RJNA?oc=5"
+    },
+    {
+      "id": "ec3e02b45a54",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-11-23",
+      "source": "Google News · Midnight",
+      "title_en": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month - CryptoRank",
+      "title_zh": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month - CryptoRank",
+      "summary_en": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month &nbsp;&nbsp; CryptoRank",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHBZM0pZeGVfMWt6Rk1SVDdqajhYN21KVTVCQXhXRTFFZWpVeE1DN3FxUld1dWR3ZVBjZTRiamVyazFIRmNudVBrSUlKU1p3T21RLThfTGI1STIyandIb2JDM211MnNmaTRCd1g0UklCZmV5aGQ3eDhVajg1NVJwMXNtRlRkUFFmVkYwV0VnODdOc1N0QzhaaGR3d21nVkw1Y3c?oc=5"
     },
     {
       "id": "9c3f0f89857f",
@@ -700,30 +724,6 @@
       "summary_en": "Cardano Academy launches practicum with on-chain credentials &nbsp;&nbsp; Crypto News",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Yd01mMlRoNlJCLU1TT3ZXbG03TXlnRnUwNlk1aENmVnZyZXdSX1ItMnU0THplOUVHaDVSUWNEbE1lcFlDTlVwTzFwR2EtUjZ3Y095V1FfNlpQR1E1Z2U2MDFsZW5LNzdJX09saGlMbUdTNWRk?oc=5"
-    },
-    {
-      "id": "a3530a98e606",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-11",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano open interest rises as ADA drops below $0.175 - CryptoTicker.io",
-      "title_zh": "Cardano open interest rises as ADA drops below $0.175 - CryptoTicker.io",
-      "summary_en": "Cardano open interest rises as ADA drops below $0.175 &nbsp;&nbsp; CryptoTicker.io",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBc211ajlOYy1SRDJpOFQ1Vk9FY2xyQko3ckpLUW9za1IxQU9BSDhYOUgyeFM4cUtUVjdpZnlOaVdoTS1ISmNHM0tVLVM1eksyVmdkYUg5RFdpR09NN1FNMnd1Z0I4OTByZld6UDlFRFYtSlU?oc=5"
-    },
-    {
-      "id": "f219a45fb8ad",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-10",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Price Prediction: Can ADA Reclaim $0.18 as Remittix Earn Offers Up to 21.4% APY Across Supported Options? - TechBullion",
-      "title_zh": "Cardano Price Prediction: Can ADA Reclaim $0.18 as Remittix Earn Offers Up to 21.4% APY Across Supported Options? - TechBullion",
-      "summary_en": "Cardano Price Prediction: Can ADA Reclaim $0.18 as Remittix Earn Offers Up to 21.4% APY Across Supported Options? &nbsp;&nbsp; TechBullion",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd1Y0Y19wblRqTUJ6WElUZUhlUE9OUXRPdU8yTGJsTnZFZzc5UGJDcGhwa0ZpY3pYcGhYd1hYVjJ4c1hxY3EtVWV5T3dYTnBaeE1IUkpJLWpVLUU0UGNJalJFbUJCZHk0Z0p3OWt4cTFCU3RBOXdOTno3dnJSUUEwclB5NC1DVFFXMGloUzNsM1F6WjVQN3NfOGgyQVExMGJBeWg4emJMVmFQZHFEWFA2RXNZbHdoanVpSk9udTJkNGhrZmE1dEF6cWZlSDltd0E?oc=5"
     }
   ]
 }

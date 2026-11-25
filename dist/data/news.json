@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-25 03:32 UTC",
+    "updated_at": "2026-11-25 14:21 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -76,6 +76,18 @@
       "summary_en": "Cardano Reports 97 Completed Milestones as Leios Testnet Achieves Sixfold Capacity &nbsp;&nbsp; Kriptofoni",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMmRaQVpOeWp3em41dUpJREp0Y2E4bnFiNy1BSTUwbWhJYzBzRTVnYjM2WG55ZUt0M0xkS21PdndiSHRjcFpRX3RzX0NjV3V4LVBybWIwTzU4SHZkRGhBVjZKcjF0WWlmeDZ5NGJmbUw5Z2dMeGhwZDh3WUFUTHAySA?oc=5"
+    },
+    {
+      "id": "29bf75144e3a",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-24",
+      "source": "Google News · Cardano",
+      "title_en": "Brale brings custom USD stablecoin issuance to Cardano - Crypto News",
+      "title_zh": "Brale brings custom USD stablecoin issuance to Cardano - Crypto News",
+      "summary_en": "Brale brings custom USD stablecoin issuance to Cardano &nbsp;&nbsp; Crypto News",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPaVlnb2hfOVhibzZBRlZoVUF3cFExd000VXVWTlhFYXAtV2Y1TzEzVkRsc3puZDk5Z0N3UUhqVW1ZUTZKNmI4bTVpTHYxckF1WklWYjAtaGYxN1BRSXpuVEJlQU54S3RW?oc=5"
     },
     {
       "id": "37209c629ac9",
@@ -712,18 +724,6 @@
       "summary_en": "Cardano Founder Says He Never Promised ADA Would Rise, as ADA is Down 95% &nbsp;&nbsp; Coinpedia",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGh0Ull4dHdfNExaQXN0Y2E3a0xfU1RZdUJVSm56d1ZWdmF0ckNveDZrWmtwWVNicGZXTDR0dTdOcWhtX29MbWFLVUMwdW9OUnB6d09kVTV2NzRwTktZZlFjZ195MEExaUZZMVhaRGVLOVZUM3RPdk5fb3VVeE9ZbEVWOW5acThqc3RNWVNyVl9ESUs2R0VRQ3dFUko5M25Y0gGmAUFVX3lxTE5mMkFIbUZidWxQUXpiLU01V2k0MUZ3Y2JxNUcxdk5SLTBpa3hNNjljOFppc0R2LXcyMlNFQmlMcW1LMEIxekU3ZnNMV2hTU3NoNlZZdE9aMmhqOXQtY3drYnRUV0FIb2QxVXRjX0MyODcxNm5fbE5RU3FnelVnaWh6a3NTNUJBQm83Y1pIN3pnd3JvdGw3SE9SZHFUdUloMGlkN1p6TFE?oc=5"
-    },
-    {
-      "id": "0b35d40829b3",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-14",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Founder Says He Never Promised ADA Would Rise, as ADA is Down 95% - Coinpedia",
-      "title_zh": "Cardano Founder Says He Never Promised ADA Would Rise, as ADA is Down 95% - Coinpedia",
-      "summary_en": "Cardano Founder Says He Never Promised ADA Would Rise, as ADA is Down 95% &nbsp;&nbsp; Coinpedia",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGh0Ull4dHdfNExaQXN0Y2E3a0xfU1RZdUJVSm56d1ZWdmF0ckNveDZrWmtwWVNicGZXTDR0dTdOcWhtX29MbWFLVUMwdW9OUnB6d09kVTV2NzRwTktZZlFjZ195MEExaUZZMVhaRGVLOVZUM3RPdk5fb3VVeE9ZbEVWOW5acThqc3RNWVNyVl9ESUs2R0VRQ3dFUko5M25Y0gHXAUFVX3lxTE5qQU9KT0pxNXNndVpteFV4N18zWGEtX09oTzcyclV3SDNuWkc2NmhNMGQyZ2pPWDZsUmQxcTZvTU5sMjR6Ti05bVJVck0xdFpRcHFiSXlpY1BpWTg2LXFiZ1c3RDlxekdZZzBaMXlibkJzSlZOd0diMy1vUGdWTDVabUw1aHdBYkdfRHVxUy1YOFBiMUktYm1KTGZNSExSYTlKSV9kVHlkTFhVUzBaeVFTZUpSZFR2dGdNRnl1T011MDl1QVMtdW1rbjgtcmVQSXB0RzZuVGFv?oc=5"
     }
   ]
 }

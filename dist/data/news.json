@@ -1,10 +1,34 @@
 {
   "meta": {
-    "updated_at": "2026-11-26 00:20 UTC",
+    "updated_at": "2026-11-26 13:53 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "b319a346d1e4",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-26",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano’s Mithril Technology to Be Showcased in Public Demonstration Today - Kriptofoni",
+      "title_zh": "Cardano’s Mithril Technology to Be Showcased in Public Demonstration Today - Kriptofoni",
+      "summary_en": "Cardano’s Mithril Technology to Be Showcased in Public Demonstration Today &nbsp;&nbsp; Kriptofoni",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FQ3RJZ0c0MFlRemhCMHhBRzhBLThOYXI1R0Y1N0pPVTBxenhvaXZOdkhDUnNKeFhQRkVsWlB1VFl6bVBfMi1rbmZudmtVQVRvM3dOUHlHcXZlWWI0WndHMm5lZFRuUGpXR2F4dnpWM1ZKRi1lY3VMX3JUQQ?oc=5"
+    },
+    {
+      "id": "7ad857c8ad25",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-11-26",
+      "source": "Google News · Midnight",
+      "title_en": "Binance Launches 5 Million NIGHT Token Rewards Campaign Featuring XRP and Midnight - Kriptofoni",
+      "title_zh": "Binance Launches 5 Million NIGHT Token Rewards Campaign Featuring XRP and Midnight - Kriptofoni",
+      "summary_en": "Binance Launches 5 Million NIGHT Token Rewards Campaign Featuring XRP and Midnight &nbsp;&nbsp; Kriptofoni",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LZTBTbkFiSG1nUVNweFhibWFxMllTejhZMDBDc0Q3RGx6Ti1jeVp2cTNFMVprcUtNeEZHQi1SNGJXaDZpYXdzekFzakxrcHEwaFVNS1lHa3V2R3hiYnAzM0F4OGI0c1l2N3l0TXRPbTBwSTVCY053ZkZ3Sl9ndjA?oc=5"
+    },
     {
       "id": "b952f1dbc43d",
       "topic": "cardano",
@@ -186,6 +210,18 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUHBZM0pZeGVfMWt6Rk1SVDdqajhYN21KVTVCQXhXRTFFZWpVeE1DN3FxUld1dWR3ZVBjZTRiamVyazFIRmNudVBrSUlKU1p3T21RLThfTGI1STIyandIb2JDM211MnNmaTRCd1g0UklCZmV5aGQ3eDhVajg1NVJwMXNtRlRkUFFmVkYwV0VnODdOc1N0QzhaaGR3d21nVkw1Y3c?oc=5"
     },
     {
+      "id": "c42a5381b59a",
+      "topic": "midnight",
+      "type": "media",
+      "date": "2026-11-23",
+      "source": "Google News · Midnight",
+      "title_en": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month - Cryptonews.net",
+      "title_zh": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month - Cryptonews.net",
+      "summary_en": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month &nbsp;&nbsp; Cryptonews.net",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ONi1Jc2FCcm5YQXRBOTNlckRLbDE2VHlIcjhZMU52eTY5cUJSb0gtVVNfWjRzNlg1eFFUUVFMYnBLRTNBSnVaeVU0aTZENnFCeWxBbVRtQW9Idw?oc=5"
+    },
+    {
       "id": "9c3f0f89857f",
       "topic": "midnight",
       "type": "media",
@@ -220,18 +256,6 @@
       "summary_en": "$500 in XRP or $500 in Cardano: Which Could Be Worth More in 5 Years? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcWRCMmZDVTl0LWlPOG9FU2F2bGxRb0FINnpsaTBDMlBqbF94T3ZWTWRHQWRZVE04SE1iV2NJWXI3RVB5UDc0OXgxSzFDUldiU2x0YkFXRnFpS2pkc2VULTl5ZW9hTl9GQVU2bDlYcVMyR0ZvM3h1S2k2eUd2VE11WmZRbmlBV1k3RUlIUk9RbWdzYUUtTlZyS3dDT0lpZmNuUUZmNGNhT1I4ajlWVUs2Mko4NUxCRkkyNEEtTFBmak83QQ?oc=5"
-    },
-    {
-      "id": "c42a5381b59a",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-11-22",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month - Cryptonews.net",
-      "title_zh": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month - Cryptonews.net",
-      "summary_en": "Midnight (NIGHT) Outperforms Cardano for Third Consecutive Month &nbsp;&nbsp; Cryptonews.net",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ONi1Jc2FCcm5YQXRBOTNlckRLbDE2VHlIcjhZMU52eTY5cUJSb0gtVVNfWjRzNlg1eFFUUVFMYnBLRTNBSnVaeVU0aTZENnFCeWxBbVRtQW9Idw?oc=5"
     },
     {
       "id": "d9a5b9155e3f",
@@ -700,30 +724,6 @@
       "summary_en": "What Could $1,000 in Cardano (ADA) Be Worth by 2028? &nbsp;&nbsp; 24/7 Wall St.",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZE0td0NTZHJCS241LWFFS1JTdnp6cGwyMXQ5V093RXBwcHEwNklWUlFwRTFYa3B1WTM5R0V5RVBfdDF0SlF5MExzNzVNYWVPSlJVZnllREN0alRaOURGeHhEUkpxazlSRUxKNGtxa3hKVzNSNjlLaHdOM1dsSlJJZFJDd0JBWXNwTmc1TVRtWFg2WWpERzU1SnR0OWlCell2WmpwWnZCeF9BQQ?oc=5"
-    },
-    {
-      "id": "46b78659e0bc",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-15",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Voters Reject 22,000,000 ADA Copper Reserve - CryptoRank",
-      "title_zh": "Cardano Voters Reject 22,000,000 ADA Copper Reserve - CryptoRank",
-      "summary_en": "Cardano Voters Reject 22,000,000 ADA Copper Reserve &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRWxobzJLNkZYTFhpaGNhclc0RHhQOXIzVHNlUldKT3l6U254aW5EM2VrSWVmakhMWEdfYmhMNVJwT213SmV3MWtSclNSX3Zaa2liTUlFUy12OXpHRC1QVmdNd0VRNjJOeEhpS2Q3X2l0UDhIVW1mVmlaYUtDRktMT1BEVG9KRF93NjVXUk02aXg?oc=5"
-    },
-    {
-      "id": "85b24ceebb3a",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-11-15",
-      "source": "Google News · Midnight",
-      "title_en": "Cardano Midnight Price Prediction: Here is NIGHT token Price if It Enters Top 10 - CryptoRank",
-      "title_zh": "Cardano Midnight Price Prediction: Here is NIGHT token Price if It Enters Top 10 - CryptoRank",
-      "summary_en": "Cardano Midnight Price Prediction: Here is NIGHT token Price if It Enters Top 10 &nbsp;&nbsp; CryptoRank",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXdTTGlJdE5nVG1BNkMwNHNzMjZlWDl0cjVhRWRSa0QxbU8zeUl4ZE9GalJLVkx2MVBjcHp3MnFtS05waUtmN08zb0VIOHRwV1gxaEVJcXdaNkZSeV93VmR1NlBqbVFmLS02UDRCYWlSYmk1OVg3OTQ2ZHNWR0lxN0VqSy1SUkRxRjR2eEp1NTlmODVkeTVCZkQ0MFZWWWxZajRlb19BQVc1aThndVVSS3U4WVFQcEZH?oc=5"
     }
   ]
 }

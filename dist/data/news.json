@@ -1,10 +1,34 @@
 {
   "meta": {
-    "updated_at": "2026-11-25 14:21 UTC",
+    "updated_at": "2026-11-26 00:20 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
   "items": [
+    {
+      "id": "b952f1dbc43d",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-25",
+      "source": "Google News · Cardano",
+      "title_en": "AI Cardano Price Prediction: Claude AI Predicts ADA’s Price for 2027 - 24/7 Wall St.",
+      "title_zh": "AI Cardano Price Prediction: Claude AI Predicts ADA’s Price for 2027 - 24/7 Wall St.",
+      "summary_en": "AI Cardano Price Prediction: Claude AI Predicts ADA’s Price for 2027 &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVR6ZE5wbkxUYTJjWnVlaTBxcmJpRmNvRTZVaHNLSkhrNG03MDA2NjBqZC1QUU5nc3F1S09kbmVSdFBpSVlsUHJ5SVY5M1BQQktSdHhaa0dGREVvb0l2LTl3RGppLTRVRlBMOEx4TG93ZldicDZRWEVubmFld1Y3bjlwd2Rwc05ZOVpLWm56NnJIYmlPUEhfbnVpZy1jd1o5bWQ1Qnd4RWJqNDlBMjlud1QzX0Z5aEh0c0p1ckMxSlNjRGs?oc=5"
+    },
+    {
+      "id": "e0e77e197638",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-25",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Among Four Cryptos Selected by €676B German Banking Group - Cryptonews.net",
+      "title_zh": "Cardano Among Four Cryptos Selected by €676B German Banking Group - Cryptonews.net",
+      "summary_en": "Cardano Among Four Cryptos Selected by €676B German Banking Group &nbsp;&nbsp; Cryptonews.net",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZQmJjWlZFbENLRF9SbmVXdHFSOHRRRlp3Smx4NDJ0Z0JjWHdyZmhaREdqdnNrQkxwLVBYVDZWdTNzNWI0UC04WExJd2JZMzUwb3ZRekE1RXoyZw?oc=5"
+    },
     {
       "id": "eb6d1c0611f9",
       "topic": "cardano",
@@ -700,30 +724,6 @@
       "summary_en": "Cardano Midnight Price Prediction: Here is NIGHT token Price if It Enters Top 10 &nbsp;&nbsp; CryptoRank",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWXdTTGlJdE5nVG1BNkMwNHNzMjZlWDl0cjVhRWRSa0QxbU8zeUl4ZE9GalJLVkx2MVBjcHp3MnFtS05waUtmN08zb0VIOHRwV1gxaEVJcXdaNkZSeV93VmR1NlBqbVFmLS02UDRCYWlSYmk1OVg3OTQ2ZHNWR0lxN0VqSy1SUkRxRjR2eEp1NTlmODVkeTVCZkQ0MFZWWWxZajRlb19BQVc1aThndVVSS3U4WVFQcEZH?oc=5"
-    },
-    {
-      "id": "625e892de3dc",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-14",
-      "source": "Google News · Cardano",
-      "title_en": "What Could 5,000 XRP, 5,000 Cardano and 5,000 Stellar Be Worth by 2028? - 24/7 Wall St.",
-      "title_zh": "What Could 5,000 XRP, 5,000 Cardano and 5,000 Stellar Be Worth by 2028? - 24/7 Wall St.",
-      "summary_en": "What Could 5,000 XRP, 5,000 Cardano and 5,000 Stellar Be Worth by 2028? &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONlg4Z0JyT2t2OFFrLXhRUlJuc3hIc0xGbUNaY182aExkVi1kdmdJNW1FcHZOVkV3UkE4ODNGR09VRzZjT1RoNm9uY1Zld3ZrcHR1UEVHQnNneXdEcjhlYVQ1eGstcS1DUEVoYy0zS0dSelNKN1FHVktGQmFQSWJrX3FkMnV5ZHJsanp0NzhJcUdTclBFSC1BQWhxN3h5YVdNaEhjcGlYOHdZNjUzaE9OZUJBQi1VZG9hOHVwY3dTOHVuODg?oc=5"
-    },
-    {
-      "id": "dd13c0f8cfaa",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-14",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano Founder Says He Never Promised ADA Would Rise, as ADA is Down 95% - Coinpedia",
-      "title_zh": "Cardano Founder Says He Never Promised ADA Would Rise, as ADA is Down 95% - Coinpedia",
-      "summary_en": "Cardano Founder Says He Never Promised ADA Would Rise, as ADA is Down 95% &nbsp;&nbsp; Coinpedia",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdGh0Ull4dHdfNExaQXN0Y2E3a0xfU1RZdUJVSm56d1ZWdmF0ckNveDZrWmtwWVNicGZXTDR0dTdOcWhtX29MbWFLVUMwdW9OUnB6d09kVTV2NzRwTktZZlFjZ195MEExaUZZMVhaRGVLOVZUM3RPdk5fb3VVeE9ZbEVWOW5acThqc3RNWVNyVl9ESUs2R0VRQ3dFUko5M25Y0gGmAUFVX3lxTE5mMkFIbUZidWxQUXpiLU01V2k0MUZ3Y2JxNUcxdk5SLTBpa3hNNjljOFppc0R2LXcyMlNFQmlMcW1LMEIxekU3ZnNMV2hTU3NoNlZZdE9aMmhqOXQtY3drYnRUV0FIb2QxVXRjX0MyODcxNm5fbE5RU3FnelVnaWh6a3NTNUJBQm83Y1pIN3pnd3JvdGw3SE9SZHFUdUloMGlkN1p6TFE?oc=5"
     }
   ]
 }

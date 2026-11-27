@@ -1,6 +1,6 @@
 {
   "meta": {
-    "updated_at": "2026-11-26 13:53 UTC",
+    "updated_at": "2026-11-27 00:34 UTC",
     "method": "RSS + Midnight-bound keyword filter + URL/title SHA-1 dedupe",
     "note": "价格与观点类内容仅作报道，不等于事实确认或投资建议"
   },
@@ -28,6 +28,54 @@
       "summary_en": "Binance Launches 5 Million NIGHT Token Rewards Campaign Featuring XRP and Midnight &nbsp;&nbsp; Kriptofoni",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LZTBTbkFiSG1nUVNweFhibWFxMllTejhZMDBDc0Q3RGx6Ti1jeVp2cTNFMVprcUtNeEZHQi1SNGJXaDZpYXdzekFzakxrcHEwaFVNS1lHa3V2R3hiYnAzM0F4OGI0c1l2N3l0TXRPbTBwSTVCY053ZkZ3Sl9ndjA?oc=5"
+    },
+    {
+      "id": "1b7e57bc39d7",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-26",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano Price Prediction: Where Could ADA Be by the End of 2027? - 24/7 Wall St.",
+      "title_zh": "Cardano Price Prediction: Where Could ADA Be by the End of 2027? - 24/7 Wall St.",
+      "summary_en": "Cardano Price Prediction: Where Could ADA Be by the End of 2027? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3gxc3h3REhnWEY3OUxBQkZRNlZyM1BPVW5jWlhZNUhheFJBRGo5ZXpCMllUZjBMbVgwVUVzYW5TS3hPLUZ1eDFyYnNQX0F3eEtKM0xjWlB1Nm54YVNmcU5RYnBkUWh5Z0pta3dmM2gzUV9mQ1NFc1c5OXNlNGNnTV9CRHJzMjk3czlJeFVBd3hpbU1YQmpPME1MNExiS0VRUjRuOEtMYlgzeERCQTRtTXBWdEJHUmwteDR2UW5n?oc=5"
+    },
+    {
+      "id": "fb69b5c03924",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-26",
+      "source": "Google News · Cardano",
+      "title_en": "Cardano to Participate in Blockchain Life 2026 in Dubai on December 2nd - TradingView",
+      "title_zh": "Cardano to Participate in Blockchain Life 2026 in Dubai on December 2nd - TradingView",
+      "summary_en": "Cardano to Participate in Blockchain Life 2026 in Dubai on December 2nd &nbsp;&nbsp; TradingView",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON25FcEU0b1l3SUdQaHVsbWg4cllMVTF3dm95ZWFqbmxOYkRHUFVTSUpZcVZacnd5dzlVb0hOV2cySW81TUFfRG5sZkpWcUlnSU92WFhGNEhuT3pTWEdaZmt4VzJBU2Fpd2Z6UzJ0Nmx3bnJoNzNleGp4eTYzZm1TTW14aEpUdWNZcXp4VGNETms5RWF3Y3BISUx6V1l6V0tBOUV1SVZCcnlSelRrclFQZmN1VGFsb0MyMHNmM3NFSzRMZmNIeDUzVA?oc=5"
+    },
+    {
+      "id": "f5a788fa8b8b",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-26",
+      "source": "Google News · Cardano",
+      "title_en": "XRP, Cardano or Stellar: Which Could Double First in 2027? - 24/7 Wall St.",
+      "title_zh": "XRP, Cardano or Stellar: Which Could Double First in 2027? - 24/7 Wall St.",
+      "summary_en": "XRP, Cardano or Stellar: Which Could Double First in 2027? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS1ZyN3JzOENfdHZTYUc3anNFYWZGZVZnVjlBRHZ3MmpKZkRrTV9ra21IbVVaS0V1V2VQN3pBYV9acDFVU0t3VUsyeWZpOVY5anQySDFrQy1zRXEzZF84dzJVcGJ4b1VNRk9waUZuSmpoamlmUnFtUmJUMXlDa2UtVkRkZDZjUFNTdkxkZTB6YmxOY3F4Q0t6ZjM2ekVBbHNvT3U1WnFQeVoybTBtTVQ2OUd1dkg?oc=5"
+    },
+    {
+      "id": "4803251098f6",
+      "topic": "cardano",
+      "type": "media",
+      "date": "2026-11-26",
+      "source": "Google News · Cardano",
+      "title_en": "Which Crypto Under 50 Cents Has the Best Path to $1? - 24/7 Wall St.",
+      "title_zh": "Which Crypto Under 50 Cents Has the Best Path to $1? - 24/7 Wall St.",
+      "summary_en": "Which Crypto Under 50 Cents Has the Best Path to $1? &nbsp;&nbsp; 24/7 Wall St.",
+      "summary_zh": "原文摘要（中文待人工复核）",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc2JPcGNRN3A3VE15Y1JwV0hiUURPek40TG9aWnF4R0VOdnNmTWYwMEVmeUdxbUJPcUIzSFg5ZjNjQlBZYUpHbEVPdldDc3NlcVdLV0JRMkc0RkhGTTNwVHZiUG9odW9rY0NuSjliUmtza2U1UV9VMElPUU91OFRYdXJWTmVydHVZRDFxWHlMelhiRUtqMHlfUjB2d1dsZklhS1pZQU1WUUE5d0NlM2c?oc=5"
     },
     {
       "id": "b952f1dbc43d",
@@ -676,54 +724,6 @@
       "summary_en": "Midnight Price, NIGHT Price, Live Charts, and Marketcap: midnight chart, midnight crypto price, night coin - Coinbase India &nbsp;&nbsp; Coinbase",
       "summary_zh": "原文摘要（中文待人工复核）",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSQ1p4Z3gtLXpST09BTlBOdy1WQ3hpdHRZal8zOWxvV1l4Vy12M2Y3NVA5VXpmUkpvY0JUV2JEeGJYLXpzdDd0SGJxZ3ZuaTF5UGtlLTJfME9OaUl0S09XYmc2SQ?oc=5"
-    },
-    {
-      "id": "52d1e48b217b",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-11-16",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight Price, NIGHT Price, Live Charts, and Marketcap: midnight-network price, Midnight price, NIGHT price - Coinbase Germany - Coinbase",
-      "title_zh": "Midnight Price, NIGHT Price, Live Charts, and Marketcap: midnight-network price, Midnight price, NIGHT price - Coinbase Germany - Coinbase",
-      "summary_en": "Midnight Price, NIGHT Price, Live Charts, and Marketcap: midnight-network price, Midnight price, NIGHT price - Coinbase Germany &nbsp;&nbsp; Coinbase",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rdGFjZ1puMUk0d3N5b245MENQREZRM0pNLS1GaVNTTXFHMHF5bDhDQWdPMWZfVGdLVGczMnRpUlpjbVFYN0Jha2hwMHB1QWhmM2NQMnhmM3Utd3owcktaaXdDOA?oc=5"
-    },
-    {
-      "id": "f86879f603e0",
-      "topic": "midnight",
-      "type": "media",
-      "date": "2026-11-16",
-      "source": "Google News · Midnight",
-      "title_en": "Midnight Price, NIGHT Price, Live Charts, and Marketcap: midnight coin price, night crypto - Coinbase Australia - Coinbase",
-      "title_zh": "Midnight Price, NIGHT Price, Live Charts, and Marketcap: midnight coin price, night crypto - Coinbase Australia - Coinbase",
-      "summary_en": "Midnight Price, NIGHT Price, Live Charts, and Marketcap: midnight coin price, night crypto - Coinbase Australia &nbsp;&nbsp; Coinbase",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rZEtXbVM0clFLNFFWYk5YVWZGN0d1eVBXVGdyNl9MM1ZVbXd3Qm9aQTg4RHNCQnljdzJwWXowaGs1cGxpaldkNlg4MGF3Z0M2bEs3N3MyNlF1ZHExODhPRFVfZw?oc=5"
-    },
-    {
-      "id": "1d97b467603f",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-15",
-      "source": "Google News · Cardano",
-      "title_en": "Cardano founder Charles Hoskinson draws backlash as ADA price drops 8% - Crypto News",
-      "title_zh": "Cardano founder Charles Hoskinson draws backlash as ADA price drops 8% - Crypto News",
-      "summary_en": "Cardano founder Charles Hoskinson draws backlash as ADA price drops 8% &nbsp;&nbsp; Crypto News",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkNzJVT3NlcDBLX3Q2OVN1M3RHX1NNQ3RFZ2NKamxDclFwOTFudFItUkZNWFdmMFVDRjVoRHYtNTRnS2EzZEVRQ0RBU29sNzVic1Y2eDI4V0hDSmJ6cV82cTVYQk0tSjBLQ3NLdWNhUEJlNUtz?oc=5"
-    },
-    {
-      "id": "de8efd537133",
-      "topic": "cardano",
-      "type": "media",
-      "date": "2026-11-15",
-      "source": "Google News · Cardano",
-      "title_en": "What Could $1,000 in Cardano (ADA) Be Worth by 2028? - 24/7 Wall St.",
-      "title_zh": "What Could $1,000 in Cardano (ADA) Be Worth by 2028? - 24/7 Wall St.",
-      "summary_en": "What Could $1,000 in Cardano (ADA) Be Worth by 2028? &nbsp;&nbsp; 24/7 Wall St.",
-      "summary_zh": "原文摘要（中文待人工复核）",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZE0td0NTZHJCS241LWFFS1JTdnp6cGwyMXQ5V093RXBwcHEwNklWUlFwRTFYa3B1WTM5R0V5RVBfdDF0SlF5MExzNzVNYWVPSlJVZnllREN0alRaOURGeHhEUkpxazlSRUxKNGtxa3hKVzNSNjlLaHdOM1dsSlJJZFJDd0JBWXNwTmc1TVRtWFg2WWpERzU1SnR0OWlCell2WmpwWnZCeF9BQQ?oc=5"
     }
   ]
 }
